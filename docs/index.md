@@ -66,19 +66,19 @@ W 09/11/2019  | Functions & The `math` module           | [3.1-3.3]             
 
 ### Lab Schedule
 
-Date         | Lab                                     | Reading/Preparation<br>Before Lab   | Assignment<br>In/After Lab
----          | ---                                     | ---                                 | ---
-01/21/2020   | Digital Electronics and Switching       |
-01/28/2020   | CMOS Transistors and Logic Gates        |
-02/04/2020   | Integrated Circuits                     |
-02/11/2020   | DRAM and SRAM Memory Cells              |
-02/18/2020   | A Simple Programmable Machine           |
-02/25/2020   | Assembly Programming Challenges         |
-03/03/2020   | Bootstrapping a Machine & BIOS          |
-03/17/2020   | System Calls and User Libraries         |
-03/24/2020   | Writing Workshop                        |
-03/31/2020   | Application Layer Protocols             |
-04/07/2020   | A Simple Web Server                     |
+Date         | Lab                                             | Reading/Preparation<br>Before Lab   | Assignment<br>In/After Lab
+---          | ---                                             | ---                                 | ---
+01/21/2020   | Lab 01: Digital Electronics and Switching       |
+01/28/2020   | Lab 02: CMOS Transistors and Logic Gates        |
+02/04/2020   | Lab 03: Integrated Circuits                     |
+02/11/2020   | Lab 04: DRAM and SRAM Memory Cells              |
+02/18/2020   | Lab 05: A Simple Programmable Machine           |
+02/25/2020   | Lab 06: Assembly Programming Challenges         |
+03/03/2020   | Lab 07: Bootstrapping a Machine & BIOS          |
+03/17/2020   | Lab 08: System Calls and User Libraries         |
+03/24/2020   | Lab 09: Writing Workshop                        |
+03/31/2020   | Lab 10: Application Layer Protocols             |
+04/07/2020   | Lab 11: A Simple Web Server                     |
 ...          |
 
 ___
