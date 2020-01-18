@@ -64,13 +64,12 @@ __Instructional Elements:__
     1. Consult the posted solution to see if it makes sense. If it does, don't stop there. Instead put the solution away and try to reconstruct the solution for yourself.
     1. If the solution doesn't make sense, you have trouble reconstructing the solution, or don't see how it differs from your solution, reread the associated materials, review your class notes, rework any related examples that were done in class.  Then goto step 1 above.
     1. If 1-3 don't do the trick consult your classmates and visit the instructor's office hours with some well formed questions about the problem. Some templates for well formed questions include:  
-
-      - This problem looks similar to this example we did in class but I don't quite understand this part of that example.
-      - I've reviewed the solution to this problem and can't see how my solution differs.
-      - I don't understand this part of the posted solution to this problem.
-      - I approached this problem in a different way than the solutions, is it a valid approach?
-      - I still don't know how to approach this problem. I've thought about trying approaches X, Y, Z (be prepared to explain why they don't seem to work).  Can you give me an idea about how to get started?
-      - ...  
+       - This problem looks similar to this example we did in class but I don't quite understand this part of that example.
+       - I've reviewed the solution to this problem and can't see how my solution differs.
+       - I don't understand this part of the posted solution to this problem.
+       - I approached this problem in a different way than the solutions, is it a valid approach?
+       - I still don't know how to approach this problem. I've thought about trying approaches X, Y, Z (be prepared to explain why they don't seem to work).  Can you give me an idea about how to get started?
+       - ...  
     1. Return to step 1 above.
 
 - __Laboratory Assignments:__ Lab assignments will be given weekly via the course schedule on the main course page. The schedule may also indicate reading or other preparation that is to be completed prior to the lab period.  The assignment will appear on the date of the lab period and will be due prior to the subsequent lab period. It is expected some lab assignments will require additional work outside of class in the week following the scheduled lab period.
@@ -85,7 +84,7 @@ __Academic Integrity:__ Please take the time to read Dickinson's position on Aca
 
 __Intellectual Property Rights:__ Audio or video recording of class meetings, lectures or discussions is prohibited without explicit permission of the instructor. Photographic records of whiteboards, projected slides or other visual media is also prohibited without explicit permission of the instructor. In any case where permission is given for audio/video/photographic records to be made they are for personal use only. They may not be shared or redistributed and must be destroyed at the end of their usefulness or within one week following the termination of this course, whichever comes first. Similarly, any redistribution of sample code, homework solution sets or provided lab materials is prohibited.
 
-__Accommodations for Students with Disabilities:__ Dickinson values diverse types of learners and is committed to ensuring that each student is afforded equitable access to participate in all learning experiences. If you have (or think you may have) a learning difference or a disability – including a mental health, medical, or physical impairment – that would hinder your access to learning or demonstrating knowledge in this class, please contact Access and Disability Services (ADS).  They will confidentially explain the accommodation request process and the type of documentation that Dean and Director Marni Jones will need to determine your eligibility for reasonable accommodations. To learn more about available supports, go to [www.dickinson.edu/access](www.dickinson.edu/access), email [access@dickinson.edu](mailto:access@dickinson.edu), call (717) 245-1734, or go to ADS in Old West (lower level), Room 005.
+__Accommodations for Students with Disabilities:__ Dickinson values diverse types of learners and is committed to ensuring that each student is afforded equitable access to participate in all learning experiences. If you have (or think you may have) a learning difference or a disability – including a mental health, medical, or physical impairment – that would hinder your access to learning or demonstrating knowledge in this class, please contact Access and Disability Services (ADS).  They will confidentially explain the accommodation request process and the type of documentation that Dean and Director Marni Jones will need to determine your eligibility for reasonable accommodations. To learn more about available supports, go to [www.dickinson.edu/access](https://www.dickinson.edu/access), email [access@dickinson.edu](mailto:access@dickinson.edu), call (717) 245-1734, or go to ADS in Old West (lower level), Room 005.
 
 If you’ve already been granted accommodations at Dickinson, please let me know as soon as possible so that we can meet soon to review your Accommodation Letter and complete your Blue Forms. If you will need test proctoring from ADS, remember that you will need to provide them with at least one week's notice.
 
