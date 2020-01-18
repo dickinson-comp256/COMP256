@@ -63,8 +63,7 @@ __Instructional Elements:__
     1. Think about the activity or exercise again. Sometimes they make more sense after you've been away from it for a few days. If it seems to make more sense, attempt it again before consulting the solutions.
     1. Consult the posted solution to see if it makes sense. If it does, don't stop there. Instead put the solution away and try to reconstruct the solution for yourself.
     1. If the solution doesn't make sense, you have trouble reconstructing the solution, or don't see how it differs from your solution, reread the associated materials, review your class notes, rework any related examples that were done in class.  Then goto step 1 above.
-    1. If 1-3 don't do the trick consult your classmates and visit the instructor's office hours with some well formed questions about the problem. Some templates for well formed questions include:
-    
+    1. If 1-3 don't do the trick consult your classmates and visit the instructor's office hours with some well formed questions about the problem. Some templates for well formed questions include:  
       - This problem looks similar to this example we did in class but I don't quite understand this part of that example.
       - I've reviewed the solution to this problem and can't see how my solution differs.
       - I don't understand this part of the posted solution to this problem.
