@@ -6,6 +6,8 @@ __Spring 2020 Sections:__
 __Textbook:__  
   - None. Materials will be distributed via this site of or via Moodle.
 
+__Important Dates:__ A full schedule for the course, including exam dates and all assignment due dates can be found on the [course home page](index.md).
+
 __Course Description:__
 A broad examination of the role and evolution of the abstraction hierarchies that enable the construction of complex computing systems. Examples spanning the field of computer science will be used, including: machine organization and architecture, data representation, language translation, operating systems, concurrency, networks, and web application architectures.
 
