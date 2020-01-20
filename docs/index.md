@@ -62,13 +62,6 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Boolean Logic & Logic Gates]: https://www.youtube.com/watch?v=gI-qXk7XojA
 
 
-<!--
-W 09/11/2019  | Functions & The `math` module           | [3.1-3.3]                             | [Class05]<br>Due: 09/13 8:00am
-
-[Class04]: https://github.com/dickinson-comp130/Class04/archive/f19.zip
-
--->
-
 ### Lab Schedule
 
 Date         | Lab                                             | Reading/Preparation<br>Before Lab   | Assignment<br>In/After Lab
