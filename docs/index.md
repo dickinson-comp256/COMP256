@@ -11,8 +11,6 @@
 - [logisim-evolution.jar](http://reds-data.heig-vd.ch/logisim-evolution/logisim-evolution.jar)
   - Circuit simulator used in homework and labs.
   - Download and then run with: `java -jar logisim-evolution.jar`
-  - logicsim-evolution
-- More on the way.
 
 ### Important Dates
 
@@ -57,7 +55,7 @@ W 04/22/2020 | __Exam #2__ (TBA)
 R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 |
 
-[Class01]: slides/class01.pdf
+[Class01]: slides/01-HardwareAbstractions.pdf
 [HW01]: homework/hw01.md
 [Early Computing]: https://www.youtube.com/watch?v=O5nskjZ_GoI
 [Electronic Computing]: https://www.youtube.com/watch?v=LN0ucKNX0hc
