@@ -79,7 +79,7 @@ Date         | Lab                                             | Reading/Prepara
 04/07/2020   | Lab 11: A Simple Web Server                     |
 ...          |
 
-[Lab01]: labs/lab01.pdf
+[Lab01]: labs/Lab01.pdf
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
