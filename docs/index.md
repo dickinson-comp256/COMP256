@@ -20,11 +20,11 @@
 
 ### Class Schedule
 
-Date         | Topic                                      | Reading/Preparation<br>Before Class              | Slides          | Assignment
----          | ---                                        | ---                                              | ---             | ---
-M 01/20/2020 | __Hardware Abstractions__                  | Watch [Early Computing], [Electronic Computing]  | [Class01]       | [HW01] 01/27
-W 01/22/2020 | Transistors to Logic Gates                 | Watch [Boolean Logic & Logic Gates]              | TBA             | [HW01] 01/27
-F 01/24/2020 | Logic Gates to Logic Circuits              | TBA                                              | TBA             | [HW01] 01/27
+Date         | Topic                                      | Reading/Preparation<br>Before Class                     | Slides          | Assignment
+---          | ---                                        | ---                                                     | ---             | ---
+M 01/20/2020 | __Hardware Abstractions__                  | Watch [Early Computing], [Electronic Computing]         | [Class01]       | [HW01] 01/27
+W 01/22/2020 | Transistors to Logic Gates                 | Watch [Boolean Logic & Logic Gates], Read [Logic Gates] | TBA             | [HW01] 01/27
+F 01/24/2020 | Logic Gates to Logic Circuits              | TBA                                                     | TBA             | [HW01] 01/27
 |
 M 01/27/2020 | Simplifying Logic Circuits                 | TBA
 W 01/29/2020 | Bits/Bytes/Words and Integers              | TBA
@@ -60,7 +60,7 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Early Computing]: https://www.youtube.com/watch?v=O5nskjZ_GoI
 [Electronic Computing]: https://www.youtube.com/watch?v=LN0ucKNX0hc
 [Boolean Logic & Logic Gates]: https://www.youtube.com/watch?v=gI-qXk7XojA
-
+[Logic Gates]: https://www.electronics-tutorials.ws/boolean/bool_7.html
 
 ### Lab Schedule
 
@@ -79,7 +79,7 @@ Date         | Lab                                             | Reading/Prepara
 04/07/2020   | Lab 11: A Simple Web Server                     |
 ...          |
 
-[Lab01]: labs/lab01.md
+[Lab01]: labs/lab01.pdf
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
