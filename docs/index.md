@@ -60,7 +60,7 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Early Computing]: https://www.youtube.com/watch?v=O5nskjZ_GoI
 [Electronic Computing]: https://www.youtube.com/watch?v=LN0ucKNX0hc
 
-[Class02]: slides/01-HardwareAbstractions.pdf
+[Class02]: slides/02-TransistorsToGates.pdf
 [Boolean Logic & Logic Gates]: https://www.youtube.com/watch?v=gI-qXk7XojA
 [Logic Gates]: https://www.electronics-tutorials.ws/boolean/bool_7.html
 
