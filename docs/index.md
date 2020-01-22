@@ -20,11 +20,11 @@
 
 ### Class Schedule
 
-Date         | Topic                                      | Reading/Preparation<br>Before Class                     | Slides          | Assignment
----          | ---                                        | ---                                                     | ---             | ---
-M 01/20/2020 | __Hardware Abstractions__                  | Watch [Early Computing], [Electronic Computing]         | [Class01]       | [HW01] 01/27
-W 01/22/2020 | Transistors to Logic Gates                 | Watch [Boolean Logic & Logic Gates], Read [Logic Gates] | [Class02]       | [HW01] 01/27
-F 01/24/2020 | Logic Gates to Logic Circuits              | TBA                                                     | TBA             | [HW01] 01/27
+Date         | Topic                                      | Reading/Preparation<br>Before Class                                           | Slides          | Assignment
+---          | ---                                        | ---                                                                           | ---             | ---
+M 01/20/2020 | __Hardware Abstractions__                  | Watch [Early Computing], [Electronic Computing]                               | [Class01]       | [HW01] 01/27
+W 01/22/2020 | Transistors to Logic Gates                 | Watch [Boolean Logic & Logic Gates], Read [Logic Gates]                       | [Class02]       | [HW01] 01/27
+F 01/24/2020 | Logic Gates to Logic Circuits              | Watch [Expressions to Tables to Circuits], Read [Boolean Algebra Examples]    | TBA             | [HW01] 01/27
 |
 M 01/27/2020 | Simplifying Logic Circuits                 | TBA
 W 01/29/2020 | Bits/Bytes/Words and Integers              | TBA
@@ -64,6 +64,9 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Boolean Logic & Logic Gates]: https://www.youtube.com/watch?v=gI-qXk7XojA
 [Logic Gates]: https://www.electronics-tutorials.ws/boolean/bool_7.html
 
+
+[Expressions to Tables to Circuits]: https://www.youtube.com/watch?v=UNAU7ti4r8E
+[Boolean Algebra Examples]: https://www.electronics-tutorials.ws/boolean/bool_8.html
 
 ### Lab Schedule
 
