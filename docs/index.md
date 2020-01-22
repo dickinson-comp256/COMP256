@@ -23,7 +23,7 @@
 Date         | Topic                                      | Reading/Preparation<br>Before Class                     | Slides          | Assignment
 ---          | ---                                        | ---                                                     | ---             | ---
 M 01/20/2020 | __Hardware Abstractions__                  | Watch [Early Computing], [Electronic Computing]         | [Class01]       | [HW01] 01/27
-W 01/22/2020 | Transistors to Logic Gates                 | Watch [Boolean Logic & Logic Gates], Read [Logic Gates] | TBA             | [HW01] 01/27
+W 01/22/2020 | Transistors to Logic Gates                 | Watch [Boolean Logic & Logic Gates], Read [Logic Gates] | [Class02]       | [HW01] 01/27
 F 01/24/2020 | Logic Gates to Logic Circuits              | TBA                                                     | TBA             | [HW01] 01/27
 |
 M 01/27/2020 | Simplifying Logic Circuits                 | TBA
@@ -59,8 +59,11 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [HW01]: homework/hw01.md
 [Early Computing]: https://www.youtube.com/watch?v=O5nskjZ_GoI
 [Electronic Computing]: https://www.youtube.com/watch?v=LN0ucKNX0hc
+
+[Class02]: slides/01-HardwareAbstractions.pdf
 [Boolean Logic & Logic Gates]: https://www.youtube.com/watch?v=gI-qXk7XojA
 [Logic Gates]: https://www.electronics-tutorials.ws/boolean/bool_7.html
+
 
 ### Lab Schedule
 
