@@ -55,7 +55,7 @@ W 04/22/2020 | __Exam #2__ (TBA)
 R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 |
 
-[Class01]: slides/01-HardwareAbstractions.pdf
+[Class01]: slides/01-HW-Abstractions.pdf
 [HW01]: homework/hw01.md
 [Early Computing]: https://www.youtube.com/watch?v=O5nskjZ_GoI
 [Electronic Computing]: https://www.youtube.com/watch?v=LN0ucKNX0hc
