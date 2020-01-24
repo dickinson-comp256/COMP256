@@ -20,13 +20,13 @@
 
 ### Class Schedule
 
-Date         | Topic                                      | Reading/Preparation<br>Before Class                                           | Slides          | Assignment
----          | ---                                        | ---                                                                           | ---             | ---
-M 01/20/2020 | __Hardware Abstractions__                  | Watch [Early Computing], [Electronic Computing]                               | [Class01]       | [HW01] 01/27
-W 01/22/2020 | Transistors to Logic Gates                 | Watch [Boolean Logic & Logic Gates], Read [Logic Gates]                       | [Class02]       | [HW01] 01/27
-F 01/24/2020 | Logic Gates to Logic Circuits              | Watch [Expressions to Tables to Circuits], Read [Boolean Algebra Examples]    | [Class03]       | [HW01] 01/27
+Date         | Topic                                      | Reading/Preparation<br>Before Class                                             | Slides          | Assignment
+---          | ---                                        | ---                                                                             | ---             | ---
+M 01/20/2020 | __Hardware Abstractions__                  | Watch [Early Computing], [Electronic Computing]                                 | [Class01]       | [HW01] 01/27
+W 01/22/2020 | Transistors to Logic Gates                 | Watch [Boolean Logic & Logic Gates], Read [Logic Gates]                         | [Class02]       | [HW01] 01/27
+F 01/24/2020 | Logic Gates to Logic Circuits              | Watch [Expressions to Tables to Circuits], Read [Boolean Algebra Examples]      | [Class03]       | [HW01] 01/27
 |
-M 01/27/2020 | Simplifying Logic Circuits                 | TBA
+M 01/27/2020 | Simplifying Logic Circuits                 | Watch [Circuit Simplification], [Boolean Identities], [Simplification Examples] |
 W 01/29/2020 | Bits/Bytes/Words and Integers              | TBA
 F 01/31/2020 | Arithmetic and Social/Legal/Ethical Issues | TBA
 |
@@ -67,6 +67,11 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Class03]: slides/03-GatesToCircuits.pdf
 [Expressions to Tables to Circuits]: https://www.youtube.com/watch?v=UNAU7ti4r8E
 [Boolean Algebra Examples]: https://www.electronics-tutorials.ws/boolean/bool_8.html
+
+[Class04]:
+[Circuit Simplification]: https://www.youtube.com/watch?v=zehSxcSyWi0
+[Boolean Identities]: https://www.youtube.com/watch?v=MZX6V7u8tZw
+[Simplification Examples]: https://www.youtube.com/watch?v=mxNa0zrjhBU
 
 ### Lab Schedule
 
