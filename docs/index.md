@@ -64,7 +64,7 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Boolean Logic & Logic Gates]: https://www.youtube.com/watch?v=gI-qXk7XojA
 [Logic Gates]: https://www.electronics-tutorials.ws/boolean/bool_7.html
 
-
+[Class03]: slides/03-GatesToCircuits.pdf
 [Expressions to Tables to Circuits]: https://www.youtube.com/watch?v=UNAU7ti4r8E
 [Boolean Algebra Examples]: https://www.electronics-tutorials.ws/boolean/bool_8.html
 
