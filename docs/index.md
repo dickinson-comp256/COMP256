@@ -69,6 +69,7 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Boolean Algebra Examples]: https://www.electronics-tutorials.ws/boolean/bool_8.html
 
 [Class04]: slides/04-SimplifyingCircuits.pdf
+[HW02]: homework/hw02.md
 [Circuit Simplification]: https://www.youtube.com/watch?v=zehSxcSyWi0
 [Boolean Identities]: https://www.youtube.com/watch?v=MZX6V7u8tZw
 [Simplification Examples]: https://www.youtube.com/watch?v=mxNa0zrjhBU
