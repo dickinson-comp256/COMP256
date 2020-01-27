@@ -22,12 +22,12 @@
 
 Date         | Topic                                      | Reading/Preparation<br>Before Class                                             | Slides          | Assignment
 ---          | ---                                        | ---                                                                             | ---             | ---
-M 01/20/2020 | __Hardware Abstractions__                  | Watch [Early Computing], [Electronic Computing]                                 | [Class01]       | [HW01] 01/27
-W 01/22/2020 | Transistors to Logic Gates                 | Watch [Boolean Logic & Logic Gates], Read [Logic Gates]                         | [Class02]       | [HW01] 01/27
-F 01/24/2020 | Logic Gates to Logic Circuits              | Watch [Expressions to Tables to Circuits], Read [Boolean Algebra Examples]      | [Class03]       | [HW01] 01/27
+M 01/20/2020 | __Hardware Abstractions__                  | [Early Computing]<br>[Electronic Computing]                                     | [Class01]       | [HW01] 01/27
+W 01/22/2020 | Transistors to Logic Gates                 | [Boolean Logic & Logic Gates]<br>[Logic Gates]                                  | [Class02]       | [HW01] 01/27
+F 01/24/2020 | Logic Gates to Logic Circuits              | [Expressions to Tables to Circuits]<br>[Boolean Algebra Examples]               | [Class03]       | [HW01] 01/27
 |
-M 01/27/2020 | Simplifying Logic Circuits                 | Watch [Circuit Simplification], [Boolean Identities], [Simplification Examples] | [Class04]       | [HW02] 02/03
-W 01/29/2020 | Bits/Bytes/Words and Integers              | TBA
+M 01/27/2020 | Simplifying Logic Circuits                 | [Circuit Simplification]<br>[Boolean Identities]<br>[Simplification Examples]   | [Class04]       | [HW02] 02/03
+W 01/29/2020 | Bits/Bytes/Words and Integers              | [Number Systems]<br>[Binary Conversions]<br>[Signed Binary]                     |
 F 01/31/2020 | Arithmetic and Social/Legal/Ethical Issues | TBA
 |
 M 02/03/2020 | Non-Integer Data                           | TBA
