@@ -74,6 +74,10 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Boolean Identities]: https://www.youtube.com/watch?v=MZX6V7u8tZw
 [Simplification Examples]: https://www.youtube.com/watch?v=mxNa0zrjhBU
 
+[Number Systems]: https://ryanstutorials.net/binary-tutorial
+[Binary Conversions]: https://ryanstutorials.net/binary-tutorial/binary-conversions.php
+[Signed Binary]: https://ryanstutorials.net/binary-tutorial/binary-negative-numbers.php
+
 ### Lab Schedule
 
 Date         | Lab                                             | Reading/Preparation<br>Before Lab   | Assignment<br>In/After Lab
