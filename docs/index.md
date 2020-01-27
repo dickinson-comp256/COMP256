@@ -26,7 +26,7 @@ M 01/20/2020 | __Hardware Abstractions__                  | Watch [Early Computi
 W 01/22/2020 | Transistors to Logic Gates                 | Watch [Boolean Logic & Logic Gates], Read [Logic Gates]                         | [Class02]       | [HW01] 01/27
 F 01/24/2020 | Logic Gates to Logic Circuits              | Watch [Expressions to Tables to Circuits], Read [Boolean Algebra Examples]      | [Class03]       | [HW01] 01/27
 |
-M 01/27/2020 | Simplifying Logic Circuits                 | Watch [Circuit Simplification], [Boolean Identities], [Simplification Examples] | [Class04]
+M 01/27/2020 | Simplifying Logic Circuits                 | Watch [Circuit Simplification], [Boolean Identities], [Simplification Examples] | [Class04]       | [HW02] 02/03
 W 01/29/2020 | Bits/Bytes/Words and Integers              | TBA
 F 01/31/2020 | Arithmetic and Social/Legal/Ethical Issues | TBA
 |
