@@ -27,8 +27,8 @@ W 01/22/2020 | Transistors to Logic Gates                 | [Boolean Logic & Log
 F 01/24/2020 | Logic Gates to Logic Circuits              | [Expressions to Tables to Circuits]<br>[Boolean Algebra Examples]               | [Class03]       | [HW01] 01/27
 |
 M 01/27/2020 | Simplifying Logic Circuits                 | [Circuit Simplification]<br>[Boolean Identities]<br>[Simplification Examples]   | [Class04]       | [HW02] 02/03
-W 01/29/2020 | Bits/Bytes/Words and Integers              | [Number Systems]<br>[Binary Conversions]<br>[Signed Binary]                     | [Class05]
-F 01/31/2020 | Arithmetic and Social/Legal/Ethical Issues | [Two's Complement]<br>
+W 01/29/2020 | Bits/Bytes/Words and Integers              | [Number Systems]<br>[Binary Conversions]<br>[Signed Binary]                     | [Class05]       | [HW02] 02/03
+F 01/31/2020 | Arithmetic and Social/Legal/Ethical Issues | [Two's Complement Arithmetic]
 |
 M 02/03/2020 | Non-Integer Data                           | TBA
 W 02/05/2020 | Data Path, Memory and Micro-Instructions   | TBA
@@ -79,7 +79,7 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Binary Conversions]: https://ryanstutorials.net/binary-tutorial/binary-conversions.php
 [Signed Binary]: https://ryanstutorials.net/binary-tutorial/binary-negative-numbers.php
 
-[Two's Complement]: https://www.youtube.com/watch?v=Hof95YlLQk0
+[Two's Complement Arithmetic]: https://www.youtube.com/watch?v=Hof95YlLQk0
 
 ### Lab Schedule
 
