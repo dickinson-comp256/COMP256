@@ -28,7 +28,7 @@ F 01/24/2020 | Logic Gates to Logic Circuits              | [Expressions to Tabl
 |
 M 01/27/2020 | Simplifying Logic Circuits                 | [Circuit Simplification]<br>[Boolean Identities]<br>[Simplification Examples]   | [Class04]       | [HW02] 02/03
 W 01/29/2020 | Bits/Bytes/Words and Integers              | [Number Systems]<br>[Binary Conversions]<br>[Signed Binary]                     | [Class05]       | [HW02] 02/03
-F 01/31/2020 | Arithmetic and Social/Legal/Ethical Issues | [Two's Complement Arithmetic]                                                   | [Class06]
+F 01/31/2020 | Arithmetic and Social/Legal/Ethical Issues | [Two's Complement Arithmetic]                                                   | [Class06]       | [HW02] 02/03
 |
 M 02/03/2020 | Non-Integer Data                           | TBA
 W 02/05/2020 | Data Path, Memory and Micro-Instructions   | TBA
