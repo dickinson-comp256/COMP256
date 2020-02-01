@@ -30,7 +30,7 @@ M 01/27/2020 | Simplifying Logic Circuits                 | [Circuit Simplificat
 W 01/29/2020 | Bits/Bytes/Words and Integers              | [Number Systems]<br>[Binary Conversions]<br>[Signed Binary]                     | [Class05]       | [HW02] 02/03
 F 01/31/2020 | Arithmetic and Social/Legal/Ethical Issues | [Two's Complement Arithmetic]                                                   | [Class06]       | [HW02] 02/03
 |
-M 02/03/2020 | Non-Integer Data                           | [Fixed Point Binary],[]
+M 02/03/2020 | Non-Integer Data                           | [Fixed Point]<br>[Floating Point]<br>[ASCII and Unicode]<br>[RGB]               |
 W 02/05/2020 | Data Path, Memory and Micro-Instructions   | TBA
 F 02/07/2020 | Control Unit and Machine Language          | TBA
 |
@@ -81,6 +81,12 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 
 [Class06]: slides/06-Arithmetic.pdf
 [Two's Complement Arithmetic]: https://www.youtube.com/watch?v=Hof95YlLQk0
+
+[Fixed Point]: https://www.youtube.com/watch?v=hvUMJNwkHOs
+[Floating Point]: https://www.youtube.com/watch?v=ji3SfClm8TU
+[ASCII and Unicode]: https://www.youtube.com/watch?v=I-pQH_krD0M
+[RGB]: https://www.youtube.com/watch?v=15aqFQQVBWU
+
 
 ### Lab Schedule
 
