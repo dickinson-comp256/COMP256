@@ -87,7 +87,7 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 Date         | Lab                                             | Reading/Preparation<br>Before Lab   | Assignment<br>In/After Lab
 ---          | ---                                             | ---                                 | ---
 01/21/2020   | Lab 01: Digital Electronics and Switching       | Watch [Electronic Computing]        | [Lab01]
-01/28/2020   | Lab 02: CMOS Transistors and Logic Gates        |
+01/28/2020   | Lab 02: CMOS Transistors and Logic Gates        |                                     | [Lab02]
 02/04/2020   | Lab 03: Integrated Circuits                     |
 02/11/2020   | Lab 04: DRAM and SRAM Memory Cells              |
 02/18/2020   | Lab 05: A Simple Programmable Machine           |
