@@ -26,29 +26,29 @@ M 01/20/2020 | __Hardware Abstractions__                  | [Early Computing]<br
 W 01/22/2020 | Transistors to Logic Gates                 | [Boolean Logic & Logic Gates]<br>[Logic Gates]                                  | [Class02]       | [HW01] 01/27
 F 01/24/2020 | Logic Gates to Logic Circuits              | [Expressions to Tables to Circuits]<br>[Boolean Algebra Examples]               | [Class03]       | [HW01] 01/27
 |
-M 01/27/2020 | Simplifying Logic Circuits                 | [Circuit Simplification]<br>[Boolean Identities]<br>[Simplification Examples]   | [Class04]       | [HW02] 02/03
-W 01/29/2020 | Bits/Bytes/Words and Integers              | [Number Systems]<br>[Binary Conversions]<br>[Signed Binary]                     | [Class05]       | [HW02] 02/03
-F 01/31/2020 | Arithmetic and Social/Legal/Ethical Issues | [Two's Complement Arithmetic]                                                   | [Class06]       | [HW02] 02/03
+M 01/27/2020 | Simplifying Logic Circuits                 | [Circuit Simplification]<br>[Boolean Identities]<br>[Simplification Examples]   | [Class04]       | [HW02] 02/05
+W 01/29/2020 | Bits/Bytes/Words and Integers              | [Number Systems]<br>[Binary Conversions]<br>[Signed Binary]                     | [Class05]       | [HW02] 02/05
+F 01/31/2020 | Arithmetic and Social/Legal/Ethical Issues | [Two's Complement Arithmetic]                                                   | [Class06]       | [HW02] 02/05
 |
-M 02/03/2020 | Non-Integer Data                           | [Fixed Point]<br>[Floating Point]<br>[ASCII and Unicode]<br>[RGB]               |
-W 02/05/2020 | Data Path, Memory and Micro-Instructions   | TBA
-F 02/07/2020 | Control Unit and Machine Language          | TBA
+M 02/03/2020 | NO CLASS
+W 02/05/2020 | Non-Integer Data                           | [Fixed Point]<br>[Floating Point]<br>[ASCII and Unicode]<br>[RGB]               |
+F 02/07/2020 | Data Path, Memory and Micro-Instructions   | TBA
 |
-M 02/10/2020 | Memory Hierarchy and Parallelism           | TBA
-W 02/12/2020 | __Langauge Abstractions__                  | TBA
+M 02/10/2020 | Control Unit and Machine Language          | TBA
+W 02/12/2020 | Memory Hierarchy and Parallelism           | TBA
 F 02/14/2020 | NO CLASS                                   | TBA
 |
-M 02/17/2020 | Branching and Looping                      | TBA
-W 02/19/2020 | Arrays and Structures                      | TBA
-F 02/21/2020 | Functions and Parameters                   | TBA
+M 02/17/2020 | __Langauge Abstractions__                  | TBA
+W 02/19/2020 | Branching and Looping                      | TBA
+F 02/21/2020 | Arrays and Structures                      | TBA
 |
-M 02/24/2020 | The Assembler                              | TBA
-W 02/26/2020 | __Operating Systems Abstractions__         | TBA
-F 02/28/2020 | User Processes and System Services         | TBA
+M 02/24/2020 | Functions and Parameters                   | TBA
+W 02/26/2020 | The Assembler                              | TBA
+F 02/28/2020 | __Operating Systems Abstractions__         | TBA
 |
-M 03/02/2020 | Multiprogramming and Scheduling            | TBA
-W 03/04/2020 | __Exam #1__ (through 02/24/2020)           | TBA
-F 03/06/2020 | ...
+M 03/02/2020 | User Processes and System Services         | TBA
+W 03/04/2020 | __Exam #1__ (through 02/26/2020)           | TBA
+F 03/06/2020 | Multiprogramming and Scheduling
 |
 W 04/22/2020 | __Exam #2__ (TBA)
 |
