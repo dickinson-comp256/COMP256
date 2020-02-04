@@ -31,7 +31,7 @@ W 01/29/2020 | Bits/Bytes/Words and Integers              | [Number Systems]<br>
 F 01/31/2020 | Arithmetic and Social/Legal/Ethical Issues | [Two's Complement Arithmetic]                                                   | [Class06]       | [HW02] 02/05
 |
 M 02/03/2020 | NO CLASS
-W 02/05/2020 | Non-Integer Data                           | [Fixed Point]<br>[Floating Point]<br>[ASCII and Unicode]<br>[RGB]               |
+W 02/05/2020 | Non-Integer Data                           | [Fixed Point]<br>[Floating Point]<br>[ASCII and Unicode]<br>[RGB]               | [Class07]       | [HW03] 02/10
 F 02/07/2020 | Data Path, Memory and Micro-Instructions   | TBA
 |
 M 02/10/2020 | Control Unit and Machine Language          | TBA
@@ -94,7 +94,7 @@ Date         | Lab                                             | Reading/Prepara
 ---          | ---                                             | ---                                 | ---
 01/21/2020   | Lab 01: Digital Electronics and Switching       | Watch [Electronic Computing]        | [Lab01]
 01/28/2020   | Lab 02: CMOS Transistors and Logic Gates        |                                     | [Lab02]
-02/04/2020   | Lab 03: Integrated Circuits                     |
+02/04/2020   | Lab 03: Integrated Circuits                     |                                     | [Lab03]
 02/11/2020   | Lab 04: DRAM and SRAM Memory Cells              |
 02/18/2020   | Lab 05: A Simple Programmable Machine           |
 02/25/2020   | Lab 06: Assembly Programming Challenges         |
@@ -107,6 +107,7 @@ Date         | Lab                                             | Reading/Prepara
 
 [Lab01]: labs/Lab01.pdf
 [Lab02]: labs/Lab02.pdf
+[Lab03]: labs/Lab03.pdf
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
