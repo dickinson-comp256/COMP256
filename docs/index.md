@@ -83,6 +83,7 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Two's Complement Arithmetic]: https://www.youtube.com/watch?v=Hof95YlLQk0
 
 [Class07]: slides/07-NonInteger.pdf
+[HW03]: homework/hw03.md
 [Fixed Point]: https://www.youtube.com/watch?v=hvUMJNwkHOs
 [Floating Point]: https://www.youtube.com/watch?v=ji3SfClm8TU
 [ASCII and Unicode]: https://www.youtube.com/watch?v=I-pQH_krD0M
