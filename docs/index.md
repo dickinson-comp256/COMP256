@@ -32,7 +32,7 @@ F 01/31/2020 | Arithmetic and Social/Legal/Ethical Issues | [Two's Complement Ar
 |
 M 02/03/2020 | NO CLASS
 W 02/05/2020 | Non-Integer Data                           | [Fixed Point]<br>[Floating Point]<br>[ASCII and Unicode]<br>[RGB]               | [Class07]       | [HW03] 02/10
-F 02/07/2020 | Data Path, Memory and Micro-Instructions   | TBA
+F 02/07/2020 | Data Path, Memory and Micro-Instructions   | [CPU and Von Neumann Architecture]
 |
 M 02/10/2020 | Control Unit and Machine Language          | TBA
 W 02/12/2020 | Memory Hierarchy and Parallelism           | TBA
@@ -83,12 +83,12 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Two's Complement Arithmetic]: https://www.youtube.com/watch?v=Hof95YlLQk0
 
 [Class07]: slides/07-NonInteger.pdf
-
 [Fixed Point]: https://www.youtube.com/watch?v=hvUMJNwkHOs
 [Floating Point]: https://www.youtube.com/watch?v=ji3SfClm8TU
 [ASCII and Unicode]: https://www.youtube.com/watch?v=I-pQH_krD0M
 [RGB]: https://www.youtube.com/watch?v=15aqFQQVBWU
 
+[CPU and Von Neumann Architecture]: https://www.youtube.com/watch?v=SbqXqQ-2ixs
 
 ### Lab Schedule
 
