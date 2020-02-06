@@ -9,8 +9,10 @@
 ### Course Tools
 
 - [logisim-evolution.jar](http://reds-data.heig-vd.ch/logisim-evolution/logisim-evolution.jar)
-  - Circuit simulator used in homework and labs.
   - Download and then run with: `java -jar logisim-evolution.jar`
+- The Knob & Switch Computer
+  - [Manual Machine](http://users.dickinson.edu/~braught/kands/KandS2/dpandmem.html)
+  - [Micro-Programmable Machine](http://users.dickinson.edu/~braught/kands/KandS2/micromachine.html)
 
 ### Important Dates
 
@@ -32,7 +34,7 @@ F 01/31/2020 | Arithmetic and Social/Legal/Ethical Issues | [Two's Complement Ar
 |
 M 02/03/2020 | NO CLASS
 W 02/05/2020 | Non-Integer Data                           | [Fixed Point]<br>[Floating Point]<br>[ASCII and Unicode]<br>[RGB]               | [Class07]       | [HW03] 02/10
-F 02/07/2020 | Stored Programs and Micro-Instructions     | [Inside Your Computer]<br>[CPU and Von Neumann Architecture]                                              | [Class08]       | [HW03] 02/10
+F 02/07/2020 | Stored Programs and Micro-Instructions     | [Inside Your Computer]<br>[CPU and Von Neumann Architecture]                    | [Class08]       | [HW03] 02/10
 |
 M 02/10/2020 | Machine Language Instructions              | TBA
 W 02/12/2020 | Memory Hierarchy and Parallelism           | TBA
@@ -89,6 +91,7 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [ASCII and Unicode]: https://www.youtube.com/watch?v=I-pQH_krD0M
 [RGB]: https://www.youtube.com/watch?v=15aqFQQVBWU
 
+[Class08]: slides/08-StoredPrograms.pdf
 [Inside Your Computer]: https://www.youtube.com/watch?v=yRmPTbGBqVI
 [CPU and Von Neumann Architecture]: https://www.youtube.com/watch?v=SbqXqQ-2ixs
 
