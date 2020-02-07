@@ -22,25 +22,25 @@
 
 ### Class Schedule
 
-Date         | Topic                                      | Reading/Preparation<br>Before Class                                             | Slides          | Assignment
----          | ---                                        | ---                                                                             | ---             | ---
-M 01/20/2020 | __Hardware Abstractions__                  | [Early Computing]<br>[Electronic Computing]                                     | [Class01]       | [HW01] 01/27
-W 01/22/2020 | Transistors to Logic Gates                 | [Boolean Logic & Logic Gates]<br>[Logic Gates]                                  | [Class02]       | [HW01] 01/27
-F 01/24/2020 | Logic Gates to Logic Circuits              | [Expressions to Tables to Circuits]<br>[Boolean Algebra Examples]               | [Class03]       | [HW01] 01/27
+Date         | Topic                                          | Reading/Preparation<br>Before Class                                             | Slides          | Assignment
+---          | ---                                            | ---                                                                             | ---             | ---
+M 01/20/2020 | __Hardware Abstractions__                      | [Early Computing]<br>[Electronic Computing]                                     | [Class01]       | [HW01] 01/27
+W 01/22/2020 | Transistors to Logic Gates                     | [Boolean Logic & Logic Gates]<br>[Logic Gates]                                  | [Class02]       | [HW01] 01/27
+F 01/24/2020 | Logic Gates to Logic Circuits                  | [Expressions to Tables to Circuits]<br>[Boolean Algebra Examples]               | [Class03]       | [HW01] 01/27
 |
-M 01/27/2020 | Simplifying Logic Circuits                 | [Circuit Simplification]<br>[Boolean Identities]<br>[Simplification Examples]   | [Class04]       | [HW02] 02/05
-W 01/29/2020 | Bits/Bytes/Words and Integers              | [Number Systems]<br>[Binary Conversions]<br>[Signed Binary]                     | [Class05]       | [HW02] 02/05
-F 01/31/2020 | Arithmetic and Social/Legal/Ethical Issues | [Two's Complement Arithmetic]                                                   | [Class06]       | [HW02] 02/05
+M 01/27/2020 | Simplifying Logic Circuits                     | [Circuit Simplification]<br>[Boolean Identities]<br>[Simplification Examples]   | [Class04]       | [HW02] 02/05
+W 01/29/2020 | Bits/Bytes/Words and Integers                  | [Number Systems]<br>[Binary Conversions]<br>[Signed Binary]                     | [Class05]       | [HW02] 02/05
+F 01/31/2020 | Arithmetic and Social/Legal/Ethical Issues     | [Two's Complement Arithmetic]                                                   | [Class06]       | [HW02] 02/05
 |
 M 02/03/2020 | NO CLASS
-W 02/05/2020 | Non-Integer Data                           | [Fixed Point]<br>[Floating Point]<br>[ASCII and Unicode]<br>[RGB]               | [Class07]       | [HW03] 02/10
-F 02/07/2020 | Stored Programs and Micro-Instructions     | [Inside Your Computer]<br>[CPU and Von Neumann Architecture]                    | [Class08]       | [HW03] 02/10
+W 02/05/2020 | Non-Integer Data                               | [Fixed Point]<br>[Floating Point]<br>[ASCII and Unicode]<br>[RGB]               | [Class07]       | [HW03] 02/10
+F 02/07/2020 | Stored Programs and Micro-Instructions         | [Inside Your Computer]<br>[CPU and Von Neumann Architecture]                    | [Class08]       | [HW03] 02/10
 |
-M 02/10/2020 | Machine Language Instructions              | TBA
-W 02/12/2020 | Memory Hierarchy and Parallelism           | TBA
-F 02/14/2020 | NO CLASS                                   | TBA
+M 02/10/2020 | Machine Language Instructions                  | [ML-1], [ML-2], [ML-3]<br>[Central Processing Unit]
+W 02/12/2020 | Memory Hierarchy and Parallelism               | TBA
+F 02/14/2020 | NO CLASS                                       | TBA
 |
-M 02/17/2020 | __Langauge Abstractions__                  | TBA
+M 02/17/2020 | __Langauge Abstractions__<br>Assembly Langauge | TBA
 W 02/19/2020 | Branching and Looping                      | TBA
 F 02/21/2020 | Arrays and Structures                      | TBA
 |
@@ -94,6 +94,11 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Class08]: slides/08-StoredPrograms.pdf
 [Inside Your Computer]: https://www.youtube.com/watch?v=yRmPTbGBqVI
 [CPU and Von Neumann Architecture]: https://www.youtube.com/watch?v=SbqXqQ-2ixs
+
+[ML-1]: https://chortle.ccsu.edu/java5/Notes/chap04/ch04_3.html
+[ML-2]: https://chortle.ccsu.edu/java5/Notes/chap04/ch04_4.html
+[ML-3]: https://chortle.ccsu.edu/java5/Notes/chap04/ch04_5.html
+[Central Processing Unit]: https://www.youtube.com/watch?v=FZGugFqdr60
 
 ### Lab Schedule
 
