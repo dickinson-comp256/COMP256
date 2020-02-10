@@ -13,6 +13,7 @@
 - The Knob & Switch Computer
   - [Manual Machine](http://users.dickinson.edu/~braught/kands/KandS2/dpandmem.html)
   - [Micro-Programmable Machine](http://users.dickinson.edu/~braught/kands/KandS2/micromachine.html)
+  - [Machine Language Machine](http://users.dickinson.edu/~braught/kands/KandS2/machine.html)
 
 ### Important Dates
 
