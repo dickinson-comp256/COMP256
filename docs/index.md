@@ -103,6 +103,7 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Inside Your Computer]: https://www.youtube.com/watch?v=yRmPTbGBqVI
 [CPU and Von Neumann Architecture]: https://www.youtube.com/watch?v=SbqXqQ-2ixs
 
+[Class09]: slides/09-MachineLanguage.pdf
 [ML-1]: https://chortle.ccsu.edu/java5/Notes/chap04/ch04_3.html
 [ML-2]: https://chortle.ccsu.edu/java5/Notes/chap04/ch04_4.html
 [ML-3]: https://chortle.ccsu.edu/java5/Notes/chap04/ch04_5.html
