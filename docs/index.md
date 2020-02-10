@@ -36,21 +36,29 @@ M 02/03/2020 | NO CLASS
 W 02/05/2020 | Non-Integer Data                               | [Fixed Point]<br>[Floating Point]<br>[ASCII and Unicode]<br>[RGB]               | [Class07]       | [HW03] 02/10
 F 02/07/2020 | Stored Programs and Micro-Instructions         | [Inside Your Computer]<br>[CPU and Von Neumann Architecture]                    | [Class08]       | [HW03] 02/10
 |
-M 02/10/2020 | Machine Language Instructions                  | [ML-1], [ML-2], [ML-3]<br>[Central Processing Unit]
-W 02/12/2020 | Memory Hierarchy and Parallelism               | TBA
-F 02/14/2020 | NO CLASS                                       | TBA
+M 02/10/2020 | Catch up day                                   |                                                                                 | [Class08]       | [HW04] 02/17
+W 02/12/2020 | Machine Language Instructions                  | [ML-1], [ML-2], [ML-3]<br>[Central Processing Unit]                             | [Class09]       | [HW04] 02/17
+F 02/14/2020 | NO CLASS   
 |
-M 02/17/2020 | __Langauge Abstractions__<br>Assembly Langauge | TBA
-W 02/19/2020 | Branching and Looping                      | TBA
-F 02/21/2020 | Arrays and Structures                      | TBA
+M 02/17/2020 |  Memory Hierarchy and Parallelism   
+W 02/19/2020 | __Langauge Abstractions__<br>Assembly Langauge                  
+F 02/21/2020 | Branching and Looping                    
 |
-M 02/24/2020 | Functions and Parameters                   | TBA
-W 02/26/2020 | The Assembler                              | TBA
-F 02/28/2020 | __Operating Systems Abstractions__         | TBA
+M 02/24/2020 | Arrays and Structures                  
+W 02/26/2020 | Functions and Parameters                           
+F 02/28/2020 | The Assembler           
 |
-M 03/02/2020 | User Processes and System Services         | TBA
-W 03/04/2020 | __Exam #1__ (through 02/26/2020)           | TBA
-F 03/06/2020 | Multiprogramming and Scheduling
+M 03/02/2020 | __Operating Systems Abstractions__            
+W 03/04/2020 | __Exam #1__ (through 02/26/2020)         
+F 03/06/2020 | User Processes and System Services
+|
+M 03/09/2020 | SPRING BREAK
+W 03/11/2020 | SPRING BREAK
+F 03/13/2020 | SPRING BREAK
+|
+M 03/16/2020 | Multiprogramming and Scheduling
+W 03/18/2020 |
+F 03/20/2020 |
 |
 W 04/22/2020 | __Exam #2__ (TBA)
 |
