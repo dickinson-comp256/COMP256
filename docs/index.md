@@ -118,7 +118,7 @@ Date         | Lab                                             | Reading/Prepara
 01/21/2020   | Lab 01: Digital Electronics and Switching       | Watch [Electronic Computing]        | [Lab01]
 01/28/2020   | Lab 02: CMOS Transistors and Logic Gates        |                                     | [Lab02]
 02/04/2020   | Lab 03: Integrated Circuits                     |                                     | [Lab03]
-02/11/2020   | Lab 04: DRAM and SRAM Memory Cells              |
+02/11/2020   | Lab 04: DRAM and SRAM Memory Cells              |                                     | [Lab04]
 02/18/2020   | Lab 05: A Simple Programmable Machine           |
 02/25/2020   | Lab 06: Assembly Programming Challenges         |
 03/03/2020   | Lab 07: Bootstrapping a Machine & BIOS          |
