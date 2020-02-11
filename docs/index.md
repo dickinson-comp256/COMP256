@@ -41,7 +41,7 @@ M 02/10/2020 | Catch up day                                   |                 
 W 02/12/2020 | Machine Language Instructions                  | [ML-1], [ML-2], [ML-3]<br>[Central Processing Unit]                             | [Class09]       | [HW04] 02/17
 F 02/14/2020 | NO CLASS   
 |
-M 02/17/2020 |  Memory Hierarchy and Parallelism   
+M 02/17/2020 |  Memory Hierarchy and Parallelism              | [Memory Hierarchy]<br>[How Memory Works]<br>[Advanced CPU Design]               |
 W 02/19/2020 | __Langauge Abstractions__<br>Assembly Langauge                  
 F 02/21/2020 | Branching and Looping                    
 |
@@ -110,6 +110,10 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [ML-2]: https://chortle.ccsu.edu/java5/Notes/chap04/ch04_4.html
 [ML-3]: https://chortle.ccsu.edu/java5/Notes/chap04/ch04_5.html
 [Central Processing Unit]: https://www.youtube.com/watch?v=FZGugFqdr60
+
+[Memory Hierarchy]: https://www.youtube.com/watch?v=T7cjaHonXC0
+[How Memory Works]: https://www.youtube.com/watch?v=p3q5zWCw8J4
+[Advanced CPU Design]: https://www.youtube.com/watch?v=rtAlC5J1U40
 
 ### Lab Schedule
 
