@@ -41,8 +41,8 @@ M 02/10/2020 | Catch up day                                   |                 
 W 02/12/2020 | Machine Language Instructions                  | [ML-1], [ML-2], [ML-3]<br>[Central Processing Unit]                             | [Class09]       | [HW04] 02/17
 F 02/14/2020 | NO CLASS   
 |
-M 02/17/2020 |  Memory Hierarchy and Parallelism              | [Memory Hierarchy]<br>[How Memory Works]<br>[Advanced CPU Design]               | [Class10]
-W 02/19/2020 | __Langauge Abstractions__<br>Assembly Langauge                  
+M 02/17/2020 |  Memory Hierarchy and Parallelism              | [Memory Hierarchy]<br>[How Memory Works]<br>[Advanced CPU Design]               | [Class10]       | [HW05] 02/24
+W 02/19/2020 | __Language Abstractions__<br>Assembly Language                  
 F 02/21/2020 | Branching and Looping                    
 |
 M 02/24/2020 | Arrays and Structures                  
@@ -112,6 +112,7 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Central Processing Unit]: https://www.youtube.com/watch?v=FZGugFqdr60
 
 [Class10]: slides/10-MemoryAndParallel.pdf
+[HW05]: homework/hw05.md
 [Memory Hierarchy]: https://www.youtube.com/watch?v=T7cjaHonXC0
 [How Memory Works]: https://www.youtube.com/watch?v=p3q5zWCw8J4
 [Advanced CPU Design]: https://www.youtube.com/watch?v=rtAlC5J1U40
