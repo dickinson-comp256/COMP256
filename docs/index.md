@@ -45,7 +45,7 @@ W 02/12/2020 | Machine Language Instructions                  | [ML-1], [ML-2], 
 F 02/14/2020 | NO CLASS   
 |
 M 02/17/2020 |  Memory Hierarchy and Parallelism              | [Memory Hierarchy]<br>[How Memory Works]<br>[Advanced CPU Design]               | [Class10]       | [HW05] 02/24
-W 02/19/2020 | __Language Abstractions__                      | [Interpreted and Compiled Languages]<br>[Assemblers, Compilers & Interpreters]  | [Class11]       |      
+W 02/19/2020 | __Language Abstractions__                      | [Interpreted and Compiled Languages]<br>[Assemblers, Compilers & Interpreters]  | [Class11]       | [HW05] 02/24    
 F 02/21/2020 | Assembly Language Programs                     |
 |
 M 02/24/2020 | Branching and Looping                  
