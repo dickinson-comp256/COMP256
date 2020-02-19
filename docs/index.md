@@ -46,14 +46,14 @@ F 02/14/2020 | NO CLASS
 |
 M 02/17/2020 |  Memory Hierarchy and Parallelism              | [Memory Hierarchy]<br>[How Memory Works]<br>[Advanced CPU Design]               | [Class10]       | [HW05] 02/24
 W 02/19/2020 | __Language Abstractions__                      | [Interpreted and Compiled Languages]<br>[Assemblers, Compilers & Interpreters]  | [Class11]       |      
-F 02/21/2020 | Assembly Language Programs                     | 
+F 02/21/2020 | Assembly Language Programs                     |
 |
 M 02/24/2020 | Branching and Looping                  
 W 02/26/2020 | Arrays and Structures                       
 F 02/28/2020 | Functions and Parameters          
 |
 M 03/02/2020 | __Operating Systems Abstractions__            
-W 03/04/2020 | __Exam #1__ (through 02/26/2020)         
+W 03/04/2020 | __Exam #1__ (through 02/21/2020)         
 F 03/06/2020 | User Processes and System Services
 |
 M 03/09/2020 | SPRING BREAK
