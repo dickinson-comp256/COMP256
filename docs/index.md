@@ -132,12 +132,12 @@ Date         | Lab                                             | Reading/Prepara
 01/28/2020   | Lab 02: CMOS Transistors and Logic Gates        |                                     | [Lab02]
 02/04/2020   | Lab 03: Integrated Circuits                     |                                     | [Lab03]
 02/11/2020   | Lab 04: DRAM and SRAM Memory Cells              |                                     | [Lab04]
-02/18/2020   | Lab 05: A Simple Programmable Machine           |
-02/25/2020   | Lab 06: Assembly Programming Challenges         |
-03/03/2020   | Lab 07: Bootstrapping a Machine & BIOS          |
-03/17/2020   | Lab 08: System Calls and User Libraries         |
-03/24/2020   | Lab 09: Writing Workshop                        |
-03/31/2020   | Lab 10: Application Layer Protocols             |
+02/18/2020   | Lab 05: Catch up                                |
+02/25/2020   | Lab 06: Compilers / Interpreters / VMs          |
+03/03/2020   | Lab 07: Assembly Programming Challenges         |
+03/17/2020   | Lab 08: Writing an Assembler                    |
+03/24/2020   | Lab 09: Bootstrapping a Machine & BIOS          |
+03/31/2020   | Lab 10: System Calls and User Libraries         |
 04/07/2020   | Lab 11: A Simple Web Server                     |
 ...          |
 
