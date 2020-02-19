@@ -42,7 +42,7 @@ W 02/12/2020 | Machine Language Instructions                  | [ML-1], [ML-2], 
 F 02/14/2020 | NO CLASS   
 |
 M 02/17/2020 |  Memory Hierarchy and Parallelism              | [Memory Hierarchy]<br>[How Memory Works]<br>[Advanced CPU Design]               | [Class10]       | [HW05] 02/24
-W 02/19/2020 | __Language Abstractions__<br>Assembly Language | [Interpreted and Compiled Languages]<br>[Assemblers, Compilers & Interpreters]  |              
+W 02/19/2020 | __Language Abstractions__<br>Assembly Language | [Interpreted and Compiled Languages]<br>[Assemblers, Compilers & Interpreters]  | [Class11]       |      
 F 02/21/2020 | Branching and Looping                    
 |
 M 02/24/2020 | Arrays and Structures                  
@@ -117,7 +117,7 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [How Memory Works]: https://www.youtube.com/watch?v=p3q5zWCw8J4
 [Advanced CPU Design]: https://www.youtube.com/watch?v=rtAlC5J1U40
 
-
+[Class11]: slides/11-LanguageAbstractions.pdf
 [Interpreted and Compiled Languages]: https://www.youtube.com/watch?v=KsZLPTRSleI
 [Assemblers, Compilers & Interpreters]: https://opensource.com/article/19/5/primer-assemblers-compilers-interpreters
 
