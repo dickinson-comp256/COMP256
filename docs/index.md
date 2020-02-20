@@ -15,8 +15,9 @@
   - [Micro-Programmable Machine](http://users.dickinson.edu/~braught/kands/KandS2/micromachine.html)
   - [Machine Language Machine](http://users.dickinson.edu/~braught/kands/KandS2/machine.html)
 - Assembly Language Programming
-  - [Assembler.jar](http://users.dickinson.edu/~braught/courses/cs251f18/machine/Assembler.jar)
-  - [Machine.jar](http://users.dickinson.edu/~braught/courses/cs251f18/machine/Machine.jar)
+  - [Assembler.jar](machine/Assembler.jar)
+    - [Assembly Language Reference Card](machine/asm-ref.md)
+  - [Machine.jar](machine/Machine.jar)
 
 ### Important Dates
 
