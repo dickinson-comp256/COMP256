@@ -9,15 +9,15 @@
 ### Course Tools
 
 - [logisim-evolution.jar](http://reds-data.heig-vd.ch/logisim-evolution/logisim-evolution.jar)
-  - Download and then run with: `java -jar logisim-evolution.jar`
+   - Download and then run with: `java -jar logisim-evolution.jar`
 - The Knob & Switch Computer
-  - [Manual Machine](http://users.dickinson.edu/~braught/kands/KandS2/dpandmem.html)
-  - [Micro-Programmable Machine](http://users.dickinson.edu/~braught/kands/KandS2/micromachine.html)
-  - [Machine Language Machine](http://users.dickinson.edu/~braught/kands/KandS2/machine.html)
+   - [Manual Machine](http://users.dickinson.edu/~braught/kands/KandS2/dpandmem.html)
+   - [Micro-Programmable Machine](http://users.dickinson.edu/~braught/kands/KandS2/micromachine.html)
+   - [Machine Language Machine](http://users.dickinson.edu/~braught/kands/KandS2/machine.html)
 - Assembly Language Programming
-  - [Assembler.jar](machine/Assembler.jar)
-    - [Assembly Language Reference Card](machine/asm-ref.md)
-  - [Machine.jar](machine/Machine.jar)
+   - [Assembler.jar](machine/Assembler.jar)
+      - [Assembly Language Reference Card](machine/asm-ref.md)  
+   - [Machine.jar](machine/Machine.jar)
 
 ### Important Dates
 
