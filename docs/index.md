@@ -9,15 +9,15 @@
 ### Course Tools
 
 - [logisim-evolution.jar](http://reds-data.heig-vd.ch/logisim-evolution/logisim-evolution.jar)
-   - Download and then run with: `java -jar logisim-evolution.jar`
+  - Download and then run with: `java -jar logisim-evolution.jar`
 - The Knob & Switch Computer
-   - [Manual Machine](http://users.dickinson.edu/~braught/kands/KandS2/dpandmem.html)
-   - [Micro-Programmable Machine](http://users.dickinson.edu/~braught/kands/KandS2/micromachine.html)
-   - [Machine Language Machine](http://users.dickinson.edu/~braught/kands/KandS2/machine.html)
+  - [Manual Machine](http://users.dickinson.edu/~braught/kands/KandS2/dpandmem.html)
+  - [Micro-Programmable Machine](http://users.dickinson.edu/~braught/kands/KandS2/micromachine.html)
+  - [Machine Language Machine](http://users.dickinson.edu/~braught/kands/KandS2/machine.html)
 - Assembly Language Programming
-   - [Assembler.jar](machine/Assembler.jar)
-      - [Assembly Language Reference Card](machine/asm-ref.md)  
-   - [Machine.jar](machine/Machine.jar)
+  - [Assembly Language Reference Card](machine/asm-ref.md)
+  - [Assembler.jar](machine/Assembler.jar)
+  - [Machine.jar](machine/Machine.jar)
 
 ### Important Dates
 
@@ -47,7 +47,7 @@ F 02/14/2020 | NO CLASS
 |
 M 02/17/2020 |  Memory Hierarchy and Parallelism              | [Memory Hierarchy]<br>[How Memory Works]<br>[Advanced CPU Design]               | [Class10]       | [HW05] 02/24
 W 02/19/2020 | __Language Abstractions__                      | [Interpreted and Compiled Languages]<br>[Assemblers, Compilers & Interpreters]  | [Class11]       | [HW05] 02/24    
-F 02/21/2020 | Assembly Language Programs                     |
+F 02/21/2020 | Assembly Language Programs                     | [What is Assembly Language?]<br>Not perfect, but see what you can get out of it.| [Class12]       | [HW05] 02/24
 |
 M 02/24/2020 | Branching and Looping                  
 W 02/26/2020 | Arrays and Structures                       
@@ -124,6 +124,10 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Class11]: slides/11-LanguageAbstractions.pdf
 [Interpreted and Compiled Languages]: https://www.youtube.com/watch?v=KsZLPTRSleI
 [Assemblers, Compilers & Interpreters]: https://opensource.com/article/19/5/primer-assemblers-compilers-interpreters
+
+[Class12]: slides/12-Assembly.pdf
+[What is Assembly Language?]: https://www.youtube.com/watch?v=1FXhjErUz58
+
 
 ### Lab Schedule
 
