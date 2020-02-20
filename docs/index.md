@@ -47,7 +47,7 @@ F 02/14/2020 | NO CLASS
 |
 M 02/17/2020 |  Memory Hierarchy and Parallelism              | [Memory Hierarchy]<br>[How Memory Works]<br>[Advanced CPU Design]               | [Class10]       | [HW05] 02/24
 W 02/19/2020 | __Language Abstractions__                      | [Interpreted and Compiled Languages]<br>[Assemblers, Compilers & Interpreters]  | [Class11]       | [HW05] 02/24    
-F 02/21/2020 | Assembly Language Programs                     | [What is Assembly Language?]<br>Not perfect, but see what you can get out of it.| [Class12]       | [HW05] 02/24
+F 02/21/2020 | Assembly Language Programs                     | [Birth of High-Level Languages]<br>[What is Assembly Language?]                 | [Class12]       | [HW05] 02/24
 |
 M 02/24/2020 | Branching and Looping                  
 W 02/26/2020 | Arrays and Structures                       
@@ -126,8 +126,8 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Assemblers, Compilers & Interpreters]: https://opensource.com/article/19/5/primer-assemblers-compilers-interpreters
 
 [Class12]: slides/12-Assembly.pdf
+[Birth of High-Level Languages]: https://knowthecode.io/labs/evolution-of-computing/episode-3
 [What is Assembly Language?]: https://www.youtube.com/watch?v=1FXhjErUz58
-
 
 ### Lab Schedule
 
