@@ -49,7 +49,7 @@ M 02/17/2020 |  Memory Hierarchy and Parallelism              | [Memory Hierarch
 W 02/19/2020 | __Language Abstractions__                      | [Interpreted and Compiled Languages]<br>[Assemblers, Compilers & Interpreters]  | [Class11]       | [HW05] 02/24    
 F 02/21/2020 | Assembly Language Programs                     | [Birth of High-Level Languages]<br>[What is Assembly Language?]                 | [Class12]       | [HW05] 02/24
 |
-M 02/24/2020 | Branching and Looping                  
+M 02/24/2020 | Branching and Looping                          | [Control Structures in Assembly]
 W 02/26/2020 | Arrays and Structures                       
 F 02/28/2020 | Functions and Parameters          
 |
@@ -128,6 +128,8 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Class12]: slides/12-Assembly.pdf
 [Birth of High-Level Languages]: https://knowthecode.io/labs/evolution-of-computing/episode-3
 [What is Assembly Language?]: https://www.youtube.com/watch?v=1FXhjErUz58
+
+[Control Structures in Assembly]: https://www.d.umn.edu/~gshute/asm/control.xhtml
 
 ### Lab Schedule
 
