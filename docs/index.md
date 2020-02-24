@@ -49,7 +49,7 @@ M 02/17/2020 |  Memory Hierarchy and Parallelism              | [Memory Hierarch
 W 02/19/2020 | __Language Abstractions__                      | [Interpreted and Compiled Languages]<br>[Assemblers, Compilers & Interpreters]  | [Class11]       | [HW05] 02/24    
 F 02/21/2020 | Assembly Language Programs                     | [Birth of High-Level Languages]<br>[What is Assembly Language?]                 | [Class12]       | [HW05] 02/24
 |
-M 02/24/2020 | Branching and Looping                          | [Control Structures in Assembly]
+M 02/24/2020 | Branching and Looping                          | [Control Structures in Assembly]                                                | [Class13]       | [HW06] 03/02
 W 02/26/2020 | Arrays and Structures                       
 F 02/28/2020 | Functions and Parameters          
 |
