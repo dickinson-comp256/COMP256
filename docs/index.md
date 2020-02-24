@@ -129,6 +129,7 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Birth of High-Level Languages]: https://knowthecode.io/labs/evolution-of-computing/episode-3
 [What is Assembly Language?]: https://www.youtube.com/watch?v=1FXhjErUz58
 
+[Class13]: slides/13-BranchingLoops.pdf
 [Control Structures in Assembly]: https://www.d.umn.edu/~gshute/asm/control.xhtml
 
 ### Lab Schedule
