@@ -50,7 +50,7 @@ W 02/19/2020 | __Language Abstractions__                      | [Interpreted and
 F 02/21/2020 | Assembly Language Programs                     | [Birth of High-Level Languages]<br>[What is Assembly Language?]                 | [Class12]       | [HW05] 02/24
 |
 M 02/24/2020 | Branching and Looping                          | [Control Structures in Assembly]                                                | [Class13]       | [HW06] 03/02
-W 02/26/2020 | Arrays and Structures                       
+W 02/26/2020 | Arrays and Structures                          | [Processor Addressing Modes]
 F 02/28/2020 | Functions and Parameters          
 |
 M 03/02/2020 | __Operating Systems Abstractions__            
@@ -132,6 +132,8 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Class13]: slides/13-BranchingLoops.pdf
 [HW06]: homework/hw06.md
 [Control Structures in Assembly]: https://www.d.umn.edu/~gshute/asm/control.xhtml
+
+[Processor Addressing Modes]: https://www.youtube.com/watch?v=TGcjn8zMhfM
 
 ### Lab Schedule
 
