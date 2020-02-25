@@ -142,12 +142,14 @@ Date         | Lab                                             | Reading/Prepara
 02/11/2020   | Lab 04: DRAM and SRAM Memory Cells              |                                     | [Lab04]
 02/18/2020   | Lab xx: Catch up                                |
 02/25/2020   | Lab 05: Compiled and Interpreted Languages      |                                     | [Lab05]
-03/03/2020   | Lab 06: Writing an Assembler                    |
-03/17/2020   | Lab 07: Bootstrapping a Machine & BIOS          |
-03/24/2020   | Lab 08: System Calls and User Libraries         |
-03/31/2020   | Lab 09: A Simple Web Server                     |
-04/07/2020   | Lab 10: ???                                     |
-...          |
+03/03/2020   | Lab 06: Assembly Language Challenges            |
+03/17/2020   | Lab 07: Writing an Assembler                    |
+03/24/2020   | Lab 08: Bootstrapping a Machine & BIOS          |
+03/31/2020   | Lab 09: User Programs and BIOS Routines         |
+04/07/2020   | Lab 10: User Libraries and System Calls         |
+04/14/2020   | Lab 11: A Simple Web Server    
+04/21/2020   | Lab 12: ??
+04/28/2020   | Lab 13: ??     
 
 [Lab01]: labs/Lab01.pdf
 [Lab02]: labs/Lab02.pdf
