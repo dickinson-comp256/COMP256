@@ -140,19 +140,20 @@ Date         | Lab                                             | Reading/Prepara
 01/28/2020   | Lab 02: CMOS Transistors and Logic Gates        |                                     | [Lab02]
 02/04/2020   | Lab 03: Integrated Circuits                     |                                     | [Lab03]
 02/11/2020   | Lab 04: DRAM and SRAM Memory Cells              |                                     | [Lab04]
-02/18/2020   | Lab 05: Catch up                                |
-02/25/2020   | Lab 06: Compilers / Interpreters / VMs          |
-03/03/2020   | Lab 07: Assembly Programming Challenges         |
-03/17/2020   | Lab 08: Writing an Assembler                    |
-03/24/2020   | Lab 09: Bootstrapping a Machine & BIOS          |
-03/31/2020   | Lab 10: System Calls and User Libraries         |
-04/07/2020   | Lab 11: A Simple Web Server                     |
+02/18/2020   | Lab xx: Catch up                                |
+02/25/2020   | Lab 05: Compiled and Interpreted Languages      |                                     | [Lab05]
+03/03/2020   | Lab 06: Writing an Assembler                    |
+03/17/2020   | Lab 07: Bootstrapping a Machine & BIOS          |
+03/24/2020   | Lab 08: System Calls and User Libraries         |
+03/31/2020   | Lab 09: A Simple Web Server                     |
+04/07/2020   | Lab 10: ???                                     |
 ...          |
 
 [Lab01]: labs/Lab01.pdf
 [Lab02]: labs/Lab02.pdf
 [Lab03]: labs/Lab03.pdf
 [Lab04]: labs/Lab04.pdf
+[Lab05]: labs/Lab05.pdf
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
