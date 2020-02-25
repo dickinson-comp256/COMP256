@@ -130,6 +130,7 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [What is Assembly Language?]: https://www.youtube.com/watch?v=1FXhjErUz58
 
 [Class13]: slides/13-BranchingLoops.pdf
+[HW06]: homework/hw06.md
 [Control Structures in Assembly]: https://www.d.umn.edu/~gshute/asm/control.xhtml
 
 ### Lab Schedule
