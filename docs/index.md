@@ -133,7 +133,7 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [HW06]: homework/hw06.md
 [Control Structures in Assembly]: https://www.d.umn.edu/~gshute/asm/control.xhtml
 
-[Class14]: slides/14-Arryas.pdf
+[Class14]: slides/14-Arrays.pdf
 [Processor Addressing Modes]: https://www.youtube.com/watch?v=TGcjn8zMhfM
 
 ### Lab Schedule
