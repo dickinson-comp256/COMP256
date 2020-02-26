@@ -52,7 +52,7 @@ W 02/19/2020 | __Language Abstractions__                      | [Interpreted and
 F 02/21/2020 | Assembly Language Programs                     | [Birth of High-Level Languages]<br>[What is Assembly Language?]                 | [Class12]       | [HW05] 02/24
 |
 M 02/24/2020 | Branching and Looping                          | [Control Structures in Assembly]                                                | [Class13]       | [HW06] 03/02
-W 02/26/2020 | Arrays and Indirect Addressing                 | [Processor Addressing Modes] (Not ideal, don't get to hung up)                  | [Class14]
+W 02/26/2020 | Arrays and Indirect Addressing                 | [Processor Addressing Modes] (Not ideal, don't get to hung up)                  | [Class14]       | [HW06] 03/02
 F 02/28/2020 | Functions and Parameters                       | [Concept of Stack Frames]<br>[Call Stacks and Recursion]
 |
 M 03/02/2020 | __Operating Systems Abstractions__            
