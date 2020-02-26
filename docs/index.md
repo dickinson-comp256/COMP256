@@ -21,9 +21,11 @@
 
 ### Important Dates
 
-- 03/04/2020 (Wednesday) - Exam #1
+- 03/04/2020 (Wednesday) - Exam #1 - [Exam 01 Guide]
 - 04/22/2020 (Wednesday) - Exam #2
 - 05/07/2020 (Thursday) 9:00am - Final Exam
+
+[Exam 01 Guide]: exams/Exam01.pdf
 
 ### Class Schedule
 
