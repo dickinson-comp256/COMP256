@@ -56,7 +56,7 @@ W 02/26/2020 | Arrays and Indirect Addressing                 | [Processor Addre
 F 02/28/2020 | Functions and Parameters                       | [Concept of Stack Frames]<br>[Call Stacks and Recursion]
 |
 M 03/02/2020 | __Operating Systems Abstractions__            
-W 03/04/2020 | __Exam #1__ (through 02/21/2020)         
+W 03/04/2020 | __Exam #1__ (through 02/21/2020)               | [Exam 01 Guide]  
 F 03/06/2020 | User Processes and System Services
 |
 M 03/09/2020 | SPRING BREAK
