@@ -55,16 +55,16 @@ M 02/24/2020 | Branching and Looping                          | [Control Structu
 W 02/26/2020 | Arrays and Indirect Addressing                 | [Processor Addressing Modes] (Not ideal, don't get to hung up)                  | [Class14]       | [HW06] 03/02
 F 02/28/2020 | Functions and Parameters                       | [Concept of Stack Frames]<br>[Call Stacks and Recursion]                        | [Class15]<br>[max example source code]  
 |
-M 03/02/2020 | __Operating Systems Abstractions__            
+M 03/02/2020 | Catch up day           
 W 03/04/2020 | __Exam #1__ (through 02/21/2020)               | [Exam 01 Guide]  
-F 03/06/2020 | User Processes and System Services
+F 03/06/2020 | __Operating Systems Abstractions__
 |
 M 03/09/2020 | SPRING BREAK
 W 03/11/2020 | SPRING BREAK
 F 03/13/2020 | SPRING BREAK
 |
-M 03/16/2020 | Multiprogramming and Scheduling
-W 03/18/2020 |
+M 03/16/2020 | User Processes and System Services
+W 03/18/2020 | Multiprogramming and Scheduling
 F 03/20/2020 |
 |
 W 04/22/2020 | __Exam #2__ (TBA)
