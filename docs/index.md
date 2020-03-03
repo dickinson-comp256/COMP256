@@ -47,7 +47,7 @@ M 02/10/2020 | Catch up day                                   |                 
 W 02/12/2020 | Machine Language Instructions                  | [ML-1], [ML-2], [ML-3]<br>[Central Processing Unit]                             | [Class09]       | [HW04] 02/17
 F 02/14/2020 | NO CLASS   
 |
-M 02/17/2020 |  Memory Hierarchy and Parallelism              | [Memory Hierarchy]<br>[How Memory Works]<br>[Advanced CPU Design]               | [Class10]       | [HW05] 02/24
+M 02/17/2020 | Memory Hierarchy and Parallelism               | [Memory Hierarchy]<br>[How Memory Works]<br>[Advanced CPU Design]               | [Class10]       | [HW05] 02/24
 W 02/19/2020 | __Language Abstractions__                      | [Interpreted and Compiled Languages]<br>[Assemblers, Compilers & Interpreters]  | [Class11]       | [HW05] 02/24    
 F 02/21/2020 | Assembly Language Programs                     | [Birth of High-Level Languages]<br>[What is Assembly Language?]                 | [Class12]       | [HW05] 02/24
 |
@@ -154,7 +154,7 @@ Date         | Lab                                             | Reading/Prepara
 02/11/2020   | Lab 04: DRAM and SRAM Memory Cells              |                                     | [Lab04]
 02/18/2020   | Lab xx: Catch up                                |
 02/25/2020   | Lab 05: Compiled and Interpreted Languages      |                                     | [Lab05]
-03/03/2020   | Lab 06: Assembly Language Challenges            |
+03/03/2020   | Lab 06: Assembly Language Challenge             |                                     | [Lab06]
 03/17/2020   | Lab 07: Writing an Assembler                    |
 03/24/2020   | Lab 08: Bootstrapping a Machine & BIOS          |
 03/31/2020   | Lab 09: User Programs and BIOS Routines         |
@@ -168,6 +168,7 @@ Date         | Lab                                             | Reading/Prepara
 [Lab03]: labs/Lab03.pdf
 [Lab04]: labs/Lab04.pdf
 [Lab05]: labs/Lab05.pdf
+[Lab06]: labs/Lab06.pdf
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
