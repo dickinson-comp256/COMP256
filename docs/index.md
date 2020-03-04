@@ -57,7 +57,7 @@ F 02/28/2020 | Functions and Parameters                       | [Concept of Stac
 |
 M 03/02/2020 | Catch up day           
 W 03/04/2020 | __Exam #1__ (through 02/21/2020)               | [Exam 01 Guide]  
-F 03/06/2020 | __Operating Systems Abstractions__
+F 03/06/2020 | __Operating Systems Abstractions__             | [Operating Systems]<br>[Operating Systems Examples]                                                             |
 |
 M 03/09/2020 | SPRING BREAK
 W 03/11/2020 | SPRING BREAK
@@ -143,6 +143,8 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Concept of Stack Frames]: https://www.youtube.com/watch?v=lVMYUxGGHRM
 [max example source code]: slides/maxex.asm
 
+[Operating Systems]: https://www.youtube.com/watch?v=26QPDBe-NB8
+[Operating Systems Examples]: https://www.youtube.com/watch?v=JqmrEVJUyss
 
 ### Lab Schedule
 
