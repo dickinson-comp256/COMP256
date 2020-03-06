@@ -57,17 +57,39 @@ F 02/28/2020 | Functions and Parameters                       | [Concept of Stac
 |
 M 03/02/2020 | Catch up day           
 W 03/04/2020 | __Exam #1__ (through 02/21/2020)               | [Exam 01 Guide]  
-F 03/06/2020 | __Operating Systems Abstractions__             | [Operating Systems]<br>[Operating Systems Examples]                                                             |
+F 03/06/2020 | __Operating Systems Abstractions__             | [Operating Systems]<br>[Operating Systems Examples]                             | [Class16]       | [HW07] 03/23
 |
 M 03/09/2020 | SPRING BREAK
 W 03/11/2020 | SPRING BREAK
 F 03/13/2020 | SPRING BREAK
 |
-M 03/16/2020 | User Processes and System Services
-W 03/18/2020 | Multiprogramming and Scheduling
-F 03/20/2020 |
+M 03/16/2020 | Process Management
+W 03/18/2020 | System Calls & Libraries
+F 03/20/2020 | Concurrency
 |
-W 04/22/2020 | __Exam #2__ (TBA)
+M 03/23/2020 | Memory Management
+W 03/25/2020 | File Management
+F 03/27/2020 | __Networking Abstractions__
+|
+M 03/30/2020 |
+W 04/01/2020 |
+F 04/03/2020 |
+|
+M 04/06/2020 |
+W 04/08/2020 |
+F 04/10/2020 |
+|
+M 04/13/2020 | __Web Systems Abstractions__
+W 04/15/2020 |
+F 04/17/2020 |
+|
+M 04/20/2020 |
+W 04/22/2020 | __Exam #2__ (Through 04/10)
+F 04/24/2020 |
+|
+M 04/27/2020 |
+W 04/29/2020 |
+F 05/01/2020 |
 |
 R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 |
@@ -143,6 +165,7 @@ R 05/07/2020 | __Final Exam (Thursday 9:00am)__
 [Concept of Stack Frames]: https://www.youtube.com/watch?v=lVMYUxGGHRM
 [max example source code]: slides/maxex.asm
 
+[Class16]: slides/16-OSAbstractions.pdf
 [Operating Systems]: https://www.youtube.com/watch?v=26QPDBe-NB8
 [Operating Systems Examples]: https://www.youtube.com/watch?v=JqmrEVJUyss
 
