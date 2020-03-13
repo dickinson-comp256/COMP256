@@ -63,13 +63,13 @@ M 03/09/2020 | SPRING BREAK
 W 03/11/2020 | SPRING BREAK
 F 03/13/2020 | SPRING BREAK
 |
-M 03/16/2020 | Process Management
-W 03/18/2020 | System Calls & Libraries
-F 03/20/2020 | Concurrency
+M 03/16/2020 | COVID-19 Disruption
+W 03/18/2020 | COVID-19 Disruption
+F 03/20/2020 | COVID-19 Disruption
 |
-M 03/23/2020 | Memory Management
-W 03/25/2020 | File Management
-F 03/27/2020 | __Networking Abstractions__
+M 03/23/2020 | TBA - More Information Coming Soon
+W 03/25/2020 |
+F 03/27/2020 |
 |
 M 03/30/2020 |
 W 04/01/2020 |
@@ -79,7 +79,7 @@ M 04/06/2020 |
 W 04/08/2020 |
 F 04/10/2020 |
 |
-M 04/13/2020 | __Web Systems Abstractions__
+M 04/13/2020 |
 W 04/15/2020 |
 F 04/17/2020 |
 |
