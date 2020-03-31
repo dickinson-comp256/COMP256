@@ -11,9 +11,11 @@
 - [logisim-evolution.jar](http://reds-data.heig-vd.ch/logisim-evolution/logisim-evolution.jar)
   - Download and then run with: `java -jar logisim-evolution.jar`
 - The Knob & Switch Computer
-  - [Manual Machine](http://users.dickinson.edu/~braught/kands/KandS2/dpandmem.html)
-  - [Micro-Programmable Machine](http://users.dickinson.edu/~braught/kands/KandS2/micromachine.html)
-  - [Machine Language Machine](http://users.dickinson.edu/~braught/kands/KandS2/machine.html)
+
+  - [Manual Machine](https://braughtg.github.io/Knob-And-Switch-Computer/dpandmem.html)
+  - [Micro-Programmable Machine](https://braughtg.github.io/Knob-And-Switch-Computer/micromachine.html)
+  - [Machine Language Machine](https://braughtg.github.io/Knob-And-Switch-Computer/machine.html)
+  - [Knob & Switch Assembly/Machine Language Reference](https://braughtg.github.io/Knob-And-Switch-Computer/instructions.html)
 - Assembly Language Programming
   - [Assembly Language Reference Card](machine/asm-ref.md)
   - [Assembler.jar](machine/Assembler.jar)
