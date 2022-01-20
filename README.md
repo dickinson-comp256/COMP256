@@ -1,4 +1,4 @@
-##256 Computing Abstractions
+## 256 Computing Abstractions
 
 A broad examination of the role and evolution of the abstraction hierarchies that enable the construction of complex computing systems. Examples spanning the field of computer science will be used, including: machine organization and architecture, data representation, language translation, operating systems, concurrency, networks, and web application architectures.
 
