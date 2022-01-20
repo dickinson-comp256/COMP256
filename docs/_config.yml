@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 
-title: "COMP 491/492"
-description: "Dickinson College Computer Science Senior Seminar"
+title: "COMP 256"
+description: "Computing Abstractions"
 
 hide_first_title: true
 show_downloads: false
