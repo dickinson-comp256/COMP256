@@ -1,4 +1,11 @@
 theme: jekyll-theme-slate
 
-title: "COMP256 - Computing Abstractions"
-description: "A study of the abstractions that enable modern computing systems."
+title: "COMP 491/492"
+description: "Dickinson College Computer Science Senior Seminar"
+
+hide_first_title: true
+show_downloads: false
+buttons:
+  zip_hide: true
+  tar_hide: true
+  github_hide: true
