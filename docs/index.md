@@ -9,14 +9,14 @@
 ### Course Tools
 
 - The Knob & Switch Computer
-  - [Manual Machine](https://braughtg.github.io/Knob-And-Switch-Computer/dpandmem.html)
-  - [Micro-Programmable Machine](https://braughtg.github.io/Knob-And-Switch-Computer/micromachine.html)
-  - [Machine Language Machine](https://braughtg.github.io/Knob-And-Switch-Computer/machine.html)
-  - [Knob & Switch Assembly/Machine Language Reference](https://braughtg.github.io/Knob-And-Switch-Computer/instructions.html)
+  - [Manual Machine](https://dickinson-comp256/Knob-And-Switch-Computer/dpandmem.html)
+  - [Micro-Programmable Machine](https://dickinson-comp256/Knob-And-Switch-Computer/micromachine.html)
+  - [Machine Language Machine](https://dickinson-comp256/Knob-And-Switch-Computer/machine.html)
+  - [Knob & Switch Assembly/Machine Language Reference](https://dickinson-comp256/Knob-And-Switch-Computer/instructions.html)
 - Assembly Language Programming
-  - [Assembly Language Reference Card](machine/asm-ref.md)
-  - [Assembler.jar](machine/Assembler.jar)
-  - [Machine.jar](machine/Machine.jar)
+  - [Assembly Language Reference Card](https://dickinson-comp256/AsmMachine/machine/asm-ref.md)
+  - [Assembler.jar](https://dickinson-comp256/AsmMachine/machine/Assembler.jar)
+  - [Machine.jar](https://dickinson-comp256/AsmMachine/machine/Machine.jar)
 
 ### Important Dates
 
