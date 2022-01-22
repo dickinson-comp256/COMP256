@@ -34,9 +34,9 @@
 
 ### Class Schedule
 
-Date        | Topic / Activity                               | Homework Due
+Date        | Topic / Slides / Activity                      | Homework Due
 ----------- | ---------------------------------------------- | --------------
-&nbsp;      | <center><b>Hardware Abstractions</b></center>
+&nbsp;      | <b><center>Hardware Abstractions</center></b>
 M 01/24/22  | Introduction to Abstractions [ [Slides]() : [HW]() ] | W 01/26/22
 W 01/26/22  |                                                |     
 F 01/28/22  |                                                |
@@ -47,7 +47,7 @@ W 02/02/22  |                                                |
 
 ### Lab Schedule
 
-Date          | Lab Topic / Activity                       | Lab Due
+Date          | Topic / Activity                           | Lab Due
 ------------- | ------------------------------------------ | -------------
 01/27/22      | [Switching and Transistors]()              | 02/03/22
 02/03/22      |                                            |              
