@@ -10,7 +10,7 @@
 
 ### Course Tools
 
-- [TinkerCAD](https://www.tinkercad.com/)
+- TinkerCAD
   - Use the link in Moodle to access our course directly.
   - Your "nickname" for login is your Dickinson username.
 
@@ -35,14 +35,29 @@
 
 Date        | Topic / Slides / Activity                      | Homework Due
 ----------- | ---------------------------------------------- | --------------
-&nbsp;      | ### <center>Hardware Abstractions</center>
+&nbsp;      | **Hardware Abstractions**
 M 01/24/22  | Introduction to Abstractions [ [Slides]() : [HW]() ] | W 01/26/22
-W 01/26/22  |                                                |     
-F 01/28/22  |                                                |
-M 01/31/22  |                                                |
-&nbsp;      | Data Abstractions
-W 02/02/22  |                                                |
-...         |                                                |
+W 01/26/22  |  
+F 01/28/22  |
+M 01/31/22  |
+&nbsp;      | **Data Abstractions**
+W 02/02/22  |
+...         |
+&nbsp;      | **Machine Abstractions**
+W 02/11/22  |
+...         |
+&nbsp;      | **Langauge Abstractions**
+W 02/23/22  |
+...         |
+&nbsp;      | **Operating Systems Abstractions**
+W 03/21/22  |
+...         |
+&nbsp;      | **Network Abstractions**
+W 04/08/22  |
+...         |
+&nbsp;      | **Web Abstractions**
+W 04/25/22  |
+...         |
 
 ### Lab Schedule
 
