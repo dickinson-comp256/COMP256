@@ -36,7 +36,7 @@
 Date        | Topic / Slides / Activity                      | Homework Due
 ----------- | ---------------------------------------------- | --------------
 &nbsp;      | **Hardware Abstractions**
-M 01/24/22  | Introduction to Abstractions [ [Slides]() : [HW]() ] | W 01/26/22
+M 01/24/22  | 01 - Introduction to Abstractions [ [Slides][s01] : [HW][hw01] ] | W 01/26/22
 W 01/26/22  |  
 F 01/28/22  |
 M 01/31/22  |
@@ -44,28 +44,33 @@ M 01/31/22  |
 W 02/02/22  |
 ...         |
 &nbsp;      | **Machine Abstractions**
-W 02/11/22  |
+F 02/11/22  |
 ...         |
 &nbsp;      | **Langauge Abstractions**
 W 02/23/22  |
 ...         |
 &nbsp;      | **Operating Systems Abstractions**
-W 03/21/22  |
+M 03/21/22  |
 ...         |
 &nbsp;      | **Network Abstractions**
-W 04/08/22  |
+F 04/08/22  |
 ...         |
 &nbsp;      | **Web Abstractions**
-W 04/25/22  |
+M 04/25/22  |
 ...         |
+&nbsp;      | **Final Exam**
+M 05/09/22  | 9:00am-12:00pm
+
+[s01]: test.com
+[hw01]: test.com
 
 ### Lab Schedule
 
-Date          | Topic / Activity                           | Lab Due
-------------- | ------------------------------------------ | -------------
-01/27/22      | [Switching and Transistors]()              | 02/03/22
-02/03/22      |                                            |              
-...           |                                            |
+Date          | Topic / Activity                                 | Lab Due
+------------- | ------------------------------------------------ | -------------
+01/27/22      | L01 - Switching and Transistors [ [Lab](L01) ]   | 02/03/22
+02/03/22      |  
+...           |
 
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
