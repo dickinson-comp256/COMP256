@@ -36,7 +36,7 @@
 
 Date        | Topic / Slides / Activity                      | Homework Due
 ----------- | ---------------------------------------------- | --------------
-&nbsp;      | <b><center>Hardware Abstractions</center></b>
+&nbsp;      | <center>### Hardware Abstractions</center>
 M 01/24/22  | Introduction to Abstractions [ [Slides]() : [HW]() ] | W 01/26/22
 W 01/26/22  |                                                |     
 F 01/28/22  |                                                |
