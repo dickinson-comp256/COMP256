@@ -36,8 +36,8 @@
 
 Date        | Topic / Activity                               | Homework Due
 ----------- | ---------------------------------------------- | --------------
-| <font color='white' background='black'>Hardware Abstractions</font>
-M 01/24/22  | [Introduction to Abstractions]()               | W 01/26/22
+| <font color='white' background-color='black'>Hardware Abstractions</font>
+M 01/24/22  | Introduction to Abstractions [ [Slides]() | [HW]() ]               | W 01/26/22
 W 01/26/22  |                                                |     
 F 01/28/22  |                                                |
 M 01/31/22  |                                                |
