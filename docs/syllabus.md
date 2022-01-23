@@ -84,6 +84,16 @@ The final is strictly individual work. It will be timed (3 hours), hand written 
 
 The final exam will be graded on a 100%  scale with partial credit given on individual questions.
 
+### Learning Support
+
+There are a number of learning support options available to help with your progress in this course.  If you are finding challenges in completing a homework or a lab, or are having difficulty with a skill or concept from the course you should make use of the following resources:
+- QRA Office Hours: Our course has a Quantitative Reasoning Associate who will be holding evening office hours specifically for this course.  You can find information about the QRA office hours on the course Moodle page.
+- Evening TA Hours: Tome 118 is staffed Sunday-Thursday from 8:00-11:00pm. The course Moodle page includes information about the hours that are staffed with students who have completed this course and may be able to help with your questions.
+- Office Hours: The instructor holds office hours throughout the week.  If you have questions or difficulty with the materials you may drop into any of those hours or make an appointment (via private message on Teams) to meet at another time.
+- Quantitative Reasoning Center: The QR Center will offer both in-person and remote tutoring for this course.
+  - You can make an appointment on [WCONLINE](https://dickinson.mywconline.com/).
+  - The QR Center also provides drop-in tutoring. Check the [weekly schedule](https://www.dickinson.edu/download/downloads/id/13415/spring_2022_qr_tutor_schedule.pdf) and the [list of tutors](https://www.dickinson.edu/info/20525/quantitative_reasoning_center/3636/tutors_by_courses/1) to ensure a tutor can help with your specific need.
+
 ### Course Grades
 
 Final course grades will be assigned using a competency based grading scale. One of the main ideas behind competency based grading is that all students who satisfactorily complete the course have demonstrated a basic competency with all of the essential material in the course. To this end, the table below clearly specifies the requirements for each letter grade. To receive a letter grade all of the stated requirements for that grade must be met.
