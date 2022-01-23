@@ -18,8 +18,7 @@ Students will:
 
 ### Course Schedule
 
-Details including topics, assignments and due dates are indicated on the Course Home Page:
-- https://dickinson-comp-256.github.io/website/
+Details including topics, assignments and due dates are indicated on the [Course Home Page](https://dickinson-comp-256.github.io/website/).
 
 ### Textbook
 
@@ -91,10 +90,10 @@ Final course grades will be assigned using a competency based grading scale. One
 
 Grade  | Requirements
 ------ | ----------------------
-D      | - 70% check for class & lab attendance and engagement<br>- 85% scores of 2 on homework, with no 0's<br>-85% scores of 2 on labs, with no 0's
-C      | - Meet all criteria for D<br>-80% check for class & lab attendance and engagement<br>-100% scores of 2 on homework<br>-100% scores of 2 on labs
-B      | - Meet all criteria for C<br>-85% check for class & lab attendance and engagement<br>- 65% scores of 3 on homework<br>- 40% scores of 3 on labs
-A      | - Meet all criteria for B<br>-90% check for class & lab attendance and engagement<br>- 85% scores of 3 on Homework<br>- 70% scores of 3 on labs
+D      | - 70% check for class & lab attendance and engagement<br>- 85% scores of 2 on homework, with no 0's<br>- 85% scores of 2 on labs, with no 0's
+C      | - Meet all criteria for D<br>- 80% check for class & lab attendance and engagement<br>- 100% scores of 2 on homework<br>- 100% scores of 2 on labs
+B      | - Meet all criteria for C<br>- 85% check for class & lab attendance and engagement<br>- 65% scores of 3 on homework<br>- 40% scores of 3 on labs
+A      | - Meet all criteria for B<br>- 90% check for class & lab attendance and engagement<br>- 85% scores of 3 on Homework<br>- 70% scores of 3 on labs
 
 Exam scores will be averaged with each midterm having a weight of 25% and the final exam having a weight of 50%.  This average will then be used to adjust the grade based on the above criteria either up or down according to the following table:
 
