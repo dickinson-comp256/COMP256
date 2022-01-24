@@ -116,7 +116,7 @@ Exam Average | Adjustment
 
 ### Tokens
 
-Each student begins the semester with 5 tokens.  A token may be used to submit an assignment late but within 1 week of its due date, to resubmit an assignment after the resubmission deadline or to resubmit an assignment an additional time (i.e. a 2nd or 3rd time). Opportunities may be presented throughout the semester to earn additional tokens.
+Each student begins the semester with 5 tokens.  A token may be used to submit or resubmit an assignment after the deadline. Each token grants a 1-week extension and multiple tokens may be used for very late assignments. A token may also be used to resubmit an assignment an additional time (i.e. a 2nd or 3rd time). Opportunities may be presented throughout the semester to earn additional tokens.
 
 ### Writing in the Discipline (WiD)
 
