@@ -61,14 +61,14 @@ M 04/25/22  |
 &nbsp;      | **Final Exam**
 M 05/09/22  | 9:00am-12:00pm
 
-[s01]: test.com
-[hw01]: test.com
+[s01]: sides/01-S-Abstractions.pptx
+[hw01]: homework/01-A-Abstractions.docx
 
 ### Lab Schedule
 
 Date          | Topic / Activity                                 | Lab Due
 ------------- | ------------------------------------------------ | -------------
-01/27/22      | L01 - Switching and Transistors [ [Lab](L01) ]   | 02/03/22
+01/27/22      | L01 - Switching and Transistors    | 02/03/22
 02/03/22      |  
 ...           |
 
