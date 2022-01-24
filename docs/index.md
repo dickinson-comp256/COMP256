@@ -37,9 +37,9 @@ Date        | Topic / Slides / Activity                      | Homework Due
 ----------- | ---------------------------------------------- | --------------
 &nbsp;      | **Hardware Abstractions**
 M 01/24/22  | 01 - Introduction to Abstractions [ [Slides][s01] : [HW][hw01] ] | W 01/26/22
-W 01/26/22  |  
-F 01/28/22  |
-M 01/31/22  |
+W 01/26/22  | 02 - Transistors to Logic Gates
+F 01/28/22  | 03 - Logic Gates to Logic Circuits
+M 01/31/22  | 04 - Simplifying Logic Circuits
 &nbsp;      | **Data Abstractions**
 W 02/02/22  |
 ...         |
