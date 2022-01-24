@@ -61,7 +61,7 @@ M 04/25/22  |
 &nbsp;      | **Final Exam**
 M 05/09/22  | 9:00am-12:00pm
 
-[s01]: sides/01-S-Abstractions.pptx
+[s01]: slides/01-S-Abstractions.pptx
 [hw01]: homework/01-A-Abstractions.docx
 
 ### Lab Schedule
