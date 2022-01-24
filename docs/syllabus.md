@@ -18,7 +18,7 @@ Students will:
 
 ### Course Schedule
 
-Details including topics, assignments and due dates are indicated on the [Course Home Page](https://dickinson-comp-256.github.io/website/).
+Details including topics, assignments and due dates are indicated on the [Course Home Page](https://dickinson-comp256.github.io/website/).
 
 ### Textbook
 
