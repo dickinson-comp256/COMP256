@@ -91,7 +91,7 @@ There are a number of learning support options available to help with your progr
 - Evening TA Hours: Tome 118 is staffed Sunday-Thursday from 8:00-11:00pm. The course Moodle page includes information about the hours that are staffed with students who have completed this course and may be able to help with your questions.
 - Office Hours: The instructor holds office hours throughout the week.  If you have questions or difficulty with the materials you may drop into any of those hours or make an appointment (via private message on Teams) to meet at another time.
 - Quantitative Reasoning Center: The QR Center will offer both in-person and remote tutoring for this course.
-  - You can make an appointment on [WCONLINE](https://dickinson.mywconline.com/).
+  - You can make an appointment on [WCONLINE](https://dickinson.mywconline.com/). Be sure to schedule your appointment with a tutor that can assist with this course.  Check the [list of tutors](https://www.dickinson.edu/info/20525/quantitative_reasoning_center/3636/tutors_by_courses/1) to find one.
   - The QR Center also provides drop-in tutoring. Check the [weekly schedule](https://www.dickinson.edu/download/downloads/id/13415/spring_2022_qr_tutor_schedule.pdf) and the [list of tutors](https://www.dickinson.edu/info/20525/quantitative_reasoning_center/3636/tutors_by_courses/1) to ensure a tutor can help with your specific need.
 
 ### Course Grades
