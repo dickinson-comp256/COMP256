@@ -70,10 +70,11 @@ M 05/09/22  | 9:00am-12:00pm
 
 Date          | Topic / Activity                                 | Lab Due
 ------------- | ------------------------------------------------ | -------------
-01/27/22      | L01 - Switching and Transistors    | 02/03/22
+01/27/22      | L01 - Switching and Transistors [ [Lab](l01) ]   | 02/03/22
 02/03/22      |  
 ...           |
 
+[l01]:labs/01-Switching.docx
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
