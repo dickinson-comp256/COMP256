@@ -74,7 +74,7 @@ Date          | Topic / Activity                                 | Lab Due
 02/03/22      |  
 ...           |
 
-[l01]:labs/01-Switching.docx
+[l01]:labs/L01-Switching.docx
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
