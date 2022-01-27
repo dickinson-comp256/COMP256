@@ -70,7 +70,7 @@ M 05/09/22  | 9:00am-12:00pm
 
 Date          | Topic / Activity                                 | Lab Due
 ------------- | ------------------------------------------------ | -------------
-01/27/22      | L01 - Switching and Transistors [ [Lab](l01) ]   | 02/03/22
+01/27/22      | L01 - Switching and Transistors [ [Lab][l01] ]   | 02/03/22
 02/03/22      |  
 ...           |
 
