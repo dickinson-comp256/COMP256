@@ -41,8 +41,10 @@ W 01/26/22  | 02 - Transistors to Logic Gates [ [Slides][s02] : [HW][hw02] ] | F
 F 01/28/22  | 03 - Logic Gates to Logic Circuits [ [Slides][s03] : [HW][hw03] ] | M 01/31/22
 M 01/31/22  | 04 - Simplifying Logic Circuits
 &nbsp;      | **Data Abstractions**
-W 02/02/22  |
-...         |
+W 02/02/22  | 05 - Unsigned Binary Numbers
+F 02/04/22  | 06 - Non-numeric Data
+M 02/07/22  | 07 - Signed Binary Numbers
+W 02/09/22  | 08 - Fractional Numbers
 &nbsp;      | **Machine Abstractions**
 F 02/11/22  |
 ...         |
