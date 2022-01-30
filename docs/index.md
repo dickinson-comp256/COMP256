@@ -39,7 +39,7 @@ Date        | Topic / Slides / Activity                      | Homework Due
 M 01/24/22  | 01 - Introduction to Abstractions [ [Slides][s01] : [HW][hw01] ] | W 01/26/22
 W 01/26/22  | 02 - Transistors to Logic Gates [ [Slides][s02] : [HW][hw02] ] | F 01/28/22
 F 01/28/22  | 03 - Logic Gates to Logic Circuits [ [Slides][s03] : [HW][hw03] ] | M 01/31/22
-M 01/31/22  | 04 - Simplifying Logic Circuits
+M 01/31/22  | 04 - Simplifying Logic Circuits [ [Slides][s04] : [HW][hw04] ] | W 02/02/22
 &nbsp;      | **Data Abstractions**
 W 02/02/22  | 05 - Unsigned Binary Numbers
 F 02/04/22  | 06 - Non-numeric Data
@@ -69,6 +69,8 @@ M 05/09/22  | 9:00am-12:00pm
 [hw02]: homework/02-A-TransistorsToGates.docx
 [s03]: slides/03-S-GatesToCircuits.pptx
 [hw03]: homework/03-A-GatesToCircuits.docx
+[s04]: slides/04-S-LogicSimplification.pptx
+[hw04]: homework/04-A-LogicSimplification.docx
 
 ### Lab Schedule
 
