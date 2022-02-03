@@ -42,7 +42,7 @@ F 01/28/22  | 03 - Logic Gates to Logic Circuits [ [Slides][s03] : [HW][hw03] ] 
 M 01/31/22  | 04 - Simplifying Logic Circuits [ [Slides][s04] : [HW][hw04] ] | W 02/02/22
 &nbsp;      | **Data Abstractions**
 W 02/02/22  | 05 - Unsigned Binary Numbers [ [Slides][s05] : [HW][hw05] ] | F 02/04/22
-F 02/04/22  | 06 - Non-numeric Data
+F 02/04/22  | 06 - Non-numeric Data [ [Slides][s06] : [HW][hw06] ] | M 02/07/22
 M 02/07/22  | 07 - Signed Binary Numbers
 W 02/09/22  | 08 - Fractional Numbers
 &nbsp;      | **Machine Abstractions**
@@ -73,16 +73,20 @@ M 05/09/22  | 9:00am-12:00pm
 [hw04]: homework/04-A-LogicSimplification.docx
 [s05]: slides/05-S-UnsignedBinary.pptx
 [hw05]: homework/05-A-UnsignedBinary.docx
+[s06]: slides/06-S-NonNumericData.pptx
+[hw06]: homework/05-A-NonNumericData.docx
 
 ### Lab Schedule
 
 Date          | Topic / Activity                                 | Lab Due
 ------------- | ------------------------------------------------ | -------------
 01/27/22      | L01 - Switching and Transistors [ [Lab][l01] ]   | 02/03/22
-02/03/22      |  
+02/03/22      | L02 - Logic Gates & Integrated Circuits [ [Lab][l02] ]   | 02/10/22
 ...           |
 
 [l01]:labs/L01-Switching.docx
+[l02]:labs/L02-GatesIC.docx
+
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
