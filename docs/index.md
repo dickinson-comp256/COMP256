@@ -74,7 +74,7 @@ M 05/09/22  | 9:00am-12:00pm
 [s05]: slides/05-S-UnsignedBinary.pptx
 [hw05]: homework/05-A-UnsignedBinary.docx
 [s06]: slides/06-S-NonNumericData.pptx
-[hw06]: homework/05-A-NonNumericData.docx
+[hw06]: homework/06-A-NonNumericData.docx
 
 ### Lab Schedule
 
