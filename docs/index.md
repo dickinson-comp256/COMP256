@@ -43,7 +43,7 @@ M 01/31/22  | 04 - Simplifying Logic Circuits [ [Slides][s04] : [HW][hw04] ] | W
 &nbsp;      | **Data Abstractions**
 W 02/02/22  | 05 - Unsigned Binary Numbers [ [Slides][s05] : [HW][hw05] ] | F 02/04/22
 F 02/04/22  | 06 - Non-numeric Data [ [Slides][s06] : [HW][hw06] ] | M 02/07/22
-M 02/07/22  | 07 - Signed Binary Numbers
+M 02/07/22  | 07 - Signed Binary Numbers [ [Slides][s07] : [HW][hw07] ] | W 02/09/22
 W 02/09/22  | 08 - Fractional Numbers
 &nbsp;      | **Machine Abstractions**
 F 02/11/22  |
@@ -75,6 +75,8 @@ M 05/09/22  | 9:00am-12:00pm
 [hw05]: homework/05-A-UnsignedBinary.docx
 [s06]: slides/06-S-NonNumericData.pptx
 [hw06]: homework/06-A-NonNumericData.docx
+[s07]: slides/07-S-SignedBinary.pptx
+[hw07]: homework/07-A-SignedBinary.docx
 
 ### Lab Schedule
 
