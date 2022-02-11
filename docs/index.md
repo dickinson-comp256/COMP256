@@ -15,10 +15,11 @@
   - Your "nickname" for login is your Dickinson username.
 
 - The Knob & Switch Computer
-  - [Manual Machine](https://dickinson-comp256/Knob-And-Switch-Computer/dpandmem.html)
-  - [Micro-Programmable Machine](https://dickinson-comp256/Knob-And-Switch-Computer/micromachine.html)
-  - [Machine Language Machine](https://dickinson-comp256/Knob-And-Switch-Computer/machine.html)
-  - [Knob & Switch Assembly/Machine Language Reference](https://dickinson-comp256/Knob-And-Switch-Computer/instructions.html)
+  - [The Datapath](https://dickinson-comp256.github.io/Knob-And-Switch-Computer/datapath.html)
+  - [The Datapath & Memory](https://dickinson-comp256.github.io/Knob-And-Switch-Computer/dpandmem.html)
+  - [Microprogram Machine](https://dickinson-comp256.github.io/Knob-And-Switch-Computer/micromachine.html)
+  - [Machine Language Machine](https://dickinson-comp256.github.io/Knob-And-Switch-Computer/machine.html)
+  - [Knob & Switch Assembly/Machine Language Reference](https://dickinson-comp256.github.io/Knob-And-Switch-Computer/instructions.html)
 
 - Assembler & Machine Simulator
   - [Assembly Language Reference Card](https://dickinson-comp256/AsmMachine/machine/bin/asm-ref.html)
@@ -46,8 +47,11 @@ F 02/04/22  | 06 - Non-numeric Data [ [Slides][s06] : [HW][hw06] ] | M 02/07/22
 M 02/07/22  | 07 - Signed Binary Numbers [ [Slides][s07] : [HW][hw07] ] | W 02/09/22
 W 02/09/22  | 08 - Fractional Numbers [ [Slides][s08] : [HW][hw08] ] | F 02/011/22
 &nbsp;      | **Machine Abstractions**
-F 02/11/22  |
-...         |
+F 02/11/22  | 09 - A Microprogrammed Machine [ [Slides][s09] : [HW][hw09] ] | M 02/14/22
+M 02/14/22  | 10 - A Machine Language Machine | W 02/16/22
+W 02/16/22  | 11 - The Stored Program Architecture | F 02/18/22
+F 02/18/22  | 12 - Memory Hierarchy & Processor Cache | M 02/21/22
+M 02/21/22  | 13 - Pipelining & Parallelism | W 02/23/22
 &nbsp;      | **Langauge Abstractions**
 W 02/23/22  |
 ...         |
@@ -79,6 +83,8 @@ M 05/09/22  | 9:00am-12:00pm
 [hw07]: homework/07-A-SignedBinary.docx
 [s08]: slides/08-S-FractionalNumbers.pptx
 [hw08]: homework/08-A-FractionalNumbers.docx
+[s09]: slides/09-S-MicroProgram.pptx
+[hw09]: homework/08-S-MicroProgram.docx
 
 ### Lab Schedule
 
