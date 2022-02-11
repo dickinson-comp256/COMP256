@@ -84,7 +84,7 @@ M 05/09/22  | 9:00am-12:00pm
 [s08]: slides/08-S-FractionalNumbers.pptx
 [hw08]: homework/08-A-FractionalNumbers.docx
 [s09]: slides/09-S-MicroProgram.pptx
-[hw09]: homework/08-A-MicroProgram.docx
+[hw09]: homework/09-A-MicroProgram.docx
 
 ### Lab Schedule
 
