@@ -48,10 +48,10 @@ M 02/07/22  | 07 - Signed Binary Numbers [ [Slides][s07] : [HW][hw07] ] | W 02/0
 W 02/09/22  | 08 - Fractional Numbers [ [Slides][s08] : [HW][hw08] ] | F 02/011/22
 &nbsp;      | **Machine Abstractions**
 F 02/11/22  | 09 - A Microprogrammed Machine [ [Slides][s09] : [HW][hw09] ] | M 02/14/22
-M 02/14/22  | 10 - A Machine Language Machine | W 02/16/22
+M 02/14/22  | 10 - A Machine Language Machine [ [Slides][s10] : [HW][hw10] ] | W 02/16/22
 W 02/16/22  | 11 - The Stored Program Architecture | F 02/18/22
 F 02/18/22  | 12 - Memory Hierarchy & Processor Cache | M 02/21/22
-M 02/21/22  | 13 - Pipelining & Parallelism | W 02/23/22
+M 02/21/22  | 13 - Pipelining & Parallelism | No Homework
 &nbsp;      | **Langauge Abstractions**
 W 02/23/22  |
 ...         |
@@ -85,6 +85,8 @@ M 05/09/22  | 9:00am-12:00pm
 [hw08]: homework/08-A-FractionalNumbers.docx
 [s09]: slides/09-S-MicroProgram.pptx
 [hw09]: homework/09-A-MicroProgram.docx
+[s10]: slides/10-S-MachineLanguage.pptx
+[hw10]: homework/10-A-MachineLanguage.docx
 
 ### Lab Schedule
 
