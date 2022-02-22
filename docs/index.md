@@ -53,8 +53,17 @@ W 02/16/22  | 11 - The Stored Program Architecture [ [Slides][s11] : [HW][hw11] 
 F 02/18/22  | 12 - Memory Hierarchy & Processor Cache [ [Slides][s12] : [HW][hw12] ]| M 02/21/22
 M 02/21/22  | 13 - Pipelining & Parallelism [ [Slides][s13] ]| No Homework
 &nbsp;      | **Langauge Abstractions**
-W 02/23/22  |
-...         |
+W 02/23/22  | 14 - Translation and Interpretation of Languages| F 02/25/22
+F 02/25/22  | 15 - Assembly Language Programs | M 02/28/22
+M 02/28/22  | 16 - Branching and Looping | W 03/02/22
+W 03/02/22  | No class
+**R 03/03/22**  | **Exam #1 - 3:00-5:00 in Lab** |
+F 03/04/22  | No Class - WiD Assignment Draft | M 03/07/22
+M 03/07/22  | Arrays and Indirect Addressing | W 03/09/22
+W 03/09/22  | Function Calling | F 03/11/22
+F 03/11/22  | Function Implementation | M 03/21/22
+&nbsp;      | *Spring Break*
+&nbsp;      | &nbsp;
 &nbsp;      | **Operating Systems Abstractions**
 M 03/21/22  |
 ...         |
