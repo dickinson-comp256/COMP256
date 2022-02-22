@@ -53,7 +53,7 @@ W 02/16/22  | 11 - The Stored Program Architecture [ [Slides][s11] : [HW][hw11] 
 F 02/18/22  | 12 - Memory Hierarchy & Processor Cache [ [Slides][s12] : [HW][hw12] ]| M 02/21/22
 M 02/21/22  | 13 - Pipelining & Parallelism [ [Slides][s13] ]| No Homework
 &nbsp;      | **Langauge Abstractions**
-W 02/23/22  | 14 - Translation and Interpretation of Languages| F 02/25/22
+W 02/23/22  | 14 - Translation and Interpretation of Languages [ [Slides][s14] : [HW][hw14] ]| F 02/25/22
 F 02/25/22  | 15 - Assembly Language Programs | M 02/28/22
 M 02/28/22  | 16 - Branching and Looping | M 03/07/22
 W 03/02/22  | *No class meeting*
@@ -100,6 +100,9 @@ M 05/09/22  | 9:00am-12:00pm
 [s12]: slides/12-S-MemoryAndCache.pptx
 [hw12]: homework/12-A-MemoryAndCache.docx
 [s13]: slides/13-S-ParallelismPipelining.pptx
+[hw13]: none
+[s14]: slides/14-S-TranslationInterpretation.pptx
+[hw14]: homework/14-A-TranslationInterpretation.docx
 
 ### Lab Schedule
 
