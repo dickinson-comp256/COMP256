@@ -56,14 +56,13 @@ M 02/21/22  | 13 - Pipelining & Parallelism [ [Slides][s13] ]| No Homework
 W 02/23/22  | 14 - Translation and Interpretation of Languages| F 02/25/22
 F 02/25/22  | 15 - Assembly Language Programs | M 02/28/22
 M 02/28/22  | 16 - Branching and Looping | M 03/07/22
-W 03/02/22  | No class
+W 03/02/22  | *No class meeting*
 **R 03/03/22**  | **Exam #1 (through 02/21) - 3:00-5:00 in Lab** |
-F 03/04/22  | No Class - WiD Assignment Draft | M 03/07/22
-M 03/07/22  | Arrays and Indirect Addressing | W 03/09/22
-W 03/09/22  | Function Calling | F 03/11/22
-F 03/11/22  | Function Implementation | M 03/21/22
+F 03/04/22  | *No class meeting* - WiD Assignment Draft | **R 03/10/22**
+M 03/07/22  | 17 - Arrays and Indirect Addressing | W 03/09/22
+W 03/09/22  | 18 - Function Calling | F 03/11/22
+F 03/11/22  | 19 - Function Implementation | M 03/21/22
 &nbsp;      | *Spring Break*
-&nbsp;      | &nbsp;
 &nbsp;      | **Operating Systems Abstractions**
 M 03/21/22  |
 ...         |
