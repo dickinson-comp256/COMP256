@@ -111,13 +111,15 @@ Date          | Topic / Activity                                 | Lab Due
 01/27/22      | L01 - Switching and Transistors [ [Lab][l01] ]   | 02/03/22
 02/03/22      | L02 - Logic Gates & Integrated Circuits [ [Lab][l02] ]   | 02/10/22
 02/10/22      | L03 - Programmable Circuits [ [Lab][l03] ]   | 02/17/22
-02/17/22      | L04 - Sequential Circuits & Memory [ [Lab][l04] ]   | 02/24/22
+02/17/22      | L04 - Sequential Circuits & Static Memory (SRAM) [ [Lab][l04] ]   | 02/24/22
+02/24/22      | L05 - Dynamic Memory (DRAM) [ [Lab][l05] ]   | 03/10/22
 ...           |
 
 [l01]: labs/L01-Switching.docx
 [l02]: labs/L02-GatesIC.docx
 [l03]: labs/L03-ProgCircuits.docx
 [l04]: labs/L04-SeqCircuitsSRAM.docx
+[l05]: labs/L05-DynamicMemory.docx
 
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
