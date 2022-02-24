@@ -1,0 +1,24 @@
+.filechange A17no12.asm
+P: .word 
+Q: .word 
+PDAT: .word 10,20,30
+QDAT: .word 3,5,7
+
+
+LOAD R0 #PDAT 
+STORE R0 P 
+LOAD R0 #QDAT 
+STORE R0 Q 
+
+LOAD R0 STDIN 
+BNZERO R0 CONT 
+
+LOAD R0 Q 
+STORE R0 P 
+
+CONT: LOAD R0 P 
+LOAD R1 R0 
+
+STORE R1 STDOUT 
+
+HALT 

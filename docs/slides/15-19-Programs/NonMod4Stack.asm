@@ -1,0 +1,9 @@
+.stacksize 10
+
+LOAD R0 #15
+PUSH R0
+PUSH R0
+PUSH R0
+PUSH R0
+
+HALT
