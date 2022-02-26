@@ -57,12 +57,12 @@ M 02/21/22  | 13 - Pipelining & Parallelism [ [Slides][s13] ]| No Homework
 &nbsp;      | **Langauge Abstractions**
 W 02/23/22  | 14 - Translation and Interpretation of Languages [ [Slides][s14] : [HW][hw14] ]| F 02/25/22
 F 02/25/22  | 15 - Assembly Language Programs [ [Slides][s15] : [HW][hw15] ] | M 02/28/22
-M 02/28/22  | 16 - Branching and Looping | M 03/07/22
-W 03/02/22  | *No class meeting*
-**R 03/03/22**  | **Exam #1 (through 02/21) - 3:00-5:00 in Lab** |
-F 03/04/22  | *No class meeting* - WiD Assignment Draft | **R 03/10/22**
+M 02/28/22  | 16 - Branching and Looping [ [Video][v16] : [Slides][s16] : [HW][hw16] ]| M 03/07/22
+W 03/02/22  | *No class meeting* - [WiD Assignment Draft](l06) | **F 03/04/22**
+F 03/04/22  | *No class meeting*
 M 03/07/22  | 17 - Arrays and Indirect Addressing | W 03/09/22
 W 03/09/22  | 18 - Function Calling | F 03/11/22
+**R 03/10/22**  | **Exam #1 (through 02/21) - 3:00-5:00 in Lab** |
 F 03/11/22  | 19 - Function Implementation | M 03/21/22
 &nbsp;      | *Spring Break*
 &nbsp;      | **Operating Systems Abstractions**
@@ -107,6 +107,9 @@ M 05/09/22  | 9:00am-12:00pm
 [hw14]: homework/14-A-TranslationInterpretation.docx
 [s15]: slides/15-S-Assembly.pptx
 [hw15]: homework/15-A-Assembly.docx
+[s16]: slides/16-S-Branching.pptx
+[hw16]: homework/16-A-Branching.docx
+[v16]: https://web.microsoftstream.com/video/3a4b5775-86bf-4b97-ba6a-a6fe6b83af4d
 
 ### Lab Schedule
 
@@ -117,6 +120,7 @@ Date          | Topic / Activity                                 | Lab Due
 02/10/22      | L03 - Programmable Circuits [ [Lab][l03] ]   | 02/17/22
 02/17/22      | L04 - Sequential Circuits & Static Memory (SRAM) [ [Lab][l04] ]   | 02/24/22
 02/24/22      | L05 - Dynamic Memory (DRAM) [ [Lab][l05] ]   | 03/10/22
+**W 03/02/22**    | L06 - WiD Draft [ [Lab][l06] ]   | **F 03/04/22**
 ...           |
 
 [l01]: labs/L01-Switching.docx
@@ -124,6 +128,7 @@ Date          | Topic / Activity                                 | Lab Due
 [l03]: labs/L03-ProgCircuits.docx
 [l04]: labs/L04-SeqCircuitsSRAM.docx
 [l05]: labs/L05-DynamicMemory.docx
+[l06]: labs/L06-WiD-Draft.docx
 
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
