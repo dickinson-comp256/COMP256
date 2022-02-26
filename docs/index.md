@@ -107,9 +107,8 @@ M 05/09/22  | 9:00am-12:00pm
 [hw14]: homework/14-A-TranslationInterpretation.docx
 [s15]: slides/15-S-Assembly.pptx
 [hw15]: homework/15-A-Assembly.docx
-[s16]: slides/16-S-Branching.pptx
-[hw16]: homework/16-A-Branching.docx
-[v16]: https://web.microsoftstream.com/video/3a4b5775-86bf-4b97-ba6a-a6fe6b83af4d
+[s16]: slides/16-S-BranchingLooping.pptx
+[hw16]: homework/16-A-BranchingLooping.docx
 
 ### Lab Schedule
 
