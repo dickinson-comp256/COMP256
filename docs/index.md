@@ -58,9 +58,9 @@ M 02/21/22  | 13 - Pipelining & Parallelism [ [Slides][s13] ]| No Homework
 W 02/23/22  | 14 - Translation and Interpretation of Languages [ [Slides][s14] : [HW][hw14] ]| F 02/25/22
 F 02/25/22  | 15 - Assembly Language Programs [ [Slides][s15] : [HW][hw15] ] | M 02/28/22
 M 02/28/22  | 16 - Branching and Looping [ [Slides][s16] : [HW][hw16] ] | M 03/07/22
-W 03/02/22  | *No class meeting* - [WiD Assignment Draft][l06] | **F 03/04/22**
+W 03/02/22  | *No class meeting* - [L06 - WiD Assignment Draft][l06] | **F 03/04/22**
 F 03/04/22  | *No class meeting*
-M 03/07/22  | 17 - Arrays and Indirect Addressing | W 03/09/22
+M 03/07/22  | 17 - Arrays and Indirect Addressing [ [Slides][s17] : [HW][hw17] ] | W 03/09/22
 W 03/09/22  | 18 - Function Calling | F 03/11/22
 **R 03/10/22**  | **Exam #1 (through 02/21) - 3:00-5:00 in Lab** |
 F 03/11/22  | 19 - Function Implementation | M 03/21/22
@@ -109,6 +109,8 @@ M 05/09/22  | 9:00am-12:00pm
 [hw15]: homework/15-A-Assembly.docx
 [s16]: slides/16-S-BranchingLooping.pptx
 [hw16]: homework/16-A-BranchingLooping.docx
+[s17]: slides/17-S-IndirectAddressing.pptx
+[hw17]: homework/17-A-IndirectAddressing.docx
 
 ### Lab Schedule
 
