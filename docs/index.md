@@ -30,7 +30,7 @@
 
 ### Important Dates
 
-- 03/03/2022 (Thursday) - Exam #1
+- 03/10/2022 (Thursday) - Exam #1
 - 04/14/2022 (Thursday) - Exam #2
 - 05/09/2022 (Monday) 9:00am - Final Exam
 
@@ -61,15 +61,17 @@ M 02/28/22  | 16 - Branching and Looping [ [Slides][s16] : [HW][hw16] ] | M 03/0
 W 03/02/22  | *No class meeting* - [L06 - WiD Assignment Draft][l06] | **F 03/04/22**
 F 03/04/22  | *No class meeting*
 M 03/07/22  | 17 - Arrays and Indirect Addressing [ [Slides][s17] : [HW][hw17] ] | W 03/09/22
-W 03/09/22  | 18 - Function Calling | F 03/11/22
+W 03/09/22  | Exam Review Session |
 **R 03/10/22**  | **Exam #1 (through 02/21) - 3:00-5:00 in Lab** |
-F 03/11/22  | 19 - Function Implementation | M 03/21/22
+F 03/11/22  | Assembly Language Programming Practice |
 &nbsp;      | *Spring Break*
+M 03/21/22  | 18 - Function Calling | W 03/23/22
+W 03/23/22  | 19 - Function Implementation | F 03/25/22
 &nbsp;      | **Operating Systems Abstractions**
-M 03/21/22  |
+F 03/25/22  |
 ...         |
 &nbsp;      | **Network Abstractions**
-F 04/08/22  |
+F 04/15/22  |
 ...         |
 &nbsp;      | **Web Abstractions**
 M 04/25/22  |
