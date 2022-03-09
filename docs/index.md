@@ -62,7 +62,7 @@ W 03/02/22  | *No class meeting* - [L06 - WiD Assignment Draft][l06] | **F 03/04
 F 03/04/22  | *No class meeting*
 M 03/07/22  | 17 - Arrays and Indirect Addressing [ [Slides][s17] : [HW][hw17] ] | W 03/09/22
 W 03/09/22  | Exam Review Session |
-**R 03/10/22**  | **Exam #1 (through 02/21) - 3:00-5:00 in Lab** |
+**R 03/10/22**  | **Exam #1 (through 02/21) - 3:00-5:00 in Lab** [Exam 1 - Review][ex1]|
 F 03/11/22  | Assembly Language Programming Practice |
 &nbsp;      | *Spring Break*
 M 03/21/22  | 18 - Function Calling | W 03/23/22
@@ -113,6 +113,7 @@ M 05/09/22  | 9:00am-12:00pm
 [hw16]: homework/16-A-BranchingLooping.docx
 [s17]: slides/17-S-IndirectAddressing.pptx
 [hw17]: homework/17-A-IndirectAddressing.docx
+[ex1]: homework/Exam1Review.docx
 
 ### Lab Schedule
 
