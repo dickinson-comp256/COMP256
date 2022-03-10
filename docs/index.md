@@ -114,7 +114,7 @@ M 05/09/22  | 9:00am-12:00pm
 [s17]: slides/17-S-IndirectAddressing.pptx
 [hw17]: homework/17-A-IndirectAddressing.docx
 [ex1]: homework/Exam1Review.docx
-[asm]: slides/17.5-S-AsmActivities.docx
+[asm]: slides/17.5-S-AsmActivities.pptx
 
 ### Lab Schedule
 
