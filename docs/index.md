@@ -65,8 +65,8 @@ W 03/09/22  | Exam Review Session |
 **R 03/10/22**  | **Exam #1 (through 02/21) - 3:00-5:00 in Lab** [Exam 1 - Review][ex1]|
 F 03/11/22  | Assembly Language Programming Practice [ [Slides][asm] ] |
 &nbsp;      | *Spring Break*
-M 03/21/22  | 18 - Function Calling | W 03/23/22
-W 03/23/22  | 19 - Function Implementation | F 03/25/22
+M 03/21/22  | 18 - Calling Functions [ [Slides][s18] : [HW][hw18] ] | W 03/23/22
+W 03/23/22  | 19 - Implementing Functions | F 03/25/22
 &nbsp;      | **Operating Systems Abstractions**
 F 03/25/22  |
 ...         |
@@ -115,6 +115,8 @@ M 05/09/22  | 9:00am-12:00pm
 [hw17]: homework/17-A-IndirectAddressing.docx
 [ex1]: homework/Exam1Review.docx
 [asm]: slides/17.5-S-AsmActivities.pptx
+[s18]: slides/18-S-CallingFunctions.pptx
+[hw18]: homework/18-A-CallingFunctions.docx
 
 ### Lab Schedule
 
