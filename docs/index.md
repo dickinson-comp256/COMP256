@@ -66,7 +66,7 @@ W 03/09/22  | Exam Review Session |
 F 03/11/22  | Assembly Language Programming Practice [ [Slides][asm] ] |
 &nbsp;      | *Spring Break*
 M 03/21/22  | 18 - Calling Functions [ [Slides][s18] : [HW][hw18] ] | W 03/23/22
-W 03/23/22  | 19 - Implementing Functions | F 03/25/22
+W 03/23/22  | 19 - Implementing Functions [ [Slides][s19] : [HW][hw19] ] | F 03/25/22
 &nbsp;      | **Operating Systems Abstractions**
 F 03/25/22  |
 ...         |
@@ -117,6 +117,8 @@ M 05/09/22  | 9:00am-12:00pm
 [asm]: slides/17.5-S-AsmActivities.pptx
 [s18]: slides/18-S-CallingFunctions.pptx
 [hw18]: homework/18-A-CallingFunctions.docx
+[s18]: slides/19-S-ImplementingFunctions.pptx
+[hw18]: homework/18-A-ImplementingFunctions.docx
 
 ### Lab Schedule
 
