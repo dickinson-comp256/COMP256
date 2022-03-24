@@ -140,8 +140,8 @@ Date          | Topic / Activity                                 | Lab Due
 [l05]: labs/L05-DynamicMemory.docx
 [l06]: labs/L06-WiD-Draft.docx
 [l07]: labs/L07-A-Interpreter.docx
-[ls07]: labs/07-S-Interpreter.pptx
-[lc07]: labs/07-A-Interpreter.zip
+[ls07]: labs/L07-S-Interpreter.pptx
+[lc07]: labs/L07-A-Interpreter.zip
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
