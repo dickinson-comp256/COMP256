@@ -130,7 +130,7 @@ Date          | Topic / Activity                                 | Lab Due
 02/17/22      | L04 - Sequential Circuits & Static Memory (SRAM) [ [Lab][l04] ]   | 02/24/22
 02/24/22      | L05 - Dynamic Memory (DRAM) [ [Lab][l05] ]   | 03/10/22
 **W 03/02/22**    | L06 - WiD Draft [ [Lab][l06] ]   | **F 03/04/22**
-03/24/22      | L07/08 - A Silli Interpreter [ [Lab][l07] : [Slides][ls07] : [Starter Code][lc07]]
+03/24/22      | L07/08 - A Silli Interpreter [ [Lab][l07] : [Slides][ls07] : [Starter Code][lc07]] | 04/07/22 (2 Weeks)
 ...           |
 
 [l01]: labs/L01-Switching.docx
