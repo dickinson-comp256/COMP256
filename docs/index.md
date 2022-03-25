@@ -120,7 +120,7 @@ M 05/09/22  | 9:00am-12:00pm
 [hw18]: homework/18-A-CallingFunctions.docx
 [s19]: slides/19-S-ImplementingFunctions.pptx
 [hw19]: homework/19-A-ImplementingFunctions.docx
-[asm2]: slides/18.5-S-AsmActivities.pptx
+[asm2]: slides/19.5-S-AsmActivities.pptx
 
 ### Lab Schedule
 
