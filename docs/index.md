@@ -66,9 +66,10 @@ W 03/09/22  | Exam Review Session |
 F 03/11/22  | Assembly Language Programming Practice [ [Slides][asm] ] |
 &nbsp;      | *Spring Break*
 M 03/21/22  | 18 - Calling Functions [ [Slides][s18] : [HW][hw18] ] | W 03/23/22
-W 03/23/22  | 19 - Implementing Functions [ [Slides][s19] : [HW][hw19] ] | F 03/25/22
+W 03/23/22  | 19 - Implementing Functions [ [Slides][s19] : [HW][hw19] ] | M 03/28/22
+F 03/25/22  | Assembly Language Programming Practice [ [Slides][asm2] ] | 
 &nbsp;      | **Operating Systems Abstractions**
-F 03/25/22  |
+M 03/28/22  |
 ...         |
 &nbsp;      | **Network Abstractions**
 F 04/15/22  |
