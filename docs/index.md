@@ -77,7 +77,6 @@ W 04/06/22  | Paged Virtual Memory | F 04/08/22
 F 04/08/22  | I/O and File Systems | M 04/11/22
 M 04/11/22  | Threads and Concurrency | W 04/13/22
 W 04/13/22  | Race Conditions and Synchronization | F 04/15/22
-...         |
 &nbsp;      | **Network Abstractions**
 F 04/15/22  |
 ...         |
