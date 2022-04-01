@@ -71,7 +71,7 @@ F 03/25/22  | Assembly Language Programming Practice [ [Slides][asm2] ] |
 &nbsp;      | **Operating Systems Abstractions**
 M 03/28/22  | Operating Systems Abstractions [ [Slides][s20] : [HW][hw20] ] | W 03/30/22
 W 03/30/22  | Multiprogramming, Processes, Context [ [Slides][s21] : [HW][hw21] ] | F 04/01/22
-F 04/01/22  | Interrupts & System Calls | M 04/04/22
+F 04/01/22  | Interrupts & System Calls [ [Slides][s22] : [HW][hw22] ] | M 04/04/22
 M 04/04/22  | Logical Memory | W 04/06/22
 W 04/06/22  | Paged Virtual Memory | F 04/08/22
 F 04/08/22  | I/O and File Systems | M 04/11/22
@@ -131,6 +131,8 @@ M 05/09/22  | 9:00am-12:00pm
 [hw20]: homework/20-A-OSAbstractions.docx
 [s21]: slides/21-S-Processes.pptx
 [hw21]: homework/21-A-Processes.docx
+[s22]: slides/22-S-Interrupts.pptx
+[hw22]: homework/22-A-Interrupts.docx
 
 ### Lab Schedule
 
