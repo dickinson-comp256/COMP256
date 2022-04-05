@@ -135,6 +135,8 @@ M 05/09/22  | 9:00am-12:00pm
 [hw22]: homework/22-A-Interrupts.docx
 [s23]: slides/23-S-LogicalMemory.pptx
 [hw23]: homework/23-A-LogicalMemory.docx
+[s24]: slides/24-S-VirtualMemory.pptx
+[hw24]: homework/24-A-VirtualMemory.docx
 
 ### Lab Schedule
 
