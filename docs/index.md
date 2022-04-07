@@ -161,7 +161,7 @@ Date          | Topic / Activity                                 | Lab Due
 [l07]: labs/L07-A-Interpreter.docx
 [ls07]: labs/L07-S-Interpreter.pptx
 [lc07]: labs/L07-A-Interpreter.zip
-[l08] : labs/L08-A-WiDFeedback.docx
+[l08]: labs/L08-A-WiDFeedback.docx
 
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
