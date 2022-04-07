@@ -149,7 +149,7 @@ Date          | Topic / Activity                                 | Lab Due
 02/24/22      | L05 - Dynamic Memory (DRAM) [ [Lab][l05] ]   | 03/10/22
 **W 03/02/22**    | L06 - WiD Draft [ [Lab][l06] ]   | **F 03/04/22**
 03/24/22      | L07/08 - A Silli Interpreter [ [Lab][l07] : [Slides][ls07] : [Starter Code][lc07]] | 04/07/22 (2 Weeks)
-04/07/22      | L08 - WiD Feedback [ [Lab][l08] ]   | 04/14/22
+04/07/22      | L08 - WiD Peer Feedback [ [Lab][l08] ]   | 04/14/22
 ...           |
 
 [l01]: labs/L01-Switching.docx
