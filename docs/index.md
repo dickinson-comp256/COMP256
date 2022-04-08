@@ -74,7 +74,7 @@ W 03/30/22  | Multiprogramming, Processes, Context [ [Slides][s21] : [HW][hw21] 
 F 04/01/22  | Interrupts & System Calls [ [Slides][s22] : [HW][hw22] ] | M 04/04/22
 M 04/04/22  | Logical Memory [ [Slides][s23] : [HW][hw23] ] | W 04/06/22
 W 04/06/22  | Paged Virtual Memory [ [Slides][s24] : [HW][hw24] ] | F 04/08/22
-F 04/08/22  | I/O and File Systems [ [Slides][s25]  | No Homework
+F 04/08/22  | I/O and File Systems [ [Slides][s25] ] | No Homework
 M 04/11/22  | Threads and Concurrency | F 04/15/22
 W 04/13/22  | Exam Review Session
 **R 04/14/22**  | **Exam #2 (through 04/08) - 3:00-5:00 in Lab** |
