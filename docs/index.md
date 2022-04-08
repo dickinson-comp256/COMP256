@@ -78,7 +78,7 @@ F 04/08/22  | I/O and File Systems [ [Slides][s25] ] | No Homework
 M 04/11/22  | Threads and Concurrency | F 04/15/22
 W 04/13/22  | Exam Review Session
 **R 04/14/22**  | **Exam #2 (through 04/08) - 3:00-5:00 in Lab** |
-F 04/15/22  | Race Conditions and Synchronization | M 04/15/22
+F 04/15/22  | Race Conditions and Synchronization | M 04/18/22
 &nbsp;      | **Web Abstractions**
 M 04/18/22  |
 ...         |
