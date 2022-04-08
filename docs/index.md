@@ -74,15 +74,18 @@ W 03/30/22  | Multiprogramming, Processes, Context [ [Slides][s21] : [HW][hw21] 
 F 04/01/22  | Interrupts & System Calls [ [Slides][s22] : [HW][hw22] ] | M 04/04/22
 M 04/04/22  | Logical Memory [ [Slides][s23] : [HW][hw23] ] | W 04/06/22
 W 04/06/22  | Paged Virtual Memory [ [Slides][s24] : [HW][hw24] ] | F 04/08/22
-F 04/08/22  | I/O and File Systems | M 04/11/22
-M 04/11/22  | Threads and Concurrency | W 04/13/22
-W 04/13/22  | Race Conditions and Synchronization | F 04/15/22
-&nbsp;      | **Network Abstractions**
-F 04/15/22  |
-...         |
+F 04/08/22  | I/O and File Systems [ [Slides][s25]  | No Homework
+M 04/11/22  | Threads and Concurrency | F 04/15/22
+W 04/13/22  | Exam Review Session
+**R 04/14/22**  | **Exam #2 (through 04/08) - 3:00-5:00 in Lab** |
+F 04/15/22  | Race Conditions and Synchronization | M 04/15/22
 &nbsp;      | **Web Abstractions**
-M 04/25/22  |
+M 04/18/22  |
 ...         |
+&nbsp;      | **Network Abstractions**
+F 05/02/22  |
+...         |
+
 &nbsp;      | **Final Exam**
 M 05/09/22  | 9:00am-12:00pm
 
@@ -137,6 +140,7 @@ M 05/09/22  | 9:00am-12:00pm
 [hw23]: homework/23-A-LogicalMemory.docx
 [s24]: slides/24-S-VirtualMemory.pptx
 [hw24]: homework/24-A-VirtualMemory.docx
+[s25]: slides/25-S-IOFileSystems.pptx
 
 ### Lab Schedule
 
