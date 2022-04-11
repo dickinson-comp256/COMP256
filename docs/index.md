@@ -61,8 +61,8 @@ M 02/28/22  | 16 - Branching and Looping [ [Slides][s16] : [HW][hw16] ] | M 03/0
 W 03/02/22  | *No class meeting* - [L06 - WiD Assignment Draft][l06] | **F 03/04/22**
 F 03/04/22  | *No class meeting*
 M 03/07/22  | 17 - Arrays and Indirect Addressing [ [Slides][s17] : [HW][hw17] ] | W 03/09/22
-W 03/09/22  | Exam Review Session |
-**R 03/10/22**  | **Exam #1 (through 02/21) - 3:00-5:00 in Lab** [Exam 1 - Review][ex1] |
+W 03/09/22  | Exam Review Session [ [Exam 1 - Review][ex1] ] |
+**R 03/10/22**  | **Exam #1 (through 02/21) - 3:00-5:00 in Lab**  |
 F 03/11/22  | Assembly Language Programming Practice [ [Slides][asm] ] |
 &nbsp;      | *Spring Break*
 M 03/21/22  | 18 - Calling Functions [ [Slides][s18] : [HW][hw18] ] | W 03/23/22
@@ -76,8 +76,8 @@ M 04/04/22  | 23 - Logical Memory [ [Slides][s23] : [HW][hw23] ] | W 04/06/22
 W 04/06/22  | 24- Paged Virtual Memory [ [Slides][s24] : [HW][hw24] ] | F 04/08/22
 F 04/08/22  | 25- I/O and File Systems [ [Slides][s25] ] | No Homework
 M 04/11/22  | 26- Threads and Concurrency [ [Slides][s26] : [HW][hw26] ]| F 04/15/22
-W 04/13/22  | Exam Review Session
-**R 04/14/22**  | **Exam #2 (through 04/08) - 3:00-5:00 in Lab** [Exam 2 - Review][ex2] |
+W 04/13/22  | Exam Review Session [ [Exam 2 - Review][ex2] ] |
+**R 04/14/22**  | **Exam #2 (through 04/08) - 3:00-5:00 in Lab**  |
 F 04/15/22  | 27 - Race Conditions and Synchronization | M 04/18/22
 &nbsp;      | **Web Abstractions**
 M 04/18/22  |
