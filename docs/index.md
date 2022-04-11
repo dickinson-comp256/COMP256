@@ -75,7 +75,7 @@ F 04/01/22  | 22 - Interrupts & System Calls [ [Slides][s22] : [HW][hw22] ] | M 
 M 04/04/22  | 23 - Logical Memory [ [Slides][s23] : [HW][hw23] ] | W 04/06/22
 W 04/06/22  | 24- Paged Virtual Memory [ [Slides][s24] : [HW][hw24] ] | F 04/08/22
 F 04/08/22  | 25- I/O and File Systems [ [Slides][s25] ] | No Homework
-M 04/11/22  | 26- Threads and Concurrency | F 04/15/22
+M 04/11/22  | 26- Threads and Concurrency [ [Slides][s26] : [HW][hw26] ]| F 04/15/22
 W 04/13/22  | Exam Review Session
 **R 04/14/22**  | **Exam #2 (through 04/08) - 3:00-5:00 in Lab** |
 F 04/15/22  | 27 - Race Conditions and Synchronization | M 04/18/22
@@ -141,6 +141,8 @@ M 05/09/22  | 9:00am-12:00pm
 [s24]: slides/24-S-VirtualMemory.pptx
 [hw24]: homework/24-A-VirtualMemory.docx
 [s25]: slides/25-S-IOFileSystems.pptx
+[s26]: slides/26-S-Threads.pptx
+[hw26]: homework/26-A-Threads.docx
 
 ### Lab Schedule
 
