@@ -75,15 +75,21 @@ F 04/01/22  | 22 - Interrupts & System Calls [ [Slides][s22] : [HW][hw22] ] | M 
 M 04/04/22  | 23 - Logical Memory [ [Slides][s23] : [HW][hw23] ] | W 04/06/22
 W 04/06/22  | 24- Paged Virtual Memory [ [Slides][s24] : [HW][hw24] ] | F 04/08/22
 F 04/08/22  | 25- I/O and File Systems [ [Slides][s25] ] | No Homework
-M 04/11/22  | 26- Threads and Concurrency [ [Slides][s26] : [HW][hw26] ]| F 04/15/22
+M 04/11/22  | 26- Threads and Concurrency [ [Slides][s26] : [HW][hw26] ] | F 04/15/22
 W 04/13/22  | Exam Review Session [ [Exam 2 - Review][ex2] ] |
 **R 04/14/22**  | **Exam #2 (through 04/08) - 3:00-5:00 in Lab**  |
-F 04/15/22  | 27 - Race Conditions and Synchronization | M 04/18/22
+F 04/15/22  | 27 - Race Conditions and Synchronization [ [Slides][s27] : [HW][hw27] ] | W 04/20ß/22
+M 04/18/22  | No Class - Catchup on Missing or Revised OS Topic Homework
 &nbsp;      | **Web Abstractions**
-M 04/18/22  |
-...         |
+W 04/20/22  | 28 - Web Abstractions & HTML | F 04/22/22
+F 04/22/22  | 29 - Cascading Style Sheets | M 04/22/22
+M 04/25/22  | 30 - Frontend Dynamic Content (Javascript) | W 04/27/22
+W 04/27/22  | 31 - Using Web API's | F 04/29/22
+F 04/29/22  | 32 - Databases | M 05/02/22
+M 05/02/22  | 33 - Backend Dynamic Content | W 05/04/22
 &nbsp;      | **Network Abstractions**
-F 05/02/22  |
+W 05/04/22  |
+F 05/06/22  |
 ...         |
 
 &nbsp;      | **Final Exam**
@@ -145,6 +151,8 @@ M 05/09/22  | 9:00am-12:00pm
 [ex2]: homework/Exam2Review.docx
 [s26]: slides/26-S-Threads.pptx
 [hw26]: homework/26-A-Threads.docx
+[s27]: slides/27-S-RaceConditions.pptx
+[hw27]: homework/27-A-RaceConditions.docx
 
 ### Lab Schedule
 
