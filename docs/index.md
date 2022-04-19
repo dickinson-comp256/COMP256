@@ -81,7 +81,7 @@ W 04/13/22  | Exam Review Session [ [Exam 2 - Review][ex2] ] |
 F 04/15/22  | 27 - Race Conditions and Synchronization [ [Slides][s27] : [HW][hw27] ] | W 04/20ß/22
 M 04/18/22  | No Class - Catchup on Missing or Revised OS Topic Homework
 &nbsp;      | **Web Abstractions**
-W 04/20/22  | 28 - Web Abstractions & HTML | F 04/22/22
+W 04/20/22  | 28 - Web Abstractions & HTML [ [Slides][s28] : [HW][hw28] ] | F 04/22/22
 F 04/22/22  | 29 - Cascading Style Sheets | M 04/22/22
 M 04/25/22  | 30 - Frontend Dynamic Content (Javascript) | W 04/27/22
 W 04/27/22  | 31 - Using Web API's | F 04/29/22
@@ -153,6 +153,8 @@ M 05/09/22  | 9:00am-12:00pm
 [hw26]: homework/26-A-Threads.docx
 [s27]: slides/27-S-RaceConditions.pptx
 [hw27]: homework/27-A-RaceConditions.docx
+[s28]: slides/28-S-WebAbstractions.pptx
+[hw28]: homework/28-A-WebAbstractions.docx
 
 ### Lab Schedule
 
