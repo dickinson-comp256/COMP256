@@ -168,6 +168,7 @@ Date          | Topic / Activity                                 | Lab Due
 **W 03/02/22**    | L06 - WiD Draft [ [Lab][l06] ]   | **F 03/04/22**
 03/24/22      | L07 - A Silli Interpreter [ [Lab][l07] : [Slides][ls07] : [Starter Code][lc07]] | 04/07/22 (2 Weeks)
 04/07/22      | L08 - WiD Peer Feedback [ [Lab][l08] ]   | 04/14/22
+04/21/22      | L09 - Assembly Programming & Recursion [ [Lab][l09] ]   | 04/28/22
 ...           |
 
 [l01]: labs/L01-Switching.docx
@@ -180,7 +181,7 @@ Date          | Topic / Activity                                 | Lab Due
 [ls07]: labs/L07-S-Interpreter.pptx
 [lc07]: labs/L07-A-Interpreter.zip
 [l08]: labs/L08-A-WiDFeedback.docx
-
+[l09]: labs/L09-A-AssemblyProg.docx
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
