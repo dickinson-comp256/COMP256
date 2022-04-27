@@ -84,7 +84,7 @@ M 04/18/22  | No Class - Catchup on Missing or Revised OS Topic Homework
 W 04/20/22  | 28 - Web Abstractions & HTML [ [Slides][s28] : [HW][hw28] ] | F 04/22/22
 F 04/22/22  | 29 - Cascading Style Sheets [ [Slides][s29] : [HW][hw29] ] | M 04/22/22
 M 04/25/22  | 30 - Frontend Dynamic Content (Javascript) [ [Slides][s30] : [HW][hw30] ] | W 04/27/22
-W 04/27/22  | 31 - Using Web API's [Slides][s31] : [HW][hw31]| F 04/29/22
+W 04/27/22  | 31 - Using Web API's [ [Slides][s31] : [HW][hw31] ] | F 04/29/22
 F 04/29/22  | 32 - Databases | M 05/02/22
 M 05/02/22  | 33 - Backend Dynamic Content | W 05/04/22
 &nbsp;      | **Network Abstractions**
