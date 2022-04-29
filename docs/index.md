@@ -162,7 +162,7 @@ M 05/09/22  | 9:00am-12:00pm
 [s31]: slides/31-S-WebAPIs.pptx
 [hw31]: homework/31-A-WebAPIs.docx
 [s32]: slides/32-S-Databases.pptx
-[hw32]: homework/31-A-Databases.docx
+[hw32]: homework/32-A-Databases.docx
 
 ### Lab Schedule
 
