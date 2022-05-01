@@ -36,62 +36,60 @@
 
 ### Class Schedule
 
-Date        | Topic / Slides / Activity                      | Homework Due
------------ | ---------------------------------------------- | --------------
-&nbsp;      | **Hardware Abstractions**
-M 01/24/22  | 01 - Introduction to Abstractions [ [Slides][s01] : [HW][hw01] ] | W 01/26/22
-W 01/26/22  | 02 - Transistors to Logic Gates [ [Slides][s02] : [HW][hw02] ] | F 01/28/22
-F 01/28/22  | 03 - Logic Gates to Logic Circuits [ [Slides][s03] : [HW][hw03] ] | M 01/31/22
-M 01/31/22  | 04 - Simplifying Logic Circuits [ [Slides][s04] : [HW][hw04] ] | W 02/02/22
-&nbsp;      | **Data Abstractions**
-W 02/02/22  | 05 - Unsigned Binary Numbers [ [Slides][s05] : [HW][hw05] ] | F 02/04/22
-F 02/04/22  | 06 - Non-numeric Data [ [Slides][s06] : [HW][hw06] ] | M 02/07/22
-M 02/07/22  | 07 - Signed Binary Numbers [ [Slides][s07] : [HW][hw07] ] | W 02/09/22
-W 02/09/22  | 08 - Fractional Numbers [ [Slides][s08] : [HW][hw08] ] | F 02/011/22
-&nbsp;      | **Machine Abstractions**
-F 02/11/22  | 09 - A Microprogrammed Machine [ [Slides][s09] : [HW][hw09] ] | M 02/14/22
-M 02/14/22  | 10 - A Machine Language Machine [ [Slides][s10] : [HW][hw10] ] | W 02/16/22
-W 02/16/22  | 11 - The Stored Program Architecture [ [Slides][s11] : [HW][hw11] ] | F 02/18/22
-F 02/18/22  | 12 - Memory Hierarchy & Processor Cache [ [Slides][s12] : [HW][hw12] ]| M 02/21/22
-M 02/21/22  | 13 - Pipelining & Parallelism [ [Slides][s13] ]| No Homework
-&nbsp;      | **Langauge Abstractions**
-W 02/23/22  | 14 - Translation and Interpretation of Languages [ [Slides][s14] : [HW][hw14] ]| F 02/25/22
-F 02/25/22  | 15 - Assembly Language Programs [ [Slides][s15] : [HW][hw15] ] | M 02/28/22
-M 02/28/22  | 16 - Branching and Looping [ [Slides][s16] : [HW][hw16] ] | M 03/07/22
-W 03/02/22  | *No class meeting* - [L06 - WiD Assignment Draft][l06] | **F 03/04/22**
-F 03/04/22  | *No class meeting*
-M 03/07/22  | 17 - Arrays and Indirect Addressing [ [Slides][s17] : [HW][hw17] ] | W 03/09/22
-W 03/09/22  | Exam Review Session [ [Exam 1 - Review][ex1] ] |
-**R 03/10/22**  | **Exam #1 (through 02/21) - 3:00-5:00 in Lab**  |
-F 03/11/22  | Assembly Language Programming Practice [ [Slides][asm] ] |
-&nbsp;      | *Spring Break*
-M 03/21/22  | 18 - Calling Functions [ [Slides][s18] : [HW][hw18] ] | W 03/23/22
-W 03/23/22  | 19 - Implementing Functions [ [Slides][s19] : [HW][hw19] ] | M 03/28/22
-F 03/25/22  | Assembly Language Programming Practice [ [Slides][asm2] ] |
-&nbsp;      | **Operating Systems Abstractions**
-M 03/28/22  | 20 - Operating Systems Abstractions [ [Slides][s20] : [HW][hw20] ] | W 03/30/22
-W 03/30/22  | 21 - Multiprogramming, Processes, Context [ [Slides][s21] : [HW][hw21] ] | F 04/01/22
-F 04/01/22  | 22 - Interrupts & System Calls [ [Slides][s22] : [HW][hw22] ] | M 04/04/22
-M 04/04/22  | 23 - Logical Memory [ [Slides][s23] : [HW][hw23] ] | W 04/06/22
-W 04/06/22  | 24- Paged Virtual Memory [ [Slides][s24] : [HW][hw24] ] | F 04/08/22
-F 04/08/22  | 25- I/O and File Systems [ [Slides][s25] ] | No Homework
-M 04/11/22  | 26- Threads and Concurrency [ [Slides][s26] : [HW][hw26] ] | F 04/15/22
-W 04/13/22  | Exam Review Session [ [Exam 2 - Review][ex2] ] |
-**R 04/14/22**  | **Exam #2 (through 04/08) - 3:00-5:00 in Lab**  |
-F 04/15/22  | 27 - Race Conditions and Synchronization [ [Slides][s27] : [HW][hw27] ] | W 04/20ß/22
-M 04/18/22  | No Class - Catchup on Missing or Revised OS Topic Homework
-&nbsp;      | **Web Abstractions**
-W 04/20/22  | 28 - Web Abstractions & HTML [ [Slides][s28] : [HW][hw28] ] | F 04/22/22
-F 04/22/22  | 29 - Cascading Style Sheets [ [Slides][s29] : [HW][hw29] ] | M 04/22/22
-M 04/25/22  | 30 - Frontend Dynamic Content (Javascript) [ [Slides][s30] : [HW][hw30] ] | W 04/27/22
-W 04/27/22  | 31 - Using Web API's [ [Slides][s31] : [HW][hw31] ] | F 04/29/22
-F 04/29/22  | 32 - Databases [ [Slides][s32] : [HW][hw32] ]| M 05/02/22
-M 05/02/22  | 33 - Backend Dynamic Content | W 05/04/22
-&nbsp;      | **Network Abstractions**
+Date        | Topic / Slides / Activity                                                                 | Homework Due
+----------- | ----------------------------------------------------------------------------------------- | --------------
+&nbsp;      | **Hardware Abstractions**                                                                 |
+M 01/24/22  | 01 - Introduction to Abstractions                  [ [Slides][s01] : [HW][hw01] ]         | W 01/26/22
+W 01/26/22  | 02 - Transistors to Logic Gates                    [ [Slides][s02] : [HW][hw02] ]         | F 01/28/22
+F 01/28/22  | 03 - Logic Gates to Logic Circuits                 [ [Slides][s03] : [HW][hw03] ]         | M 01/31/22
+M 01/31/22  | 04 - Simplifying Logic Circuits                    [ [Slides][s04] : [HW][hw04] ]         | W 02/02/22
+&nbsp;      | **Data Abstractions**                                                                     |
+W 02/02/22  | 05 - Unsigned Binary Numbers                       [ [Slides][s05] : [HW][hw05] ]         | F 02/04/22
+F 02/04/22  | 06 - Non-numeric Data                              [ [Slides][s06] : [HW][hw06] ]         | M 02/07/22
+M 02/07/22  | 07 - Signed Binary Numbers                         [ [Slides][s07] : [HW][hw07] ]         | W 02/09/22
+W 02/09/22  | 08 - Fractional Numbers                            [ [Slides][s08] : [HW][hw08] ]         | F 02/011/22
+&nbsp;      | **Machine Abstractions**                                                                  |
+F 02/11/22  | 09 - A Microprogrammed Machine                     [ [Slides][s09] : [HW][hw09] ]         | M 02/14/22
+M 02/14/22  | 10 - A Machine Language Machine                    [ [Slides][s10] : [HW][hw10] ]         | W 02/16/22
+W 02/16/22  | 11 - The Stored Program Architecture               [ [Slides][s11] : [HW][hw11] ]         | F 02/18/22
+F 02/18/22  | 12 - Memory Hierarchy & Processor Cache            [ [Slides][s12] : [HW][hw12] ]         | M 02/21/22
+M 02/21/22  | 13 - Pipelining & Parallelism                      [ [Slides][s13] ]                      | No Homework
+&nbsp;      | **Langauge Abstractions**                                                                 |
+W 02/23/22  | 14 - Translation and Interpretation of Languages   [ [Slides][s14] : [HW][hw14] ]         | F 02/25/22
+F 02/25/22  | 15 - Assembly Language Programs                    [ [Slides][s15] : [HW][hw15] ]         | M 02/28/22
+M 02/28/22  | 16 - Branching and Looping                         [ [Slides][s16] : [HW][hw16] ]         | M 03/07/22
+W 03/02/22  | *No class meeting* -                               [L06 - WiD Assignment Draft][l06]      | **F 03/04/22**
+F 03/04/22  | *No class meeting*                                                                        |
+M 03/07/22  | 17 - Arrays and Indirect Addressing                [ [Slides][s17] : [HW][hw17] ]         | W 03/09/22
+W 03/09/22  | Exam Review Session                                [ [Exam 1 - Review][ex1] ]             |
+**R 03/10/22**  | **Exam #1 (through 02/21) - 3:00-5:00 in Lab**                                        |
+F 03/11/22  | Assembly Language Programming Practice             [ [Slides][asm] ]                      |
+&nbsp;      | *Spring Break*                                                                            |
+M 03/21/22  | 18 - Calling Functions                             [ [Slides][s18] : [HW][hw18] ]         | W 03/23/22
+W 03/23/22  | 19 - Implementing Functions                        [ [Slides][s19] : [HW][hw19] ]         | M 03/28/22
+F 03/25/22  | Assembly Language Programming Practice             [ [Slides][asm2] ]                     |
+&nbsp;      | **Operating Systems Abstractions**                                                        |
+M 03/28/22  | 20 - Operating Systems Abstractions                [ [Slides][s20] : [HW][hw20] ]         | W 03/30/22
+W 03/30/22  | 21 - Multiprogramming, Processes, Context          [ [Slides][s21] : [HW][hw21] ]         | F 04/01/22
+F 04/01/22  | 22 - Interrupts & System Calls                     [ [Slides][s22] : [HW][hw22] ]         | M 04/04/22
+M 04/04/22  | 23 - Logical Memory                                [ [Slides][s23] : [HW][hw23] ]         | W 04/06/22
+W 04/06/22  | 24- Paged Virtual Memory                           [ [Slides][s24] : [HW][hw24] ]         | F 04/08/22
+F 04/08/22  | 25- I/O and File Systems                           [ [Slides][s25] ]                      | No Homework
+M 04/11/22  | 26- Threads and Concurrency                        [ [Slides][s26] : [HW][hw26] ]         | F 04/15/22
+W 04/13/22  | Exam Review Session                                [ [Exam 2 - Review][ex2] ]             |
+**R 04/14/22**  | **Exam #2 (through 04/08) - 3:00-5:00 in Lab**                                        |
+F 04/15/22  | 27 - Race Conditions and Synchronization           [ [Slides][s27] : [HW][hw27] ]         | W 04/20/22
+M 04/18/22  | No Class - Catchup on Missing or Revised OS Topic Homework                                |
+&nbsp;      | **Web Abstractions**                                                                      |
+W 04/20/22  | 28 - Web Abstractions & HTML                       [ [Slides][s28] : [HW][hw28] ]         | F 04/22/22
+F 04/22/22  | 29 - Cascading Style Sheets                        [ [Slides][s29] : [HW][hw29] ]         | M 04/22/22
+M 04/25/22  | 30 - Frontend Dynamic Content (Javascript)         [ [Slides][s30] : [HW][hw30] ]         | W 04/27/22
+W 04/27/22  | 31 - Using Web API's                               [ [Slides][s31] : [HW][hw31] ]         | F 04/29/22
+F 04/29/22  | 32 - Databases                                     [ [Slides][s32] : [HW][hw32] ]         | M 05/02/22
+M 05/02/22  | 33 - Backend Dynamic Content                       [ [Slides][s33] : [HW][hw33] ]         | W 05/04/22
+&nbsp;      | **Network Abstractions**                                                                  |
 W 05/04/22  |
 F 05/06/22  | Wrap Up
-...         |
-
 &nbsp;      | **Final Exam**
 M 05/09/22  | 9:00am-12:00pm
 
@@ -163,21 +161,23 @@ M 05/09/22  | 9:00am-12:00pm
 [hw31]: homework/31-A-WebAPIs.docx
 [s32]: slides/32-S-Databases.pptx
 [hw32]: homework/32-A-Databases.docx
+[s33]: slides/33-S-BackEndDynamic.pptx
+[hw33]: homework/33-A-BackEndDynamic.docx
 
 ### Lab Schedule
 
-Date          | Topic / Activity                                 | Lab Due
-------------- | ------------------------------------------------ | -------------
-01/27/22      | L01 - Switching and Transistors [ [Lab][l01] ]   | 02/03/22
-02/03/22      | L02 - Logic Gates & Integrated Circuits [ [Lab][l02] ]   | 02/10/22
-02/10/22      | L03 - Programmable Circuits [ [Lab][l03] ]   | 02/17/22
-02/17/22      | L04 - Sequential Circuits & Static Memory (SRAM) [ [Lab][l04] ]   | 02/24/22
-02/24/22      | L05 - Dynamic Memory (DRAM) [ [Lab][l05] ]   | 03/10/22
-**W 03/02/22**    | L06 - WiD Draft [ [Lab][l06] ]   | **F 03/04/22**
-03/24/22      | L07 - A Silli Interpreter [ [Lab][l07] : [Slides][ls07] : [Starter Code][lc07]] | 04/07/22 (2 Weeks)
-04/07/22      | L08 - WiD Peer Feedback [ [Lab][l08] ]   | 04/14/22
-04/21/22      | L09 - Assembly Programming & Recursion [ [Lab][l09] ]   | 04/28/22
-04/07/22      | L10 - WiD Final Draft & Reflection [ [Lab][l10] ]   | 05/05/22
+Date          | Topic / Activity                                                                                        | Lab Due
+------------- | ------------------------------------------------------------------------------------------------------- | -------------
+01/27/22      | L01 - Switching and Transistors                  [ [Lab][l01] ]                                         | 02/03/22
+02/03/22      | L02 - Logic Gates & Integrated Circuits          [ [Lab][l02] ]                                         | 02/10/22
+02/10/22      | L03 - Programmable Circuits                      [ [Lab][l03] ]                                         | 02/17/22
+02/17/22      | L04 - Sequential Circuits & Static Memory (SRAM) [ [Lab][l04] ]                                         | 02/24/22
+02/24/22      | L05 - Dynamic Memory (DRAM)                      [ [Lab][l05] ]                                         | 03/10/22
+**W 03/02/22**    | L06 - WiD Draft                              [ [Lab][l06] ]                                         | **F 03/04/22**
+03/24/22      | L07 - A Silli Interpreter                        [ [Lab][l07] : [Slides][ls07] : [Starter Code][lc07]]  | 04/07/22 (2 Weeks)
+04/07/22      | L08 - WiD Peer Feedback                          [ [Lab][l08] ]                                         | 04/14/22
+04/21/22      | L09 - Assembly Programming & Recursion           [ [Lab][l09] ]                                         | 04/28/22
+04/07/22      | L10 - WiD Final Draft & Reflection               [ [Lab][l10] ]                                         | 05/05/22
 ...           |
 
 [l01]: labs/L01-Switching.docx
