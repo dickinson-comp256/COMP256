@@ -86,12 +86,11 @@ F 04/22/22  | 29 - Cascading Style Sheets                        [ [Slides][s29]
 M 04/25/22  | 30 - Frontend Dynamic Content (Javascript)         [ [Slides][s30] : [HW][hw30] ]         | W 04/27/22
 W 04/27/22  | 31 - Using Web API's                               [ [Slides][s31] : [HW][hw31] ]         | F 04/29/22
 F 04/29/22  | 32 - Databases                                     [ [Slides][s32] : [HW][hw32] ]         | M 05/02/22
-M 05/02/22  | 33 - Backend Dynamic Content                       [ [Slides][s33] : [HW][hw33] ]         | W 05/04/22
-&nbsp;      | **Network Abstractions**                                                                  |
-W 05/04/22  |
-F 05/06/22  | Wrap Up
-&nbsp;      | **Final Exam**
-M 05/09/22  | 9:00am-12:00pm
+M 05/02/22  | 33 - Backend Dynamic Content                       [ [Slides][s33] : [HW][hw33] ]         | F 05/06/22                                                             |
+W 05/04/22  | Lab period for Web Abstractions (Meet in Tome 232)                                        |
+F 05/06/22  | Course Feedback Forms & Wrap Up                                                           |
+&nbsp;      | **Final Exam**                                                                            |
+M 05/09/22  | 9:00am-12:00pm                                                                            |
 
 [s01]: slides/01-S-Abstractions.pptx
 [hw01]: homework/01-A-Abstractions.docx
