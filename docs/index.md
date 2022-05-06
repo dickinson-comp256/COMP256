@@ -88,7 +88,7 @@ W 04/27/22  | 31 - Using Web API's                               [ [Slides][s31]
 F 04/29/22  | 32 - Databases                                     [ [Slides][s32] : [HW][hw32] ]         | M 05/02/22
 M 05/02/22  | 33 - Backend Dynamic Content                       [ [Slides][s33] : [HW][hw33] ]         | F 05/06/22
 W 05/04/22  | Lab period for Web Abstractions (Meet in Tome 232) - optional                             |
-F 05/06/22  | Course Feedback Forms & Wrap Up                    [ [Final Exam - Review][final] ]       |
+F 05/06/22  | [Course Feedback Forms][fbform] & Wrap Up          [ [Final Exam - Review][final] ]       |
 &nbsp;      | **Final Exam**                                                                            |
 M 05/09/22  | 9:00am-12:00pm                                                                            |
 
@@ -156,6 +156,7 @@ M 05/09/22  | 9:00am-12:00pm                                                    
 [s33]: slides/33-S-BackEndDynamic.pptx
 [hw33]: homework/33-A-BackEndDynamic.docx
 [final]: homework/FinalExamReview.docx
+[fbform]: https://dickinson.campuslabs.com/eval-home/direct/3507753
 
 ### Lab Schedule
 
