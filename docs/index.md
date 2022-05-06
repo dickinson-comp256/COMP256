@@ -86,9 +86,9 @@ F 04/22/22  | 29 - Cascading Style Sheets                        [ [Slides][s29]
 M 04/25/22  | 30 - Frontend Dynamic Content (Javascript)         [ [Slides][s30] : [HW][hw30] ]         | W 04/27/22
 W 04/27/22  | 31 - Using Web API's                               [ [Slides][s31] : [HW][hw31] ]         | F 04/29/22
 F 04/29/22  | 32 - Databases                                     [ [Slides][s32] : [HW][hw32] ]         | M 05/02/22
-M 05/02/22  | 33 - Backend Dynamic Content                       [ [Slides][s33] : [HW][hw33] ]         | F 05/06/22                                                             |
-W 05/04/22  | Lab period for Web Abstractions (Meet in Tome 232) - optional                                       |
-F 05/06/22  | Course Feedback Forms & Wrap Up                                                           |
+M 05/02/22  | 33 - Backend Dynamic Content                       [ [Slides][s33] : [HW][hw33] ]         | F 05/06/22
+W 05/04/22  | Lab period for Web Abstractions (Meet in Tome 232) - optional                             |
+F 05/06/22  | Course Feedback Forms & Wrap Up                    [Final Exam - Review][final]           |
 &nbsp;      | **Final Exam**                                                                            |
 M 05/09/22  | 9:00am-12:00pm                                                                            |
 
@@ -107,13 +107,6 @@ M 05/09/22  | 9:00am-12:00pm                                                    
 [s07]: slides/07-S-SignedBinary.pptx
 [hw07]: homework/07-A-SignedBinary.docx
 [s08]: slides/08-S-FractionalNumbers.pptx
-[hw08]: homework/08-A-FractionalNumbers.docx
-[s09]: slides/09-S-MicroProgram.pptx
-[hw09]: homework/09-A-MicroProgram.docx
-[s10]: slides/10-S-MachineLanguage.pptx
-[hw10]: homework/10-A-MachineLanguage.docx
-[s11]: slides/11-S-StoredProgram.pptx
-[hw11]: homework/11-A-StoredProgram.docx
 [s12]: slides/12-S-MemoryAndCache.pptx
 [hw12]: homework/12-A-MemoryAndCache.docx
 [s13]: slides/13-S-ParallelismPipelining.pptx
@@ -162,6 +155,7 @@ M 05/09/22  | 9:00am-12:00pm                                                    
 [hw32]: homework/32-A-Databases.docx
 [s33]: slides/33-S-BackEndDynamic.pptx
 [hw33]: homework/33-A-BackEndDynamic.docx
+[final]: homework/FinalExamReview.docx
 
 ### Lab Schedule
 
