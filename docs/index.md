@@ -107,6 +107,13 @@ M 05/09/22  | 9:00am-12:00pm                                                    
 [s07]: slides/07-S-SignedBinary.pptx
 [hw07]: homework/07-A-SignedBinary.docx
 [s08]: slides/08-S-FractionalNumbers.pptx
+[hw08]: homework/08-A-FractionalNumbers.docx
+[s09]: slides/09-S-MicroProgram.pptx
+[hw09]: homework/09-A-MicroProgram.docx
+[s10]: slides/10-S-MachineLanguage.pptx
+[hw10]: homework/10-A-MachineLangauge.docx
+[s11]: slides/11-S-StoredProgram.pptx
+[hw11]: homework/11-A-StoredProgram.docx
 [s12]: slides/12-S-MemoryAndCache.pptx
 [hw12]: homework/12-A-MemoryAndCache.docx
 [s13]: slides/13-S-ParallelismPipelining.pptx
