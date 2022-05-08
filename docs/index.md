@@ -111,7 +111,7 @@ M 05/09/22  | 9:00am-12:00pm                                                    
 [s09]: slides/09-S-MicroProgram.pptx
 [hw09]: homework/09-A-MicroProgram.docx
 [s10]: slides/10-S-MachineLanguage.pptx
-[hw10]: homework/10-A-MachineLangauge.docx
+[hw10]: homework/10-A-MachineLanguage.docx
 [s11]: slides/11-S-StoredProgram.pptx
 [hw11]: homework/11-A-StoredProgram.docx
 [s12]: slides/12-S-MemoryAndCache.pptx
