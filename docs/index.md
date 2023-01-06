@@ -1,14 +1,16 @@
-### Course Links
+### COMP 256 Course Info
+- Spring Semester 2023
+  - MWF 9:30-10:20, Tome 231
 
-- [Course Moodle](https://lms.dickinson.edu/course/view.php?id=46925)
-- [Course Team](https://teams.microsoft.com/l/team/19%3aCVk2T3PduOEh_n8Fgs1g1KZv0Vy05jqOSjDKQ0UooXc1%40thread.tacv2/conversations?groupId=f6aa5a40-8b22-4ba4-9365-a68531dfc91d&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
-- [Course Syllabus](./syllabus.md)
+- [Syllabus & Course Information](./syllabus.md)
 - [Prof. Braught's Page](http://users.dickinson.edu/~braught/) - with office hours.
-
 - [Class Schedule](#class-schedule) (below)
 - [Lab Schedule](#lab-schedule) (below)
 
-### Course Tools
+### Course Links
+
+- [Course Moodle](https://lms.dickinson.edu/course/view.php?id=49856)
+- [Course Team](https://teams.microsoft.com/l/team/19%3aLk175vaEncYObscYyzRIcIjgJjv7ooSfPRX-ZZZ6syY1%40thread.tacv2/conversations?groupId=7ae849d8-cd74-42f8-a922-455c34d06936&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
 
 - TinkerCAD
   - Use the link in Moodle to access our course directly.
@@ -23,74 +25,83 @@
 
 - Assembler & Machine Simulator
   - [Assembly Language Reference Card](https://dickinson-comp256/AsmMachine/machine/bin/asm-ref.html)
-  - [Assembler.jar](https://github.com/dickinson-comp256/AsmMachine/raw/main/Assembler/bin/Assembler.jar
-)
-  - [Machine.jar](https://github.com/dickinson-comp256/AsmMachine/raw/main/Machine/bin/Machine.jar
-)
+  - [Assembler.jar](https://github.com/dickinson-comp256/AsmMachine/raw/main/Assembler/bin/Assembler.jar)
+  - [Machine.jar](https://github.com/dickinson-comp256/AsmMachine/raw/main/Machine/bin/Machine.jar)
 
 ### Important Dates
 
-- 03/10/2022 (Thursday) - Exam #1
-- 04/14/2022 (Thursday) - Exam #2
-- 05/09/2022 (Monday) 9:00am - Final Exam
+- 03/09/2023 (Thursday) 3:00-5:00 - Exam #1
+- 04/13/2023 (Thursday) 3:00-5:00 - Exam #2
+- 05/09/2023 (Tuesday) 9:00am-12:00pm - Final Exam
 
 ### Class Schedule
 
-Date        | Topic / Slides / Activity                                                                 | Homework Due
------------ | ----------------------------------------------------------------------------------------- | --------------
-&nbsp;      | **Hardware Abstractions**                                                                 |
-M 01/24/22  | 01 - Introduction to Abstractions                  [ [Slides][s01] : [HW][hw01] ]         | W 01/26/22
-W 01/26/22  | 02 - Transistors to Logic Gates                    [ [Slides][s02] : [HW][hw02] ]         | F 01/28/22
-F 01/28/22  | 03 - Logic Gates to Logic Circuits                 [ [Slides][s03] : [HW][hw03] ]         | M 01/31/22
-M 01/31/22  | 04 - Simplifying Logic Circuits                    [ [Slides][s04] : [HW][hw04] ]         | W 02/02/22
-&nbsp;      | **Data Abstractions**                                                                     |
-W 02/02/22  | 05 - Unsigned Binary Numbers                       [ [Slides][s05] : [HW][hw05] ]         | F 02/04/22
-F 02/04/22  | 06 - Non-numeric Data                              [ [Slides][s06] : [HW][hw06] ]         | M 02/07/22
-M 02/07/22  | 07 - Signed Binary Numbers                         [ [Slides][s07] : [HW][hw07] ]         | W 02/09/22
-W 02/09/22  | 08 - Fractional Numbers                            [ [Slides][s08] : [HW][hw08] ]         | F 02/011/22
-&nbsp;      | **Machine Abstractions**                                                                  |
-F 02/11/22  | 09 - A Microprogrammed Machine                     [ [Slides][s09] : [HW][hw09] ]         | M 02/14/22
-M 02/14/22  | 10 - A Machine Language Machine                    [ [Slides][s10] : [HW][hw10] ]         | W 02/16/22
-W 02/16/22  | 11 - The Stored Program Architecture               [ [Slides][s11] : [HW][hw11] ]         | F 02/18/22
-F 02/18/22  | 12 - Memory Hierarchy & Processor Cache            [ [Slides][s12] : [HW][hw12] ]         | M 02/21/22
-M 02/21/22  | 13 - Pipelining & Parallelism                      [ [Slides][s13] ]                      | No Homework
-&nbsp;      | **Langauge Abstractions**                                                                 |
-W 02/23/22  | 14 - Translation and Interpretation of Languages   [ [Slides][s14] : [HW][hw14] ]         | F 02/25/22
-F 02/25/22  | 15 - Assembly Language Programs                    [ [Slides][s15] : [HW][hw15] ]         | M 02/28/22
-M 02/28/22  | 16 - Branching and Looping                         [ [Slides][s16] : [HW][hw16] ]         | M 03/07/22
-W 03/02/22  | *No class meeting* -                               [L06 - WiD Assignment Draft][l06]      | **F 03/04/22**
-F 03/04/22  | *No class meeting*                                                                        |
-M 03/07/22  | 17 - Arrays and Indirect Addressing                [ [Slides][s17] : [HW][hw17] ]         | W 03/09/22
-W 03/09/22  | Exam Review Session                                [ [Exam 1 - Review][ex1] ]             |
-**R 03/10/22**  | **Exam #1 (through 02/21) - 3:00-5:00 in Lab**                                        |
-F 03/11/22  | Assembly Language Programming Practice             [ [Slides][asm] ]                      |
-&nbsp;      | *Spring Break*                                                                            |
-M 03/21/22  | 18 - Calling Functions                             [ [Slides][s18] : [HW][hw18] ]         | W 03/23/22
-W 03/23/22  | 19 - Implementing Functions                        [ [Slides][s19] : [HW][hw19] ]         | M 03/28/22
-F 03/25/22  | Assembly Language Programming Practice             [ [Slides][asm2] ]                     |
-&nbsp;      | **Operating Systems Abstractions**                                                        |
-M 03/28/22  | 20 - Operating Systems Abstractions                [ [Slides][s20] : [HW][hw20] ]         | W 03/30/22
-W 03/30/22  | 21 - Multiprogramming, Processes, Context          [ [Slides][s21] : [HW][hw21] ]         | F 04/01/22
-F 04/01/22  | 22 - Interrupts & System Calls                     [ [Slides][s22] : [HW][hw22] ]         | M 04/04/22
-M 04/04/22  | 23 - Logical Memory                                [ [Slides][s23] : [HW][hw23] ]         | W 04/06/22
-W 04/06/22  | 24- Paged Virtual Memory                           [ [Slides][s24] : [HW][hw24] ]         | F 04/08/22
-F 04/08/22  | 25- I/O and File Systems                           [ [Slides][s25] ]                      | No Homework
-M 04/11/22  | 26- Threads and Concurrency                        [ [Slides][s26] : [HW][hw26] ]         | F 04/15/22
-W 04/13/22  | Exam Review Session                                [ [Exam 2 - Review][ex2] ]             |
-**R 04/14/22**  | **Exam #2 (through 04/08) - 3:00-5:00 in Lab**                                        |
-F 04/15/22  | 27 - Race Conditions and Synchronization           [ [Slides][s27] : [HW][hw27] ]         | W 04/20/22
-M 04/18/22  | No Class - Catchup on Missing or Revised OS Topic Homework                                |
-&nbsp;      | **Web Abstractions**                                                                      |
-W 04/20/22  | 28 - Web Abstractions & HTML                       [ [Slides][s28] : [HW][hw28] ]         | F 04/22/22
-F 04/22/22  | 29 - Cascading Style Sheets                        [ [Slides][s29] : [HW][hw29] ]         | M 04/22/22
-M 04/25/22  | 30 - Frontend Dynamic Content (Javascript)         [ [Slides][s30] : [HW][hw30] ]         | W 04/27/22
-W 04/27/22  | 31 - Using Web API's                               [ [Slides][s31] : [HW][hw31] ]         | F 04/29/22
-F 04/29/22  | 32 - Databases                                     [ [Slides][s32] : [HW][hw32] ]         | M 05/02/22
-M 05/02/22  | 33 - Backend Dynamic Content                       [ [Slides][s33] : [HW][hw33] ]         | F 05/06/22
-W 05/04/22  | Lab period for Web Abstractions (Meet in Tome 232) - optional                             |
-F 05/06/22  | [Course Feedback Forms][fbform] & [Wrap Up][s34]   [ [Final Exam - Review][final] ]       |
-&nbsp;      | **Final Exam**                                                                            |
-M 05/09/22  | 9:00am-12:00pm                                                                            |
+Date        | Topic / Slides / Activity                                                  | Assignment
+----------- | -------------------------------------------------------------------------- | --------------
+            | **Hardware Abstractions**                                                  |
+M 01/23/23  | C01 - Introduction to Abstractions                  [ [Slides][s01] ]      | [HW01][hw01] Due: W 01/25/23
+W 01/25/23  | C02 - Transistors to Logic Gates                    [ [Slides][s02] ]      | [HW02][hw02] Due: F 01/27/23
+*R 01/26/23 | L01 - Switching and Transistors                                            | [LA01][l01]   Due: R 02/02/23*
+F 01/27/23  | C03 - Logic Gates to Logic Circuits                 [ [Slides][s03] ]      | [HW03][hw03] Due: M 01/30/23
+M 01/30/23  | C04 - Simplifying Logic Circuits                    [ [Slides][s04] ]      | [HW04][hw04] Due: W 02/01/23
+            | **Data Abstractions**                                                      |
+W 02/01/23  | C05 - Unsigned Binary Numbers                       [ [Slides][s05] ]      | [HW05][hw05] Due: F 02/03/23
+*R 02/02/23 | L02 - Logic Gates & Integrated Circuits                                    | [LA02][l02]  Due: R 02/09/23* 
+F 02/03/23  | C06 - Non-numeric Data                              [ [Slides][s06] ]      | [HW06][hw06] Due: M 02/06/23
+M 02/06/23  | C07 - Signed Binary Numbers                         [ [Slides][s07] ]      | [HW07][hw07] Due: W 02/08/23
+W 02/08/23  | C08 - Fractional Numbers                            [ [Slides][s08] ]      | [HW08][hw08] Due: F 02/10/23
+*R 02/09/23  | L03 - *
+F 02/10/23  | *No Class meeting - Pasa Confrence*                                        | 
+            | **Machine Abstractions**                                                   |
+M 02/13/23  | C09 - A Microprogrammed Machine                     [ [Slides][s09] ]      | [HW09][hw09] Due: W 02/15/23
+W 02/15/23  | C10 - A Machine Language Machine                    [ [Slides][s10] ]      | [HW10][hw10] Due: F 02/17/23
+R 02/16/23  | L04 - 
+F 02/17/23  | C11 - The Stored Program Architecture               [ [Slides][s11] ]      | [HW11][hw11] Due: M 02/20/23
+M 02/20/23  | C12 - Memory Hierarchy & Processor Cache            [ [Slides][s12] ]      | [HW12][hw12] Due: W 02/22/23
+W 02/22/23  | C13 - Pipelining & Parallelism                      [ [Slides][s13] ]      | [HW13][hw13] Due: F 02/24/23
+R 02/23/23  | L05 - 
+            | **Langauge Abstractions**                                                  |
+F 02/24/23  | C14 - Translation and Interpretation of Languages   [ [Slides][s14] ]      | [HW14][hw14] Due: M 02/27/23
+M 02/27/23  | C15 - Assembly Language Programs                    [ [Slides][s15] ]      | [HW15][hw15] Due: W 02/29/23
+W 03/01/23  | C16 - Branching and Looping                         [ [Slides][s16] ]      | [HW16][hw16] Due: M 03/06/23
+*R 03/09/23*| *Exam #1 (through C13) in Lab 3:00-5:00*   [ [Exam 1 - Review][ex1] ]      | 
+F 03/03/23  | Assembly Language Programming Practice              [ [Slides][asm] ]      | WiD?????
+M 03/06/23  | C17 - Arrays and Indirect Addressing                [ [Slides][s17] ]      | [HW17][hw17] Due: W 03/08/23
+W 03/08/23  | C18 - Calling Functions                             [ [Slides][s18] ]      | [HW18][hw18] Due: F 03/10/23
+R 03/09/23  | L06 - 
+F 03/10/23  | C19 - Implementing Functions                        [ [Slides][s19] ]      | [HW19][hw19] Due: M 03/27/23
+            | *Spring Break*                                                             |
+M 03/27/23  | Assembly Language Programming Practice              [ [Slides][asm2] ]     | WiD?????
+            | **Operating Systems Abstractions**                                         |
+W 03/29/23  | C20 - Operating Systems Abstractions                [ [Slides][s20] ]      | [HW20][hw20] Due: F 03/31/23
+R 03/30/23  | L07 - 
+F 03/31/23  | C21 - Multiprogramming, Processes, Context          [ [Slides][s21] ]      | [HW21][hw21] Due: M 04/03/23
+M 04/03/23  | C22 - Interrupts & System Calls                     [ [Slides][s22] ]      | [HW22][hw22] Due: W 04/05/23
+W 04/05/23  | C23 - Logical Memory                                [ [Slides][s23] ]      | [HW23][hw23] Due: F 04/07/23
+R 04/06/23  | L08 - 
+F 04/07/23  | C24 - Paged Virtual Memory                          [ [Slides][s24] ]      | [HW24][hw24] Due: M 04/10/23
+M 04/10/23  | C25 - Threads and Concurrency                       [ [Slides][s25] ]      | [HW25][hw25] Due: W 04/12/23
+W 04/12/23  | C26 - Race Conditions and Synchronization           [ [Slides][s27] ]      | [HW26][hw26] Due: F 04/14/23
+*R 04/13/23*| *Exam #2 (through C24) in Lab 3:00-5:00*   [ [Exam 2 - Review][ex2] ]      | 
+            | **Networking Abstractions**                                                |
+F 04/14/23  | C27 - Networking Absractions & Network Layer (IP)
+M 04/17/23  | C28 - Transport Layer (TCP / UDP / Ports)
+W 04/19/23  | C29 - Application Layer (HTTP)
+R 04/20/23  | L09 - 
+            | **Web Abstractions**                                                       |
+F 04/21/23  | Cxx - Web Abstractions & HTML                       [ [Slides][s28] ]      | [HW28][hw28] ] Due: M 04/24/22
+M 04/24/23  | Cxx - Cascading Style Sheets                        [ [Slides][s29] ]      | [HW29][hw29] ] Due: W 04/26/23
+W 04/26/23  | Cxx - Frontend Dynamic Content (Javascript)         [ [Slides][s30] ]      | [HW30][hw30] ] Due: F 04/28/23
+W 04/27/23  | L10 - 
+F 04/28/23  | Cxx - Using Web API's                               [ [Slides][s31] ]      | [HW31][hw31] ] Due: M 05/01/23
+M 05/01/23  | Cxx - Databases                                     [ [Slides][s32] ]      | [HW32][hw32] ] Due: W 05/03/23
+W 05/03/23  | Cxx - Backend Dynamic Content                       [ [Slides][s33] ]      | [HW33][hw33] ] Due: F 05/05/23
+R 05/04/23  | L11 - 
+F 05/05/23  | Cxx - Wrap Up                                       [ [Slides][s34] ]      |  
+            | **Final Exam**                                                             |
+T 05/09/23  | *Final Exam - 9:00am-12:00pm*        [ [Final Exam - Review][final] ]      |
+
+
 
 [s01]: slides/01-S-Abstractions.pptx
 [hw01]: homework/01-A-Abstractions.docx
@@ -107,7 +118,7 @@ M 05/09/22  | 9:00am-12:00pm                                                    
 [s07]: slides/07-S-SignedBinary.pptx
 [hw07]: homework/07-A-SignedBinary.docx
 [s08]: slides/08-S-FractionalNumbers.pptx
-[hw08]: homework/08-A-FractionalNumbers.docx
+[hw08]: homework/08-A-FractionalNumbers.docx 
 [s09]: slides/09-S-MicroProgram.pptx
 [hw09]: homework/09-A-MicroProgram.docx
 [s10]: slides/10-S-MachineLanguage.pptx
@@ -143,13 +154,22 @@ M 05/09/22  | 9:00am-12:00pm                                                    
 [hw23]: homework/23-A-LogicalMemory.docx
 [s24]: slides/24-S-VirtualMemory.pptx
 [hw24]: homework/24-A-VirtualMemory.docx
+[s25]: slides/25-S-Threads.pptx
+[hw25]: homework/25-A-Threads.docx
+[s25]: slides/26-S-RaceConditions.pptx
+[hw25]: homework/26-A-RaceConditions.docx
+[ex2]: homework/Exam2Review.docx
+
+
+<!--
+
 [s25]: slides/25-S-IOFileSystems.pptx
 [hw25]: none
-[ex2]: homework/Exam2Review.docx
-[s26]: slides/26-S-Threads.pptx
-[hw26]: homework/26-A-Threads.docx
-[s27]: slides/27-S-RaceConditions.pptx
-[hw27]: homework/27-A-RaceConditions.docx
+
+
+
+
+
 [s28]: slides/28-S-WebAbstractions.pptx
 [hw28]: homework/28-A-WebAbstractions.docx
 [s29]: slides/29-S-CSS.pptx
@@ -163,8 +183,8 @@ M 05/09/22  | 9:00am-12:00pm                                                    
 [s33]: slides/33-S-BackEndDynamic.pptx
 [hw33]: homework/33-A-BackEndDynamic.docx
 [final]: homework/FinalExamReview.docx
-[fbform]: https://dickinson.campuslabs.com/eval-home/direct/3507753
 [s34]: slides/34-S-WrapUp.pptx
+-->
 
 ### Lab Schedule
 
@@ -198,6 +218,7 @@ Date           | Topic / Activity                                               
 [lc11]: labs/L11-A-WebServer.zip
 
 ___
+
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ![GPL V3 or Later](https://www.gnu.org/graphics/gplv3-or-later-sm.png "GPL V3 or later") All executable code used in this course is licensed under the [GNU General Public License Version 3 or later](https://www.gnu.org/licenses/gpl.txt)

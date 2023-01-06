@@ -1,4 +1,4 @@
-## Syllabus
+## COMP 255 Syllabus
 
 ### Course Description
 
