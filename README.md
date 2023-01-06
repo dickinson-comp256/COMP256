@@ -4,6 +4,8 @@ A broad examination of the role and evolution of the abstraction hierarchies tha
 
 Prerequisite: 132. Three hours of classroom and two hours of laboratory a week. Offered every spring.
 
+The course website can be found at: https://dickinson-comp256.github.io/website/
+
 256 is part of the full [Dickinson College Computer Science Curriculum](https://www.dickinson.edu/homepage/402/computer_science_curriculum).
 
 ---
