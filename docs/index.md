@@ -120,6 +120,7 @@ Date         | Topic / Slides / Activity                                        
 [hw03]: materials/03-A-GatesToCircuits.docx
 [s04]: materials/04-S-LogicSimplification.pptx
 [hw04]: materials/04-A-LogicSimplification.docx
+
 [s05]: materials/05-S-UnsignedBinary.pptx
 [hw05]: materials/05-A-UnsignedBinary.docx
 [s06]: materials/06-S-NonNumericData.pptx
@@ -130,6 +131,7 @@ Date         | Topic / Slides / Activity                                        
 [hw08]: materials/08-A-FractionalNumbers.docx 
 [s09]: materials/09-S-MicroProgram.pptx
 [hw09]: materials/09-A-MicroProgram.docx
+
 [s10]: materials/10-S-MachineLanguage.pptx
 [hw10]: materials/10-A-MachineLanguage.docx
 [s11]: materials/11-S-StoredProgram.pptx
@@ -138,6 +140,7 @@ Date         | Topic / Slides / Activity                                        
 [hw12]: materials/12-A-MemoryAndCache.docx
 [s13]: materials/13-S-ParallelismPipelining.pptx
 [hw13]: materials/13-S-ParallelismPipelining.docx
+
 [s14]: materials/14-S-TranslationInterpretation.pptx
 [hw14]: materials/14-A-TranslationInterpretation.docx
 [s15]: materials/15-S-Assembly.pptx
@@ -153,6 +156,7 @@ Date         | Topic / Slides / Activity                                        
 [s19]: materials/19-S-ImplementingFunctions.pptx
 [hw19]: materials/19-A-ImplementingFunctions.docx
 [asm2]: materials/19.5-S-AsmActivities.pptx
+
 [s20]: materials/20-S-OSAbstractions.pptx
 [hw20]: materials/20-A-OSAbstractions.docx
 [s21]: materials/21-S-Processes.pptx
@@ -171,6 +175,23 @@ Date         | Topic / Slides / Activity                                        
 [hw25]: materials/27-A-RaceConditions.docx
 [ex2]: materials/Exam2Review.docx
 
+NETWORKS STUFF HERE!!!!
+[s26]: ???
+[hw26]: ???
+[s27]: ???
+[hw27]: ???
+[s28]: ???
+[hw28]: ???
+[s29]: ???
+[hw29]: ???
+[s30]: ???
+[hw30]: ???
+[s31]: ???
+[hw31]: ???
+[s32]: ???
+[hw32]: ???
+[s33]: ???
+[hw33]: ???
 
 [s33]: materials/33-S-WebAbstractions.pptx
 [hw33]: materials/33-A-WebAbstractions.docx
