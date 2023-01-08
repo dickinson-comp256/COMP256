@@ -11,21 +11,27 @@
 - [Course Moodle](https://lms.dickinson.edu/course/view.php?id=49856)
 - [Course Team](https://teams.microsoft.com/l/team/19%3aLk175vaEncYObscYyzRIcIjgJjv7ooSfPRX-ZZZ6syY1%40thread.tacv2/conversations?groupId=7ae849d8-cd74-42f8-a922-455c34d06936&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb)
 
+<!--
 - TinkerCAD
   - Use the link in Moodle to access our course directly.
   - Your "nickname" for login is your Dickinson username.
+-->
 
+<!--
 - The Knob & Switch Computer
   - [The Datapath](https://dickinson-comp256.github.io/Knob-And-Switch-Computer/datapath.html)
   - [The Datapath & Memory](https://dickinson-comp256.github.io/Knob-And-Switch-Computer/dpandmem.html)
   - [Microprogram Machine](https://dickinson-comp256.github.io/Knob-And-Switch-Computer/micromachine.html)
   - [Machine Language Machine](https://dickinson-comp256.github.io/Knob-And-Switch-Computer/machine.html)
   - [Knob & Switch Assembly/Machine Language Reference](https://dickinson-comp256.github.io/Knob-And-Switch-Computer/instructions.html)
+-->
 
+<!--
 - Assembler & Machine Simulator
   - [Assembly Language Reference Card](https://dickinson-comp256/AsmMachine/machine/bin/asm-ref.html)
   - [Assembler.jar](https://github.com/dickinson-comp256/AsmMachine/raw/main/Assembler/bin/Assembler.jar)
   - [Machine.jar](https://github.com/dickinson-comp256/AsmMachine/raw/main/Machine/bin/Machine.jar)
+-->
 
 ### Important Dates
 
@@ -38,11 +44,11 @@
 Date         | Topic / Slides / Activity                                                   | Assignment
 ------------ | --------------------------------------------------------------------------- | --------------
              | **Hardware Abstractions**                                                   |
- M 01/23/23  |  C01 - Introduction to Abstractions                  [ [Slides][s01] ]      |  [HW01][hw01] Due: W 01/25/23
- W 01/25/23  |  C02 - Transistors to Logic Gates                    [ [Slides][s02] ]      |  [HW02][hw02] Due: F 01/27/23
-*R 01/26/23* | *L01 - Switching and Transistors*                                           | *[LAB01][l01]  Due: R 02/02/23*
- F 01/27/23  |  C03 - Logic Gates to Logic Circuits                 [ [Slides][s03] ]      |  [HW03][hw03] Due: M 01/30/23
- M 01/30/23  |  C04 - Simplifying Logic Circuits                    [ [Slides][s04] ]      |  [HW04][hw04] Due: W 02/01/23
+ M 01/23/23  |  C01 - Introduction to Abstractions                  <!--[ [Slides][s01] ]-->      |  <!--[HW01][hw01] Due: W 01/25/23-->
+ W 01/25/23  |  C02 - Transistors to Logic Gates                    <!--[ [Slides][s02] ]-->      |  <!--[HW02][hw02] Due: F 01/27/23-->
+*R 01/26/23* | *L01 - Switching and Transistors*                                           | <!--*[LAB01][l01]  Due: R 02/02/23*-->
+ F 01/27/23  |  C03 - Logic Gates to Logic Circuits                 <!--[ [Slides][s03] ]-->      |  <!--[HW03][hw03] Due: M 01/30/23-->
+ M 01/30/23  |  C04 - Simplifying Logic Circuits                    <!--[ [Slides][s04] ]-->      |  <!--[HW04][hw04] Due: W 02/01/23-->
              | **Data Abstractions**                                                       |
  W 02/01/23  |  C05 - Unsigned Binary Numbers                       <!--[ [Slides][s05] ]-->      |  <!--[HW05][hw05] Due: F 02/03/23-->
 *R 02/02/23* | *L02 - Logic Gates & Integrated Circuits*                                   | <!--*[LAB02][l02] Due: R 02/09/23*--> 
