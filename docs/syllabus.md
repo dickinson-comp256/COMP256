@@ -1,4 +1,4 @@
-## COMP 255 Syllabus
+## COMP 256 Syllabus
 
 ### Course Description
 
@@ -6,7 +6,16 @@ A broad examination of the role and evolution of the abstraction hierarchies tha
 
 ### Prerequisite Knowledge
 
-This course assumes at least a semester of prior object-oriented programming in Java. The nominal prerequisite is Dickinson COMP132 - Principles of Object-Oriented Design.
+This course assumes at least a semester of prior object-oriented programming in Java. The nominal prerequisite at Dickinson is COMP132 - Principles of Object-Oriented Design.
+
+### Course Schedule
+
+Details including topics, assignments and due dates are indicated on the Course Home Page:
+- https://dickinson-comp256.github.io/website/
+
+### Textbook
+
+There is no text required for this course.  Reading and other materials for COMP256 will be provided via links on the course schedule, embedded in the assignments, or via Moodle.
 
 ### Learning Goals
 
@@ -16,13 +25,9 @@ Students will:
 - recognize the primary tradeoffs and engineering concerns that arise in the design of complex computing systems.
 - [WiD goal] be able to use metaphor and analogy to explain complex technical concepts to an audience of peers.
 
-### Course Schedule
+### Community and Inclusivity
 
-Details including topics, assignments and due dates are indicated on the [Course Home Page](https://dickinson-comp256.github.io/website/).
-
-### Textbook
-
-There is no text required for this course.  Reading and other materials for COMP256 will be provided via links on the course schedule, embedded in the assignments, or via Moodle.
+All members of this class are equally valued members of our course community. The insructor aims to create an *inclusive atmosphere* in which we can listen and speak in ways that are respectful of each other and our diversity of heritages, idedenitites, experiences, knowledge and views. All questions will be accepted and treated with kindness. Some topics will push us to develop new ideas and opinions about things we may not have thought about before. The instructor aims to promote a *generous atmosphere*. One where we listen and speak to understand. One where all are given the benefit of the doubt as they try out new and partially formed thoughts and opinions. One where we respond to and critique statements and ideas, not individuals.  If you feel at any time that these ideals are not being met or have ways that our course atmosphre can be improved you are encouraged to reach out to the instructor.  In cases where talking with the instructor is not comfortable please contact your advisor, the Department Chair or another trusted College offical for guidiance.
 
 ### Communications
 
@@ -30,26 +35,45 @@ All communications outside of in person meetings will occur via Teams. Communica
 
 ### Office Hours
 
-A list of my office hours and availability is provided on my home page (users.dickinson.edu/~braught/). If you have conflicts with my regularly scheduled office hours or would like to schedule a separate meeting please message me on Teams. Please do not send e-mails.
+A list of my office hours and availability is provided on my home page (https://users.dickinson.edu/~braught/). If you have conflicts with my regularly scheduled office hours or would like to schedule a separate meeting please message me on Teams. Please do not send e-mails.
 
-### Instructional Elements
+### Course Elements
 
 #### Attendance & Engagement
+
+While attendance will not be recorced, your presence and engagement in class are important elements of learning. Engagement includes attentiveness, active listening, responding to questions, participating in small group activities and asking questions. The material in this class builds very intentionally from one class meeting to the next.  Thus, missing a class or an assignent can have a significant impact on how prepared you are to connect with the mateiral in subsequent class meetings.  
+
+<!--
+Used for 8:30 am sections...
 
 Your presence and engagement in class are important elements to learning and thus are required elements of this course.  Engagement includes attentiveness, active listening, responding to questions, participating in small group activities and asking questions.
 
 Unexcused absences will result in a 0 score for the class or lab period. Excused absences will be omitted from the scoring. Each student in attendance on a given day will receive a ✓, which may then be changed to a ✓- after the class period if the instructor observes repeated or extended periods of disengagement, or inappropriate or disruptive classroom behavior.
 
 Anticipatable absences may be excused if arranged with the instructor in advance. Absences due to emergencies may be excused if discussed with the instructor as soon as possible after the absence. _For Spring 2022:_ In the current time of COVID concerns, please err on the side of caution and do not come to class if you are feeling unwell - just message the instructor on Teams in advance and follow [campus protocols](https://www.dickinson.edu/homepage/1539/spring_2022_semester_information).
+-->
 
 #### Homework Activities
 
 Homework activities start from the introductory material seen in the class meeting but will also contain additional videos/readings and will guide you through the learning of new material that adds depth and/or extends the introductory material.  
 
-Each activity will typically be due at the start of the next class meeting.  Within a unit of the course, each class builds on the prior one. So, having completed an activity from one class meeting provides the foundation necessary to be prepared for the next. Please allocate enough time in your schedule so that you can complete each activity before the next class meeting.  You should expect that each activity will require 2-3 hours of work.  Note: This is consistent with Dickinson’s standard that “[Credit for courses is based on the assumption that at least three hours of study accompany each class period](https://www.dickinson.edu/download/downloads/id/10480/academic_policy_and_procedures.pdf).”
+Each activity will typically be due at the start of the next class meeting.  Within a unit of the course, each class builds on the prior one. So, having completed an activity from one class meeting provides the foundation necessary to be prepared for the next. Please allocate enough time in your schedule so that you can complete each activity before the next class meeting.  
+
+You should expect that each activity will require 2-3 hours of work.  This is consistent with [Dickinson’s standard](https://www.dickinson.edu/download/downloads/id/10480/academic_policy_and_procedure) that "at least three hours of study accompany each class period".  If you find the activites are taking significantly longer than the expected time, please reach out to your insstructor to discuss strategies for reducing the time required.
 
 ##### Homework Grading
 
+Each homeowrk activity will be reviewed by the TAs and selected quetions will receive comments and will be marked using the following rubric:
+
+![Homework Question Rubric. Check+ - Correct answer; Presents sufficient detail to be fully convincing; Uses complete sentences when appropriate; Organized and neatly formatted. Check - Minor errors or misconceptions; Detail given is insufficient to be fully convincing; Answers are not complete sentences when appropriate. Check- - Significant errors or misconceptions; Little to no detail given to support answer; Very messy or disorganized. X - No answer given; Answer seems to be unrelated to question asked.](images/HWQuestion-Rubric.jpg)
+
+The instructor will then review the marks and comments provided by the TA and assign a score of 0-3 for the assignment using the following rubric:
+
+![Homework Assignent Rubric. 3 - On time; Complete; Demonstrates a strong understanding of all material and thoughtful engagement; Uses complete sentences; Neat and organized. 2 - On time or max for a late/resubmission; Complete or nearly complete; Demonstrates a sufficient understanding of nearly all essential material; Some answers may contain minor errors, not fully address the question, be unclear, be insufficiently explained, use incomplete sentences, and/or be messy/disorganized. 1 - Insufficiently complete; Fails to demonstrate acceptable level of understanding essential material. Sufficiently messy/disorganized to make review difficult. 0 - Not submitted or largely incomplete.](images/HWAssignment-Rubric.jpg)
+
+Any homework activity receiving a score of 0 or 1 may be resubmitted within 1 week of the assignment being returned to the class.  Resubmitted or late assignments may will receive a maximum score of 2.
+
+<!--
 Each question in the homework activities will be indicated as essential (:key:) or enhanced (:trophy:). When being graded, each question will be marked as:
 - x: Little to no effort on the question.
 - ✓-: Progress has been made but answer fails to demonstrate an adequate understanding of the relevant material.
@@ -61,8 +85,7 @@ Each homework activity will be given an overall score of 0, 1, 2 or 3:
 - 1: Progress has been made on all essential questions (✓- or ✓).
 - 2: All essential questions have received ✓+ scores.
 - 3: All essential questions and the majority of enhanced questions have received ✓+ scores.
-
-Any homework activities receiving scores of 0, 1 or 2 may be resubmitted within 1 week of being returned.
+-->
 
 #### Lab Activities
 
@@ -84,6 +107,73 @@ The final is strictly individual work. It will be timed (3 hours), hand written 
 
 The final exam will be graded on a 100%  scale with partial credit given on individual questions.
 
+
+### Course Grades
+
+Final coures grades will be assigned based on homework, lab and exam scores as described in this section.
+
+1. A *weighted average* of your homework and lab scores will be computed using the following weights:
+
+   Component  | Weight
+   ---------- | -------
+   Homework   | 60%
+   Labs       | 40%
+
+2. That *weighted average* will be used to compute a *base percentage* for the course using the scale below:
+
+   ![Graph of conversion scale from weighted average to base percentage.](images/BasePercentGraph.jpg)
+
+   The precice formula for the conversion from a *weighted average* to a *base percentage* is:
+
+   ![Formula for converting weighted average to base percentage.](images/WeightedAveToBasePct.jpg)
+
+3. Your *base percentage* will be rounded to the nearest whole number and is converted into a *base grade* using a standard grading scale as follows:
+
+   Base<br>Percentage       | Base<br>Grade
+   ------------------------ | -------------
+   &gt;= 93%                | A
+   &gt;= 90% and &lt; 93%   | A-
+   &gt;= 88% and &lt; 90%   | B+
+   &gt;= 83% and &lt; 88%   | B
+   &gt;= 80% and &lt; 83%   | B-  
+   &gt;= 78% and &lt; 80%   | C+ 
+   &gt;= 73% and &lt; 78%   | C
+   &gt;= 70% and &lt; 73%   | C-
+   &gt;= 68% and &lt; 70%   | D+
+   &gt;= 63% and &lt; 68%   | D
+   &gt;= 60% and &lt; 63%   | D-
+   &lt; 60%                 | F
+
+4. Your *base grade* is then adjusted up or down based on your exam scores to determine your *course grade*.  Exam scores will be averaged with each midterm having a weight of 30% and the final exam having a weight of 40%.  This average will then be used to adjust your *base grade* up or down as follows:
+
+   Weighted<br>Exam Average | Base Grade Adjustment
+   ------------------------ | ---------------
+   &gt;92%                  | Move up one full letter grade (e.g. base grade of B becomes corse grade of A)
+   &gt;85%                  | Move up one half letter grade (e.g. base grade of B becomes course grade of B+)
+   &lt;73%                  | Move down one half letter grade (e.g. base grade of B becomes course grade of B-)
+   &lt;68%                  | Move down one full letter grade (e.g. base grde of B becomes course grade of C)
+
+<!--
+Final course grades will be assigned using a competency based grading scale. One of the main ideas behind competency based grading is that all students who satisfactorily complete the course have demonstrated a basic competency with all of the essential material in the course. To this end, the table below clearly specifies the requirements for each letter grade. To receive a letter grade all of the stated requirements for that grade must be met.
+
+Grade  | Requirements
+------ | ----------------------
+D      | - >=70% check for class & lab attendance and engagement<br>- 85% scores of >=2 on homework, with no 0's<br>- 85% scores of >=2 on labs, with no 0's
+C      | - Meet all criteria for D<br>- >=80% check for class & lab attendance and engagement<br>- 100% scores of >=2 on homework<br>- 100% scores of >=2 on labs
+B      | - Meet all criteria for C<br>- >=85% check for class & lab attendance and engagement<br>- >=65% scores of 3 on homework<br>- >=40% scores of 3 on labs
+A      | - Meet all criteria for B<br>- >=90% check for class & lab attendance and engagement<br>- >=85% scores of 3 on Homework<br>- >=70% scores of 3 on labs
+-->
+
+<!--
+### Tokens
+
+Each student begins the semester with 5 tokens.  A token may be used to submit or resubmit an assignment after the deadline. Each token grants a 1-week extension and multiple tokens may be used for very late assignments. A token may also be used to resubmit an assignment an additional time (i.e. a 2nd or 3rd time). Opportunities may be presented throughout the semester to earn additional tokens.
+-->
+
+### Writing in the Discipline (WiD)
+
+This course is part of the WiD thread in the Computer Science Major. Students completing the Computer Science Major satisfy the WiD graduation requirement by maintaining a portfolio of assignments from the courses on the [WiD Thread](https://www.dickinson.edu/homepage/402/computer_science_curriculum).  Several Lab and/or homework assignments in this course will be dedicated to this writing assignment and must be completed with a score of at least 2 to count toward the WiD credit.
+
 ### Learning Support
 
 There are a number of learning support options available to help with your progress in this course.  If you are finding challenges in completing a homework or a lab, or are having difficulty with a skill or concept from the course you should make use of the following resources:
@@ -93,34 +183,6 @@ There are a number of learning support options available to help with your progr
 - Quantitative Reasoning Center: The QR Center will offer both in-person and remote tutoring for this course.
   - You can make an appointment on [WCONLINE](https://dickinson.mywconline.com/). Be sure to schedule your appointment with a tutor that can assist with this course.  Check the [list of tutors](https://www.dickinson.edu/info/20525/quantitative_reasoning_center/3636/tutors_by_courses/1) to find one.
   - The QR Center also provides drop-in tutoring. Check the [weekly schedule](https://www.dickinson.edu/download/downloads/id/13415/spring_2022_qr_tutor_schedule.pdf) and the [list of tutors](https://www.dickinson.edu/info/20525/quantitative_reasoning_center/3636/tutors_by_courses/1) to ensure a tutor can help with your specific need.
-
-### Course Grades
-
-Final course grades will be assigned using a competency based grading scale. One of the main ideas behind competency based grading is that all students who satisfactorily complete the course have demonstrated a basic competency with all of the essential material in the course. To this end, the table below clearly specifies the requirements for each letter grade. To receive a letter grade all of the stated requirements for that grade must be met.
-
-Grade  | Requirements
------- | ----------------------
-D      | - >=70% check for class & lab attendance and engagement<br>- 85% scores of >=2 on homework, with no 0's<br>- 85% scores of >=2 on labs, with no 0's
-C      | - Meet all criteria for D<br>- >=80% check for class & lab attendance and engagement<br>- 100% scores of >=2 on homework<br>- 100% scores of >=2 on labs
-B      | - Meet all criteria for C<br>- >=85% check for class & lab attendance and engagement<br>- >=65% scores of 3 on homework<br>- >=40% scores of 3 on labs
-A      | - Meet all criteria for B<br>- >=90% check for class & lab attendance and engagement<br>- >=85% scores of 3 on Homework<br>- >=70% scores of 3 on labs
-
-Exam scores will be averaged with each midterm having a weight of 25% and the final exam having a weight of 50%.  This average will then be used to adjust the grade based on the above criteria either up or down according to the following table:
-
-Exam Average | Adjustment
------------- | ---------------
-&gt;90%      | Move up one full letter grade (e.g. C becomes B)
-&gt;80%      | Move up one half letter grade (e.g. C becomes C+)
-&lt;70%      | Move down one half letter grade (e.g. C becomes C-)
-&lt;50%      | Move down one full letter grade (e.g. C becomes D)
-
-### Tokens
-
-Each student begins the semester with 5 tokens.  A token may be used to submit or resubmit an assignment after the deadline. Each token grants a 1-week extension and multiple tokens may be used for very late assignments. A token may also be used to resubmit an assignment an additional time (i.e. a 2nd or 3rd time). Opportunities may be presented throughout the semester to earn additional tokens.
-
-### Writing in the Discipline (WiD)
-
-This course is part of the WiD thread in the Computer Science Major. Students completing the Computer Science Major satisfy the WiD graduation requirement by maintaining a portfolio of assignments from the courses on the [WiD Thread](https://www.dickinson.edu/homepage/402/computer_science_curriculum).  Several Lab and/or homework assignments in this course will be dedicated to this writing assignment and must be completed with a score of at least 2 to count toward the WiD credit.
 
 ### Academic Integrity
 
