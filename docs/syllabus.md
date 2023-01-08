@@ -119,17 +119,17 @@ Final coures grades will be assigned based on homework, lab and exam scores as d
    Homework   | 60%
    Labs       | 40%
 
-2. That *weighted average* will be used to compute a *base percentage* for the course using the scale below:
+2. That *weighted average* will be used to compute a *base grade percentage* for the course using the scale below:
 
-   ![Graph of conversion scale from weighted average to base percentage.](images/BasePercentGraph.jpg)
+   ![Graph of conversion scale from weighted average to base grade percentage.](images/BasePercentGraph.jpg)
 
-   The precice formula for the conversion from a *weighted average* to a *base percentage* is:
+   The precice formula for the conversion from a *weighted average* (WA) to a *base grade percentage* (BGP) is:
 
    ![Formula for converting weighted average to base percentage.](images/WeightedAveToBasePct.jpg)
+ 
+3. Your *base grade percentage* will be rounded to the nearest whole number and converted to a *base grade* using a standard grading scale as follows:
 
-3. Your *base percentage* will be rounded to the nearest whole number and is converted into a *base grade* using a standard grading scale as follows:
-
-   Base<br>Percentage       | Base<br>Grade
+   Base Grade<br>Percentage | Base<br>Grade
    ------------------------ | -------------
    &gt;= 93%                | A
    &gt;= 90% and &lt; 93%   | A-
@@ -144,10 +144,10 @@ Final coures grades will be assigned based on homework, lab and exam scores as d
    &gt;= 60% and &lt; 63%   | D-
    &lt; 60%                 | F
 
-4. Your *base grade* is then adjusted up or down based on your exam scores to determine your *course grade*.  Exam scores will be averaged with each midterm having a weight of 30% and the final exam having a weight of 40%.  This average will then be used to adjust your *base grade* up or down as follows:
+4. Your *base grade* is then adjusted up or down based on your exam scores to determine your *course grade*.  A *weighted exam average* iwll be computed with each midterm having a weight of 30% and the final exam having a weight of 40%.  This *weighted exam average* is used to adjust your *base grade* up or down as follows:
 
    Weighted<br>Exam Average | Base Grade Adjustment
-   ------------------------ | ---------------
+   ------------------------ | -------------------------
    &gt;92%                  | Move up one full letter grade (e.g. base grade of B becomes corse grade of A)
    &gt;85%                  | Move up one half letter grade (e.g. base grade of B becomes course grade of B+)
    &lt;73%                  | Move down one half letter grade (e.g. base grade of B becomes course grade of B-)
