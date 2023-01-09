@@ -127,6 +127,8 @@ Final coures grades will be assigned based on homework, lab and exam scores as d
 
    ![Formula for converting weighted average to base percentage.](images/WeightedAveToBasePct.jpg)
  
+   The instructor reserves the option to adjust the above scale and formula such that grades are increased, but not decreased.  If adjustments are made they will be announced to the class.
+
 3. Your *base grade percentage* will be rounded to the nearest whole number and converted to a *base grade* using a standard grading scale as follows:
 
    Base Grade<br>Percentage | Base<br>Grade
@@ -153,22 +155,7 @@ Final coures grades will be assigned based on homework, lab and exam scores as d
    &lt;73%                  | Move down one half letter grade (e.g. base grade of B becomes course grade of B-)
    &lt;68%                  | Move down one full letter grade (e.g. base grde of B becomes course grade of C)
 
-<!--
-Final course grades will be assigned using a competency based grading scale. One of the main ideas behind competency based grading is that all students who satisfactorily complete the course have demonstrated a basic competency with all of the essential material in the course. To this end, the table below clearly specifies the requirements for each letter grade. To receive a letter grade all of the stated requirements for that grade must be met.
-
-Grade  | Requirements
------- | ----------------------
-D      | - >=70% check for class & lab attendance and engagement<br>- 85% scores of >=2 on homework, with no 0's<br>- 85% scores of >=2 on labs, with no 0's
-C      | - Meet all criteria for D<br>- >=80% check for class & lab attendance and engagement<br>- 100% scores of >=2 on homework<br>- 100% scores of >=2 on labs
-B      | - Meet all criteria for C<br>- >=85% check for class & lab attendance and engagement<br>- >=65% scores of 3 on homework<br>- >=40% scores of 3 on labs
-A      | - Meet all criteria for B<br>- >=90% check for class & lab attendance and engagement<br>- >=85% scores of 3 on Homework<br>- >=70% scores of 3 on labs
--->
-
-<!--
-### Tokens
-
-Each student begins the semester with 5 tokens.  A token may be used to submit or resubmit an assignment after the deadline. Each token grants a 1-week extension and multiple tokens may be used for very late assignments. A token may also be used to resubmit an assignment an additional time (i.e. a 2nd or 3rd time). Opportunities may be presented throughout the semester to earn additional tokens.
--->
+   The instructor reserves the option to modify the above *base grade adjustments* such that grades are increased, but not decreased.  If modifications are made they will be announced to the class.
 
 ### Writing in the Discipline (WiD)
 
