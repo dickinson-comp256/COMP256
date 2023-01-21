@@ -27,7 +27,7 @@ Students will:
 
 ### Community and Inclusivity
 
-All members of this class are equally valued members of our course community. The insructor aims to create an *inclusive atmosphere* in which we can listen and speak in ways that are respectful of each other and our diversity of heritages, idedenitites, experiences, knowledge and views. All questions will be accepted and treated with kindness. Some topics will push us to develop new ideas and opinions about things we may not have thought about before. The instructor aims to promote a *generous atmosphere*. One where we listen and speak to understand. One where all are given the benefit of the doubt as they try out new and partially formed thoughts and opinions. One where we respond to and critique statements and ideas, not individuals.  If you feel at any time that these ideals are not being met or have ways that our course atmosphre can be improved you are encouraged to reach out to the instructor.  In cases where talking with the instructor is not comfortable please contact your advisor, the Department Chair or another trusted College offical for guidiance.
+All members of this class are equally valued members of our course community. The instructor aims to create an *inclusive atmosphere* in which we can listen and speak in ways that are respectful of each other and our diversity of heritages, identities, experiences, knowledge and views. All questions will be accepted and treated with kindness. Some topics will push us to develop new ideas and opinions about things we may not have thought about before. The instructor aims to promote a *generous atmosphere*. One where we listen and speak to understand. One where all are given the benefit of the doubt as they try out new and partially formed thoughts and opinions. One where we respond to and critique statements and ideas, not individuals.  If you feel at any time that these ideals are not being met or have ways that our course atmosphere can be improved you are encouraged to reach out to the instructor.  In cases where talking with the instructor is not comfortable please contact your advisor, the Department Chair or another trusted College official for guidance.
 
 ### Communications
 
@@ -41,7 +41,7 @@ A list of my office hours and availability is provided on my home page (https://
 
 #### Attendance & Engagement
 
-While attendance will not be recorced, your presence and engagement in class are important elements of learning. Engagement includes attentiveness, active listening, responding to questions, participating in small group activities and asking questions. The material in this class builds very intentionally from one class meeting to the next.  Thus, missing a class or an assignent can have a significant impact on how prepared you are to connect with the mateiral in subsequent class meetings.  
+While attendance will not be recorded, your presence and engagement in class are important elements of learning. Engagement includes attentiveness, active listening, responding to questions, participating in small group activities and asking questions. The material in this class builds very intentionally from one class meeting to the next.  Thus, missing a class or an assignment can have a significant impact on how prepared you are to connect with the material in subsequent class meetings.  
 
 <!--
 Used for 8:30 am sections...
@@ -59,17 +59,17 @@ Homework activities start from the introductory material seen in the class meeti
 
 Each activity will typically be due at the start of the next class meeting.  Within a unit of the course, each class builds on the prior one. So, having completed an activity from one class meeting provides the foundation necessary to be prepared for the next. Please allocate enough time in your schedule so that you can complete each activity before the next class meeting.  
 
-You should expect that each activity will require 2-3 hours of work.  This is consistent with [Dickinson’s standard](https://www.dickinson.edu/download/downloads/id/10480/academic_policy_and_procedure) that "at least three hours of study accompany each class period".  If you find the activites are taking significantly longer than the expected time, please reach out to your insstructor to discuss strategies for reducing the time required.
+You should expect that each activity will require 2-3 hours of work.  This is consistent with [Dickinson’s standard](https://www.dickinson.edu/download/downloads/id/10480/academic_policy_and_procedure) that "at least three hours of study accompany each class period".  If you find the activities are taking significantly longer than the expected time, please reach out to your instructor to discuss strategies for reducing the time required.
 
 ##### Homework Grading
 
-Each homeowrk activity will be reviewed by the TAs and selected quetions will receive comments and will be marked using the following rubric:
+Each homework activity will be reviewed by the TAs and selected questions will receive comments and will be marked using the following rubric:
 
 ![Homework Question Rubric. Check+ - Correct answer; Presents sufficient detail to be fully convincing; Uses complete sentences when appropriate; Organized and neatly formatted. Check - Minor errors or misconceptions; Detail given is insufficient to be fully convincing; Answers are not complete sentences when appropriate. Check- - Significant errors or misconceptions; Little to no detail given to support answer; Very messy or disorganized. X - No answer given; Answer seems to be unrelated to question asked.](images/HWQuestion-Rubric.jpg)
 
 The instructor will then review the marks and comments provided by the TA and assign a score of 0-3 for the assignment using the following rubric:
 
-![Homework Assignent Rubric. 3 - On time; Complete; Demonstrates a strong understanding of all material and thoughtful engagement; Uses complete sentences; Neat and organized. 2 - On time or max for a late/resubmission; Complete or nearly complete; Demonstrates a sufficient understanding of nearly all essential material; Some answers may contain minor errors, not fully address the question, be unclear, be insufficiently explained, use incomplete sentences, and/or be messy/disorganized. 1 - Insufficiently complete; Fails to demonstrate acceptable level of understanding essential material. Sufficiently messy/disorganized to make review difficult. 0 - Not submitted or largely incomplete.](images/HWAssignment-Rubric.jpg)
+![Homework Assignment Rubric. 3 - On time; Complete; Demonstrates a strong understanding of all material and thoughtful engagement; Uses complete sentences; Neat and organized. 2 - On time or max for a late/resubmission; Complete or nearly complete; Demonstrates a sufficient understanding of nearly all essential material; Some answers may contain minor errors, not fully address the question, be unclear, be insufficiently explained, use incomplete sentences, and/or be messy/disorganized. 1 - Insufficiently complete; Fails to demonstrate acceptable level of understanding essential material. Sufficiently messy/disorganized to make review difficult. 0 - Not submitted or largely incomplete.](images/HWAssignment-Rubric.jpg)
 
 Any homework activity receiving a score of 0 or 1 may be resubmitted within 1 week of the assignment being returned to the class.  Resubmitted or late assignments may will receive a maximum score of 2.
 
@@ -97,7 +97,7 @@ Lab activities will be graded using the same approach as described above for Hom
 
 #### Mid-Term Exams
 
-All written exams are strictly individual work. They will be time-limted, hand written and given during a class or lab session. These exams will be closed notes and closed book. However, you will be permitted one 8.5" x 11" sheet of paper (single sided) of hand written notes that can be read with the naked eye. Because of the inherently cumulative nature of this course, each exam will necessarily rely on content from previous exams. However, the emphasis of each exam will be on the material introduced since the previous exam.
+All written exams are strictly individual work. They will be time-limited, hand written and given during a class or lab session. These exams will be closed notes and closed book. However, you will be permitted one 8.5" x 11" sheet of paper (single sided) of hand written notes that can be read with the naked eye. Because of the inherently cumulative nature of this course, each exam will necessarily rely on content from previous exams. However, the emphasis of each exam will be on the material introduced since the previous exam.
 
 Mid-Term exams will be graded on a 100% scale with partial credit given on individual questions.
 
@@ -110,7 +110,7 @@ The final exam will be graded on a 100%  scale with partial credit given on indi
 
 ### Course Grades
 
-Final coures grades will be assigned based on homework, lab and exam scores as described in this section.
+Final course grades will be assigned based on homework, lab and exam scores as described in this section.
 
 1. A *weighted average* of your homework and lab scores will be computed using the following weights:
 
@@ -123,7 +123,7 @@ Final coures grades will be assigned based on homework, lab and exam scores as d
 
    ![Graph of conversion scale from weighted average to base grade percentage.](images/BasePercentGraph.jpg)
 
-   The precice formula for the conversion from a *weighted average* (WA) to a *base grade percentage* (BGP) is:
+   The precise formula for the conversion from a *weighted average* (WA) to a *base grade percentage* (BGP) is:
 
    ![Formula for converting weighted average to base percentage.](images/WeightedAveToBasePct.jpg)
  
@@ -146,14 +146,14 @@ Final coures grades will be assigned based on homework, lab and exam scores as d
    &gt;= 60% and &lt; 63%   | D-
    &lt; 60%                 | F
 
-4. Your *base grade* is then adjusted up or down based on your exam scores to determine your *course grade*.  A *weighted exam average* iwll be computed with each midterm having a weight of 30% and the final exam having a weight of 40%.  This *weighted exam average* is used to adjust your *base grade* up or down as follows:
+4. Your *base grade* is then adjusted up or down based on your exam scores to determine your *course grade*.  A *weighted exam average* will be computed with each midterm having a weight of 30% and the final exam having a weight of 40%.  This *weighted exam average* is used to adjust your *base grade* up or down as follows:
 
    Weighted<br>Exam Average | Base Grade Adjustment
    ------------------------ | -------------------------
    &gt;92%                  | Move up one full letter grade (e.g. base grade of B becomes corse grade of A)
    &gt;85%                  | Move up one half letter grade (e.g. base grade of B becomes course grade of B+)
    &lt;73%                  | Move down one half letter grade (e.g. base grade of B becomes course grade of B-)
-   &lt;68%                  | Move down one full letter grade (e.g. base grde of B becomes course grade of C)
+   &lt;68%                  | Move down one full letter grade (e.g. base grade of B becomes course grade of C)
 
    The instructor reserves the option to modify the above *base grade adjustments* such that grades are increased, but not decreased.  If modifications are made they will be announced to the class.
 
