@@ -101,7 +101,7 @@ Date         | Topic / Slides / Activity                                        
  F 04/21/23  |  *No Class Meeting (CCSC-NE Conference)*                                          |
  M 04/24/23  |  WA2 - Cascading Style Sheets                        <!--[ [Slides][WA-s2] ]-->   |  <!--[WA-HW2][WA-hw2] ] Due: W 04/26/23-->
  W 04/26/23  |  WA3 - Frontend Dynamic Content (Javascript)         <!--[ [Slides][WA-s3] ]-->   |  <!--[WA-HW3][WA-hw3] ] Due: F 04/28/23-->
-*R 04/27/23* | *L11 - Web Server*                                                                |  <!--*[LAB11][l11] Due: R 05/04/23*-->
+*R 04/27/23* | *L11 - Web Server*                                                                | <!--*[LAB11][l11] Due: R 05/04/23*-->
  F 04/28/23  |  WA4 - Using Web APIs                                <!--[ [Slides][WA-s4] ]-->   |  <!--[WA-HW4][WA-hw4] ] Due: M 05/01/23-->
  M 05/01/23  |  WA5 - Databases                                     <!--[ [Slides][WA-s5] ]-->   |  <!--[WA-HW5][WA-hw5] ] Due: W 05/03/23-->
  W 05/03/23  |  WA6 - Backend Dynamic Content                       <!--[ [Slides][WA-s6] ]-->   |  <!--[WA-HW6][WA-hw6] ] Due: F 05/05/23-->
