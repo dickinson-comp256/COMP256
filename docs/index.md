@@ -48,7 +48,7 @@ Date         | Topic / Slides / Activity                                        
  W 01/25/23  |  HA2 - Transistors to Logic Gates                   [ [Slides][HA-s2] ]           |  [HA2-HW][HA-hw2] Due: F 01/27/23
 *R 01/26/23* | *L01 - Switching and Transistors*                                                 | <!--*[LAB01][l01]  Due: R 02/02/23*-->
  F 01/27/23  |  HA3 - Logic Gates to Logic Circuits                [ [Slides][HA-s3] ]           |  [HA3-HW][HA-hw3] Due: M 01/30/23
- M 01/30/23  |  HA4 - Simplifying Logic Circuits                   [ [Slides][HA-s4] ]<br>[ [Boolean Identities]][HA-BI] ]          |  [HA4-HW][HA-hw4] Due: W 02/01/23
+ M 01/30/23  |  HA4 - Simplifying Logic Circuits                   [ [Slides][HA-s4] ]<br>[ [Boolean Identities][HA-BI] ]          |  [HA4-HW][HA-hw4] Due: W 02/01/23
              | **Data Abstractions**                                                             |
  W 02/01/23  |  DA1 - Unsigned Binary Numbers                       <!--[ [Slides][DA-s1] ]-->   |  <!--[DA1-HW][DA-hw1] Due: F 02/03/23-->
 *R 02/02/23* | *L02 - Logic Gates & Integrated Circuits*                                         | <!--*[LAB02][l02] Due: R 02/09/23*--> 
@@ -111,15 +111,15 @@ Date         | Topic / Slides / Activity                                        
 *T 05/09/23* | *Final Exam - 9:00am-12:00pm*         [ [Final Exam - Review][final] ]            |
 
 
-[HA-s01]: materials/01-HardwareAbstractions/HA1-S-Abstractions.pptx
-[HA-hw01]: materials/01-HardwareAbstractions/HA1-A-Abstractions.docx
-[HA-s02]: materials/01-HardwareAbstractions/HA2-S-TransistorsToGates.pptx
-[HA-hw02]: materials/01-HardwareAbstractions/HA2-A-TransistorsToGates.docx
-[HA-s03]: materials/01-HardwareAbstractions/HA3-S-GatesToCircuits.pptx
-[HA-hw03]: materials/01-HardwareAbstractions/HA3-A-GatesToCircuits.docx
-[HA-s04]: materials/01-HardwareAbstractions/HA4-S-LogicSimplification.pptx
+[HA-s1]: materials/01-HardwareAbstractions/HA1-S-Abstractions.pptx
+[HA-hw1]: materials/01-HardwareAbstractions/HA1-A-Abstractions.docx
+[HA-s2]: materials/01-HardwareAbstractions/HA2-S-TransistorsToGates.pptx
+[HA-hw2]: materials/01-HardwareAbstractions/HA2-A-TransistorsToGates.docx
+[HA-s3]: materials/01-HardwareAbstractions/HA3-S-GatesToCircuits.pptx
+[HA-hw3]: materials/01-HardwareAbstractions/HA3-A-GatesToCircuits.docx
+[HA-s4]: materials/01-HardwareAbstractions/HA4-S-LogicSimplification.pptx
 [HA-BI]: materials/01-HardwareAbstractions/HA4-S-BooleanIdentities.pdf
-[HA-hw04]: materials/01-HardwareAbstractions/HA4-A-LogicSimplification.docx
+[HA-hw4]: materials/01-HardwareAbstractions/HA4-A-LogicSimplification.docx
 
 <!--
 [DA-s1]: materials/02-DataAbstractions/DA1-S-UnsignedBinary.pptx
