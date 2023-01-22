@@ -48,7 +48,7 @@ Date         | Topic / Slides                                                   
  W 01/25/23  |  HA2 - Transistors to Logic Gates                   [ [Slides][HA-s2] ]           |  [HA2-HW][HA-hw2] Due: F 01/27/23
 *R 01/26/23* | *L01 - Switching and Transistors*                                                 | <!--*[LAB01][l01]  Due: R 02/02/23*-->
  F 01/27/23  |  HA3 - Logic Gates to Logic Circuits                [ [Slides][HA-s3] ]           |  [HA3-HW][HA-hw3] Due: M 01/30/23
- M 01/30/23  |  HA4 - Simplifying Logic Circuits [ [Slides][HA-s4] | [ Identities][HA-BI] ]      |  [HA4-HW][HA-hw4] Due: W 02/01/23
+ M 01/30/23  |  HA4 - Simplifying Logic Circuits [ [Slides][HA-s4] - [ Identities][HA-BI] ]      |  [HA4-HW][HA-hw4] Due: W 02/01/23
              | **Data Abstractions**                                                             |
  W 02/01/23  |  DA1 - Unsigned Binary Numbers                       <!--[ [Slides][DA-s1] ]-->   |  <!--[DA1-HW][DA-hw1] Due: F 02/03/23-->
 *R 02/02/23* | *L02 - Logic Gates & Integrated Circuits*                                         | <!--*[LAB02][l02] Due: R 02/09/23*--> 
