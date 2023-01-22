@@ -44,67 +44,67 @@
 Date         | Topic / Slides / Activity                                                         | Assignment
 ------------ | --------------------------------------------------------------------------------- | --------------
              | **Hardware Abstractions**                                                         |
- M 01/23/23  |  HA1 - Introduction to Abstractions                 <!--[ [Slides][HA-s1] ]-->    |  <!--[HA-HW1][HA-hw1] Due: W 01/25/23-->
- W 01/25/23  |  HA2 - Transistors to Logic Gates                   <!--[ [Slides][HA-s2] ]-->    |  <!--[HA-HW2][HA-hw2] Due: F 01/27/23-->
+ M 01/23/23  |  HA1 - Introduction to Abstractions                 [ [Slides][HA-s1] ]           |  [HA1-HW][HA-hw1] Due: W 01/25/23
+ W 01/25/23  |  HA2 - Transistors to Logic Gates                   [ [Slides][HA-s2] ]           |  [HA2-HW][HA-hw2] Due: F 01/27/23
 *R 01/26/23* | *L01 - Switching and Transistors*                                                 | <!--*[LAB01][l01]  Due: R 02/02/23*-->
- F 01/27/23  |  HA3 - Logic Gates to Logic Circuits                <!--[ [Slides][HA-s3] ]-->    |  <!--[HA-HW3][HA-hw3] Due: M 01/30/23-->
- M 01/30/23  |  HA4 - Simplifying Logic Circuits                   <!--[ [Slides][HA-s4] ]-->    |  <!--[HA-HW4][HA-hw4] Due: W 02/01/23-->
+ F 01/27/23  |  HA3 - Logic Gates to Logic Circuits                [ [Slides][HA-s3] ]           |  [HA3-HW][HA-hw3] Due: M 01/30/23
+ M 01/30/23  |  HA4 - Simplifying Logic Circuits                   [ [Slides][HA-s4] ]<br>[ [Boolean Identities]][HA-BI] ]          |  [HA4-HW][HA-hw4] Due: W 02/01/23
              | **Data Abstractions**                                                             |
- W 02/01/23  |  DA1 - Unsigned Binary Numbers                       <!--[ [Slides][DA-s1] ]-->   |  <!--[DA-HW1][DA-hw1] Due: F 02/03/23-->
+ W 02/01/23  |  DA1 - Unsigned Binary Numbers                       <!--[ [Slides][DA-s1] ]-->   |  <!--[DA1-HW][DA-hw1] Due: F 02/03/23-->
 *R 02/02/23* | *L02 - Logic Gates & Integrated Circuits*                                         | <!--*[LAB02][l02] Due: R 02/09/23*--> 
- F 02/03/23  |  DA2 - Non-numeric Data                              <!--[ [Slides][DA-s2] ]-->   |  <!--[DA-HW2][DA-hw2] Due: M 02/06/23-->
- M 02/06/23  |  DA3 - Signed Binary Numbers                         <!--[ [Slides][DA-s3] ]-->   |  <!--[DA-HW3][DA-hw3] Due: W 02/08/23-->
- W 02/08/23  |  DA4 - Fractional Numbers                            <!--[ [Slides][DA-s4] ]-->   |  <!--[DA-HW4][DA-hw4] Due: F 02/10/23-->
+ F 02/03/23  |  DA2 - Non-numeric Data                              <!--[ [Slides][DA-s2] ]-->   |  <!--[DA2-HW][DA-hw2] Due: M 02/06/23-->
+ M 02/06/23  |  DA3 - Signed Binary Numbers                         <!--[ [Slides][DA-s3] ]-->   |  <!--[DA3-HW][DA-hw3] Due: W 02/08/23-->
+ W 02/08/23  |  DA4 - Fractional Numbers                            <!--[ [Slides][DA-s4] ]-->   |  <!--[DA4-HW][DA-hw4] Due: F 02/10/23-->
 *R 02/09/23* | *L03 - Programmable Circuits*                                                     | <!--*[LAB03][l03] Due: R 02/16/23*-->
              | **Machine Abstractions**                                                          |
- F 02/10/23  |  MA1 - A Microprogrammed Machine                     <!--[ [Slides][MA-s1] ]-->   |  <!--[MA-HW1][MA-hw1] Due: M 02/13/23-->
- M 02/13/23  |  MA2 - A Machine Language Machine                    <!--[ [Slides][MA-s2] ]-->   |  <!--[MA-HW2][MA-hw2] Due: W 02/15/23-->
- W 02/15/23  |  MA3 - The Stored Program Architecture               <!--[ [Slides][MA-s3] ]-->   |  <!--[MA-HW3][MA-hw3] Due: F 02/17/23-->
+ F 02/10/23  |  MA1 - A Microprogrammed Machine                     <!--[ [Slides][MA-s1] ]-->   |  <!--[MA1-HW][MA-hw1] Due: M 02/13/23-->
+ M 02/13/23  |  MA2 - A Machine Language Machine                    <!--[ [Slides][MA-s2] ]-->   |  <!--[MA2-HW][MA-hw2] Due: W 02/15/23-->
+ W 02/15/23  |  MA3 - The Stored Program Architecture               <!--[ [Slides][MA-s3] ]-->   |  <!--[MA3-HW][MA-hw3] Due: F 02/17/23-->
 *R 02/16/23* | *L04 - Sequential Circuits & Static Memory (SRAM)*                                | <!--*[LAB04][l04] Due: R 02/23/23*-->
- F 02/17/23  |  MA4 - Memory Hierarchy & Processor Cache            <!--[ [Slides][MA-s4] ]-->   |  <!--[MA-HW4][MA-hw4] Due: M 02/20/23-->
- M 02/20/23  |  MA5 - Pipelining & Parallelism (w/ WiD)             <!--[ [Slides][MA-s5] ]-->   |  <!--[MA-HW5][MA-hw5] Due: W 02/22/23-->
+ F 02/17/23  |  MA4 - Memory Hierarchy & Processor Cache            <!--[ [Slides][MA-s4] ]-->   |  <!--[MA4-HW][MA-hw4] Due: M 02/20/23-->
+ M 02/20/23  |  MA5 - Pipelining & Parallelism (w/ WiD)             <!--[ [Slides][MA-s5] ]-->   |  <!--[MA5-HW][MA-hw5] Due: W 02/22/23-->
              | **Language Abstractions**                                                         |
- W 02/22/23  |  LA1 - Translation and Interpretation of Programs    <!--[ [Slides][LA-s1] ]-->   |  <!--[LA-HW1][LA-hw1] Due: F 02/24/23-->
+ W 02/22/23  |  LA1 - Translation and Interpretation of Programs    <!--[ [Slides][LA-s1] ]-->   |  <!--[LA1-HW][LA-hw1] Due: F 02/24/23-->
 *R 02/23/23* | *L05 - SILI Interpreter*                                                          | <!--*[LAB05][l05] Due: R 03/09/23*-->
- F 02/24/23  |  LA2 - Assembly Language Programs                    <!--[ [Slides][LA-s2] ]-->   |  <!--[LA-HW2][LA-hw2] Due: M 02/27/23-->
- M 02/27/23  |  LA3 - Branching and Looping                         <!--[ [Slides][LA-s3] ]-->   |  <!--[LA-HW3][LA-hw3] Due: W 03/01/23-->
+ F 02/24/23  |  LA2 - Assembly Language Programs                    <!--[ [Slides][LA-s2] ]-->   |  <!--[LA2-HW][LA-hw2] Due: M 02/27/23-->
+ M 02/27/23  |  LA3 - Branching and Looping                         <!--[ [Slides][LA-s3] ]-->   |  <!--[LA3-HW][LA-hw3] Due: W 03/01/23-->
  W 03/01/23  |  Assembly Language Practice / WiD Peer Reviews       <!--[ [Slides][LA-pr1] ]-->  |  <!--[WiD][WiDPR] Due: F 03/03/23-->
 *R 03/02/23* | *Exam #1 (through C13/L04) in Lab 3:00-5:00*<!--[ [Exam 1 - Review][ex1] ]-->     | 
- F 03/03/23  |  LA4 - Arrays and Indirect Addressing                <!--[ [Slides][LA-s4] ]-->   |  <!--[LA-HW4][LA-hw4] Due: M 03/06/23-->
- M 03/06/23  |  LA5 - Calling Functions                             <!--[ [Slides][LA-s5] ]-->   |  <!--[LA-HW5][LA-hw5] Due: W 03/08/23-->
- W 03/08/23  |  LA6 - Implementing Functions                        <!--[ [Slides][LA-s6] ]-->   |  <!--[LA-HW6][LA-hw6] Due: F 03/10/23-->
+ F 03/03/23  |  LA4 - Arrays and Indirect Addressing                <!--[ [Slides][LA-s4] ]-->   |  <!--[LA4-HW][LA-hw4] Due: M 03/06/23-->
+ M 03/06/23  |  LA5 - Calling Functions                             <!--[ [Slides][LA-s5] ]-->   |  <!--[LA5-HW][LA-hw5] Due: W 03/08/23-->
+ W 03/08/23  |  LA6 - Implementing Functions                        <!--[ [Slides][LA-s6] ]-->   |  <!--[LA6-HW][LA-hw6] Due: F 03/10/23-->
 *R 03/09/23* | *L06 - Assembly Control Structures and Arrays*                                    | <!--*[LAB06][l06] Due: R 03/23/23*-->
  F 03/10/23  |  WiD Final Drafts                                                                 |  <!--[WiD][WiDFD] Due: M 03/20/23-->
              | **Spring Break**                                                                  |
              | **Operating Systems Abstractions**                                                |
- M 03/20/23  |  OSA1 - Operating Systems Abstractions               <!--[ [Slides][OSA-s1] ]-->  |  <!--[OSA-HW1][OSA-hw1] Due: W 03/22/23-->
- W 03/22/23  |  OSA2 - Multiprogramming, Processes & Context        <!--[ [Slides][OSA-s2] ]-->  |  <!--[OSA-HW2][OSA-hw2] Due: F 03/24/23--> 
+ M 03/20/23  |  OSA1 - Operating Systems Abstractions               <!--[ [Slides][OSA-s1] ]-->  |  <!--[OSA1-HW][OSA-hw1] Due: W 03/22/23-->
+ W 03/22/23  |  OSA2 - Multiprogramming, Processes & Context        <!--[ [Slides][OSA-s2] ]-->  |  <!--[OSA2-HW][OSA-hw2] Due: F 03/24/23--> 
 *R 03/23/23* | *L07 - *Assembly Functions & Recursion*                                           | <!--*[LAB07]]l07] Due: R 03/30/23*-->
- F 03/24/23  |  OSA3 - Interrupts & System Calls                    <!--[ [Slides][OSA-s3] ]-->  |  <!--[OSA-HW3][OSA-hw3] Due: M 03/27/23-->
- M 03/27/23  |  OSA4 - Logical Memory                               <!--[ [Slides][OSA-s4] ]-->  |  <!--[OSA-HW4][OSA-hw4] Due: W 03/29/23-->
- W 03/29/23  |  OSA5 - Paged Virtual Memory                         <!--[ [Slides][OSA-s5] ]-->  |  <!--[OSA-HW5][OSA-hw5] Due: F 03/31/23-->
+ F 03/24/23  |  OSA3 - Interrupts & System Calls                    <!--[ [Slides][OSA-s3] ]-->  |  <!--[OSA3-HW][OSA-hw3] Due: M 03/27/23-->
+ M 03/27/23  |  OSA4 - Logical Memory                               <!--[ [Slides][OSA-s4] ]-->  |  <!--[OSA4-HW][OSA-hw4] Due: W 03/29/23-->
+ W 03/29/23  |  OSA5 - Paged Virtual Memory                         <!--[ [Slides][OSA-s5] ]-->  |  <!--[OSA5-HW][OSA-hw5] Due: F 03/31/23-->
 *R 03/30/23* | *L08 - System Calls*                                                              | <!--*[LAB08][l08] Due: R 04/13/23*-->
- F 03/31/23  |  OSA6 - Devices and I/O                              <!--[ [Slides][OSA-s6] ]-->  |  <!--[OSA-HW6][OSA-hw6] Due: M 04/03/23-->
- M 04/03/23  |  OSA7 - Threads and Concurrency                      <!--[ [Slides][OSA-s7] ]-->  |  <!--[OSA-HW7][OSA-hw7] Due: W 04/05/23-->
- W 04/05/23  |  OSA8 - Race Conditions and Synchronization          <!--[ [Slides][OSA-s8] ]-->  |  <!--[OSA-HW8][OSA-hw8] Due: F 04/07/23-->
+ F 03/31/23  |  OSA6 - Devices and I/O                              <!--[ [Slides][OSA-s6] ]-->  |  <!--[OSA6-HW][OSA-hw6] Due: M 04/03/23-->
+ M 04/03/23  |  OSA7 - Threads and Concurrency                      <!--[ [Slides][OSA-s7] ]-->  |  <!--[OSA7-HW][OSA-hw7] Due: W 04/05/23-->
+ W 04/05/23  |  OSA8 - Race Conditions and Synchronization          <!--[ [Slides][OSA-s8] ]-->  |  <!--[OSA8-HW][OSA-hw8] Due: F 04/07/23-->
              | **Networking Abstractions**                                                       |
 *R 04/06/23* | *L09 - Multi-Threaded Programs*                                                   | <!--*[LAB09][l09] Due: R 04/20/23*-->
- F 04/07/23  |  NA1 - Networking Abstractions & Physical Layer      <!--[ [Slides][NA-s1] ]-->   |  <!--[NA-HW1][NA-hw1] Due: M 04/10/23-->
- M 04/10/23  |  NA2 - Data Link Layer (Ethernet)                    <!--[ [Slides][NA-s2] ]-->   |  <!--[NA-HW2][NA-hw2] Due: W 04/12/23-->
- W 04/12/23  |  NA3 -  Network Layer (IP)                           <!--[ [Slides][NA-s3] ]-->   |  <!--[NA-HW3][NA-hw3] Due: F 04/14/23-->
+ F 04/07/23  |  NA1 - Networking Abstractions & Physical Layer      <!--[ [Slides][NA-s1] ]-->   |  <!--[NA1-HW][NA-hw1] Due: M 04/10/23-->
+ M 04/10/23  |  NA2 - Data Link Layer (Ethernet)                    <!--[ [Slides][NA-s2] ]-->   |  <!--[NA2-HW][NA-hw2] Due: W 04/12/23-->
+ W 04/12/23  |  NA3 -  Network Layer (IP)                           <!--[ [Slides][NA-s3] ]-->   |  <!--[NA3-HW][NA-hw3] Due: F 04/14/23-->
 *R 04/13/23* | *Exam #2 (through C26/L08) in Lab 3:00-5:00*<!--[ [Exam 2 - Review][ex2] ]-->     | 
- F 04/14/23  |  NA4 - Transport Layer (TCP / UDP / Ports)           <!--[ [Slides][NA-s4] ]-->   |  <!--[NA-HW4][NA-hw4] Due: M 04/17/23-->
- M 04/17/23  |  NA5 - Application Layer (HTTP)                      <!--[ [Slides][NA-s5] ]-->   |  <!--[NA-HW5][NA-hw5] Due: W 04/19/23-->
+ F 04/14/23  |  NA4 - Transport Layer (TCP / UDP / Ports)           <!--[ [Slides][NA-s4] ]-->   |  <!--[NA4-HW][NA-hw4] Due: M 04/17/23-->
+ M 04/17/23  |  NA5 - Application Layer (HTTP)                      <!--[ [Slides][NA-s5] ]-->   |  <!--[NA5-HW][NA-hw5] Due: W 04/19/23-->
              | **Web Abstractions**                                                              |
- W 04/19/23  |  WA1 - Web Abstractions & HTML                       <!--[ [Slides][WA-s1] ]-->   |  <!--[WA-HW1][WA-hw1] Due: F 04/21/23-->
+ W 04/19/23  |  WA1 - Web Abstractions & HTML                       <!--[ [Slides][WA-s1] ]-->   |  <!--[WA1-HW][WA-hw1] Due: F 04/21/23-->
 *R 04/20/23  | *L10 - Web Browser*                                                               | <!--*[LAB10][l10] Due: R 04/27/23*-->
  F 04/21/23  |  *No Class Meeting (CCSC-NE Conference)*                                          |
- M 04/24/23  |  WA2 - Cascading Style Sheets                        <!--[ [Slides][WA-s2] ]-->   |  <!--[WA-HW2][WA-hw2] ] Due: W 04/26/23-->
- W 04/26/23  |  WA3 - Frontend Dynamic Content (Javascript)         <!--[ [Slides][WA-s3] ]-->   |  <!--[WA-HW3][WA-hw3] ] Due: F 04/28/23-->
+ M 04/24/23  |  WA2 - Cascading Style Sheets                        <!--[ [Slides][WA-s2] ]-->   |  <!--[WA2-HW][WA-hw2] ] Due: W 04/26/23-->
+ W 04/26/23  |  WA3 - Frontend Dynamic Content (Javascript)         <!--[ [Slides][WA-s3] ]-->   |  <!--[WA3-HW][WA-hw3] ] Due: F 04/28/23-->
 *R 04/27/23* | *L11 - Web Server*                                                                | <!--*[LAB11][l11] Due: R 05/04/23*-->
- F 04/28/23  |  WA4 - Using Web APIs                                <!--[ [Slides][WA-s4] ]-->   |  <!--[WA-HW4][WA-hw4] ] Due: M 05/01/23-->
- M 05/01/23  |  WA5 - Databases                                     <!--[ [Slides][WA-s5] ]-->   |  <!--[WA-HW5][WA-hw5] ] Due: W 05/03/23-->
- W 05/03/23  |  WA6 - Backend Dynamic Content                       <!--[ [Slides][WA-s6] ]-->   |  <!--[WA-HW6][WA-hw6] ] Due: F 05/05/23-->
+ F 04/28/23  |  WA4 - Using Web APIs                                <!--[ [Slides][WA-s4] ]-->   |  <!--[WA4-HW][WA-hw4] ] Due: M 05/01/23-->
+ M 05/01/23  |  WA5 - Databases                                     <!--[ [Slides][WA-s5] ]-->   |  <!--[WA5-HW][WA-hw5] ] Due: W 05/03/23-->
+ W 05/03/23  |  WA6 - Backend Dynamic Content                       <!--[ [Slides][WA-s6] ]-->   |  <!--[WA6-HW][WA-hw6] ] Due: F 05/05/23-->
 *R 05/04/23* | *L11 - Web Server Cont*                                                           |
  F 05/05/23  |        Wrap Up                                       <!--[ [Slides][TheEnd] ]-->  |  
              | **Final Exam**                                                                    |
@@ -118,6 +118,7 @@ Date         | Topic / Slides / Activity                                        
 [HA-s03]: materials/01-HardwareAbstractions/HA3-S-GatesToCircuits.pptx
 [HA-hw03]: materials/01-HardwareAbstractions/HA3-A-GatesToCircuits.docx
 [HA-s04]: materials/01-HardwareAbstractions/HA4-S-LogicSimplification.pptx
+[HA-BI]: materials/01-HardwareAbstractions/HA4-S-BooleanIdentities.pdf
 [HA-hw04]: materials/01-HardwareAbstractions/HA4-A-LogicSimplification.docx
 
 <!--
