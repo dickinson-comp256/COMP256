@@ -91,7 +91,7 @@ Date         | Topic / Slides                                                   
 *R 04/06/23* | *L09 - Multi-Threaded Programs*                                                   | <!--*[LAB09][l09] Due: R 04/20/23*-->
  F 04/07/23  |  NA1 - Networking Abstractions & Physical Layer      <!--[ [Slides][NA-s1] ]-->   |  <!--[NA1-HW][NA-hw1] Due: M 04/10/23-->
  M 04/10/23  |  NA2 - Data Link Layer (Ethernet)                    <!--[ [Slides][NA-s2] ]-->   |  <!--[NA2-HW][NA-hw2] Due: W 04/12/23-->
- W 04/12/23  |  NA3 -  Network Layer (IP)                           <!--[ [Slides][NA-s3] ]-->   |  <!--[NA3-HW][NA-hw3] Due: F 04/14/23-->
+ W 04/12/23  |  NA3 - Network Layer (IP)                            <!--[ [Slides][NA-s3] ]-->   |  <!--[NA3-HW][NA-hw3] Due: F 04/14/23-->
 *R 04/13/23* | *Exam #2 (through C26/L08) in Lab 3:00-5:00*<!--[ [Exam 2 - Review][ex2] ]-->     | 
  F 04/14/23  |  NA4 - Transport Layer (TCP / UDP / Ports)           <!--[ [Slides][NA-s4] ]-->   |  <!--[NA4-HW][NA-hw4] Due: M 04/17/23-->
  M 04/17/23  |  NA5 - Application Layer (HTTP)                      <!--[ [Slides][NA-s5] ]-->   |  <!--[NA5-HW][NA-hw5] Due: W 04/19/23-->
