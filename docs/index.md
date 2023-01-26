@@ -203,7 +203,7 @@ Date         | Topic / Slides                                                   
 [TheEnd]: materials/39-S-WrapUp.pptx
 -->
 
-[l01]: materials/Labs/L01-Switching.docx
+[l01]: materials/Labs/L01-A-Switching.docx
 
 <!--
 [l02]: materials/Labs/L02-GatesIC.docx
