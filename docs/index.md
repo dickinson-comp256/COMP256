@@ -122,7 +122,6 @@ Date         | Topic / Slides                                                   
 [HA-BI]: materials/01-HardwareAbstractions/HA4-S-BooleanIdentities.pdf
 [HA-hw4]: materials/01-HardwareAbstractions/HA4-A-LogicSimplification.docx
 
-<!--
 [DA-s1]: materials/02-DataAbstractions/DA1-S-UnsignedBinary.pptx
 [DA-hw1]: materials/02-DataAbstractions/DA1-A-UnsignedBinary.docx
 [DA-s2]: materials/02-DataAbstractions/DA2-S-NonNumericData.pptx
@@ -132,6 +131,7 @@ Date         | Topic / Slides                                                   
 [DA-s4]: materials/02-DataAbstractions/DA4-S-FractionalNumbers.pptx
 [DA-s5]: materials/02-DataAbstractions/DA4-A-FractionalNumbers.docx 
 
+<!--
 [MA-s1]: materials/03-MachineAbstractions/MA1-S-MicroProgram.pptx
 [MA-hw1]: materials/03-MachineAbstractions/MA1-A-MicroProgram.docx
 [MA-s2]: materials/03-MachineAbstractions/MA2-S-MachineLanguage.pptx
