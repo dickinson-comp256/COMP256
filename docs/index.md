@@ -50,11 +50,11 @@ Date         | Topic / Slides                                                   
  F 01/27/23  |  HA3 - Logic Gates to Logic Circuits [ [Slides][HA-s3] - [ Logic Gates ][HA-LG] ] |  [HA3-HW][HA-hw3] Due: M 01/30/23
  M 01/30/23  |  HA4 - Simplifying Logic Circuits [ [Slides][HA-s4] - [ Identities][HA-BI] ]      |  [HA4-HW][HA-hw4] Due: W 02/01/23
              | **Data Abstractions**                                                             |
- W 02/01/23  |  DA1 - Unsigned Binary Numbers                       <!--[ [Slides][DA-s1] ]-->   |  <!--[DA1-HW][DA-hw1] Due: F 02/03/23-->
+ W 02/01/23  |  DA1 - Unsigned Binary Numbers                      [ [Slides][DA-s1] ]           |  [DA1-HW][DA-hw1] Due: F 02/03/23
 *R 02/02/23* | *L02 - Logic Gates & Integrated Circuits*                                         | <!--*[LAB02][l02] Due: R 02/09/23*--> 
- F 02/03/23  |  DA2 - Non-numeric Data                              <!--[ [Slides][DA-s2] ]-->   |  <!--[DA2-HW][DA-hw2] Due: M 02/06/23-->
- M 02/06/23  |  DA3 - Signed Binary Numbers                         <!--[ [Slides][DA-s3] ]-->   |  <!--[DA3-HW][DA-hw3] Due: W 02/08/23-->
- W 02/08/23  |  DA4 - Fractional Numbers                            <!--[ [Slides][DA-s4] ]-->   |  <!--[DA4-HW][DA-hw4] Due: F 02/10/23-->
+ F 02/03/23  |  DA2 - Non-numeric Data                             [ [Slides][DA-s2] ]           |  [DA2-HW][DA-hw2] Due: M 02/06/23
+ M 02/06/23  |  DA3 - Signed Binary Numbers                        [ [Slides][DA-s3] ]           |  [DA3-HW][DA-hw3] Due: W 02/08/23
+ W 02/08/23  |  DA4 - Fractional Numbers                           [ [Slides][DA-s4] ]           |  [DA4-HW][DA-hw4] Due: F 02/10/23
 *R 02/09/23* | *L03 - Programmable Circuits*                                                     | <!--*[LAB03][l03] Due: R 02/16/23*-->
              | **Machine Abstractions**                                                          |
  F 02/10/23  |  MA1 - A Microprogrammed Machine                     <!--[ [Slides][MA-s1] ]-->   |  <!--[MA1-HW][MA-hw1] Due: M 02/13/23-->
