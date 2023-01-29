@@ -129,7 +129,7 @@ Date         | Topic / Slides                                                   
 [DA-s3]: materials/02-DataAbstractions/DA3-S-SignedBinary.pptx
 [DA-hw3]: materials/02-DataAbstractions/DA3-A-SignedBinary.docx
 [DA-s4]: materials/02-DataAbstractions/DA4-S-FractionalNumbers.pptx
-[DA-s5]: materials/02-DataAbstractions/DA4-A-FractionalNumbers.docx 
+[DA-hw4]: materials/02-DataAbstractions/DA4-A-FractionalNumbers.docx 
 
 <!--
 [MA-s1]: materials/03-MachineAbstractions/MA1-S-MicroProgram.pptx
