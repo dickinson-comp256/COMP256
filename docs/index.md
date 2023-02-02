@@ -205,18 +205,18 @@ Date         | Topic / Slides                                                   
 -->
 
 [l01]: materials/Labs/L01-A-Switching.docx
+[l02]: materials/Labs/L02-A-GatesIC.docx
 
 <!--
-[l02]: materials/Labs/L02-GatesIC.docx
-[l03]: materials/Labs/L03-ProgCircuits.docx
-[l04]: materials/Labs/L04-SeqCircuitsSRAM.docx
-[l05]: materials/Labs/L05-Interpreter.docx
-[l06]: ???
-[l07]: materials/Labs/L07-AssemblyFuncs.docx
+[l03]: materials/Labs/L03-A-ProgCircuits.docx
+[l04]: materials/Labs/L04-A-SeqCircuitsSRAM.docx
+[l05]: materials/Labs/L05-A-Interpreter.docx
+[l06]: ???  L06-A-Assembly.docx
+[l07]: materials/Labs/L07-A-AssemblyFuncs.docx
 [l08]: ???
 [l09]: ???
 [l10]: ???
-[l11]: materials/Labs/L11-WebServer.docx
+[l11]: materials/Labs/L11-A-WebServer.docx
 -->
 ___
 
