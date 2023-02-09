@@ -57,7 +57,7 @@ Date         | Topic / Slides                                                   
  W 02/08/23  |  DA4 - Fractional Numbers                           [ [Slides][DA-s4] ]           |  [DA4-HW][DA-hw4] Due: F 02/10/23
 *R 02/09/23* | *L03 - Programmable Circuits*                                                     | *[LAB03][l03] Due: R 02/16/23*
              | **Machine Abstractions**                                                          |
- F 02/10/23  |  MA1 - A Microprogrammed Machine                     <!--[ [Slides][MA-s1] ]-->   |  <!--[MA1-HW][MA-hw1] Due: M 02/13/23-->
+ F 02/10/23  |  MA1 - A Microprogrammed Machine                     [ [Slides][MA-s1] ]          |  [MA1-HW][MA-hw1] Due: M 02/13/23
  M 02/13/23  |  MA2 - A Machine Language Machine                    <!--[ [Slides][MA-s2] ]-->   |  <!--[MA2-HW][MA-hw2] Due: W 02/15/23-->
  W 02/15/23  |  MA3 - The Stored Program Architecture               <!--[ [Slides][MA-s3] ]-->   |  <!--[MA3-HW][MA-hw3] Due: F 02/17/23-->
 *R 02/16/23* | *L04 - Sequential Circuits & Static Memory (SRAM)*                                | <!--*[LAB04][l04] Due: R 02/23/23*-->
@@ -131,9 +131,9 @@ Date         | Topic / Slides                                                   
 [DA-s4]: materials/02-DataAbstractions/DA4-S-FractionalNumbers.pptx
 [DA-hw4]: materials/02-DataAbstractions/DA4-A-FractionalNumbers.docx 
 
-<!--
 [MA-s1]: materials/03-MachineAbstractions/MA1-S-MicroProgram.pptx
 [MA-hw1]: materials/03-MachineAbstractions/MA1-A-MicroProgram.docx
+<!--
 [MA-s2]: materials/03-MachineAbstractions/MA2-S-MachineLanguage.pptx
 [MA-hw2]: materials/03-MachineAbstractions/MA2-A-MachineLanguage.docx
 [MA-s3]: materials/03-MachineAbstractions/MA3-S-StoredProgram.pptx
