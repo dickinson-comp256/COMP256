@@ -55,7 +55,7 @@ Date         | Topic / Slides                                                   
  F 02/03/23  |  DA2 - Non-numeric Data                             [ [Slides][DA-s2] ]           |  [DA2-HW][DA-hw2] Due: M 02/06/23
  M 02/06/23  |  DA3 - Signed Binary Numbers                        [ [Slides][DA-s3] ]           |  [DA3-HW][DA-hw3] Due: W 02/08/23
  W 02/08/23  |  DA4 - Fractional Numbers                           [ [Slides][DA-s4] ]           |  [DA4-HW][DA-hw4] Due: F 02/10/23
-*R 02/09/23* | *L03 - Programmable Circuits*                                                     | <!--*[LAB03][l03] Due: R 02/16/23*-->
+*R 02/09/23* | *L03 - Programmable Circuits*                                                     | *[LAB03][l03] Due: R 02/16/23*
              | **Machine Abstractions**                                                          |
  F 02/10/23  |  MA1 - A Microprogrammed Machine                     <!--[ [Slides][MA-s1] ]-->   |  <!--[MA1-HW][MA-hw1] Due: M 02/13/23-->
  M 02/13/23  |  MA2 - A Machine Language Machine                    <!--[ [Slides][MA-s2] ]-->   |  <!--[MA2-HW][MA-hw2] Due: W 02/15/23-->
@@ -206,9 +206,9 @@ Date         | Topic / Slides                                                   
 
 [l01]: materials/Labs/L01-A-Switching.docx
 [l02]: materials/Labs/L02-A-GatesIC.docx
+[l03]: materials/Labs/L03-A-ProgCircuits.docx
 
 <!--
-[l03]: materials/Labs/L03-A-ProgCircuits.docx
 [l04]: materials/Labs/L04-A-SeqCircuitsSRAM.docx
 [l05]: materials/Labs/L05-A-Interpreter.docx
 [l06]: ???  L06-A-Assembly.docx
