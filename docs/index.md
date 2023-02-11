@@ -62,7 +62,7 @@ Date         | Topic / Slides                                                   
  W 02/15/23  |  MA3 - The Stored Program Architecture               [ [Slides][MA-s3] ]          |  [MA3-HW][MA-hw3] Due: F 02/17/23
 *R 02/16/23* | *L04 - Sequential Circuits & Static Memory (SRAM)*                                | <!--*[LAB04][l04] Due: R 02/23/23*-->
  F 02/17/23  |  MA4 - Memory Hierarchy & Processor Cache            [ [Slides][MA-s4] ]          |  [MA4-HW][MA-hw4] Due: M 02/20/23
- M 02/20/23  |  MA5 - Pipelining & Parallelism (w/ WiD)             <!--[ [Slides][MA-s5] ]-->   |  <!--[MA5-HW][MA-hw5] Due: W 02/22/23-->
+ M 02/20/23  |  MA5 - Pipelining & Parallelism (w/ WiD)             [ [Slides][MA-s5] ]          |  [MA5-HW][MA-hw5] Due: W 02/22/23
              | **Language Abstractions**                                                         |
  W 02/22/23  |  LA1 - Translation and Interpretation of Programs    <!--[ [Slides][LA-s1] ]-->   |  <!--[LA1-HW][LA-hw1] Due: F 02/24/23-->
 *R 02/23/23* | *L05 - SILI Interpreter*                                                          | <!--*[LAB05][l05] Due: R 03/09/23*-->
@@ -140,12 +140,10 @@ Date         | Topic / Slides                                                   
 [MA-hw3]: materials/03-MachineAbstractions/MA3-A-StoredProgram.docx
 [MA-s4]: materials/03-MachineAbstractions/MA4-S-MemoryAndCache.pptx
 [MA-hw4]: materials/03-MachineAbstractions/MA4-A-MemoryAndCache.docx
-
-<!--
-
 [MA-s5]: materials/03-MachineAbstractions/MA5-S-ParallelismPipelining.pptx
 [MA-hw5]: materials/03-MachineAbstractions/MA5-S-ParallelismPipelining.docx
 
+<!--
 [LA-s1]: materials/04-MachineAbstractions/LA1-S-TranslationInterpretation.pptx
 [LA-hw1]: materials/04-MachineAbstractions/LA1-A-TranslationInterpretation.docx
 [LA-s2]: materials/04-MachineAbstractions/LA2-S-Assembly.pptx
