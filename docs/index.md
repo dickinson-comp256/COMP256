@@ -141,7 +141,7 @@ Date         | Topic / Slides                                                   
 [MA-s4]: materials/03-MachineAbstractions/MA4-S-MemoryAndCache.pptx
 [MA-hw4]: materials/03-MachineAbstractions/MA4-A-MemoryAndCache.docx
 [MA-s5]: materials/03-MachineAbstractions/MA5-S-ParallelismPipelining.pptx
-[MA-hw5]: materials/03-MachineAbstractions/MA5-S-ParallelismPipelining.docx
+[MA-hw5]: materials/03-MachineAbstractions/MA5-A-ParallelismPipelining.docx
 
 <!--
 [LA-s1]: materials/04-MachineAbstractions/LA1-S-TranslationInterpretation.pptx
