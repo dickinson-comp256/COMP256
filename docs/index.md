@@ -69,7 +69,7 @@ Date         | Topic / Slides                                                   
  F 02/24/23  |  LA2 - Assembly Language Programs                    <!--[ [Slides][LA-s2] ]-->   |  <!--[LA2-HW][LA-hw2] Due: M 02/27/23-->
  M 02/27/23  |  LA3 - Branching and Looping                         <!--[ [Slides][LA-s3] ]-->   |  <!--[LA3-HW][LA-hw3] Due: W 03/01/23-->
  W 03/01/23  |  Assembly Language Practice / WiD Peer Reviews       <!--[ [Slides][LA-pr1] ]-->  |  <!--[WiD][WiDPR] Due: F 03/03/23-->
-*R 03/02/23* | *Exam #1 (through C13/L04) in Lab 3:00-5:00*<!--[ [Exam 1 - Review][ex1] ]-->     | 
+*R 03/02/23* | *Exam #1 (through MA5/L04) in Lab 3:00-5:00*<!--[ [Exam 1 - Review][ex1] ]-->     | 
  F 03/03/23  |  LA4 - Arrays and Indirect Addressing                <!--[ [Slides][LA-s4] ]-->   |  <!--[LA4-HW][LA-hw4] Due: M 03/06/23-->
  M 03/06/23  |  LA5 - Calling Functions                             <!--[ [Slides][LA-s5] ]-->   |  <!--[LA5-HW][LA-hw5] Due: W 03/08/23-->
  W 03/08/23  |  LA6 - Implementing Functions                        <!--[ [Slides][LA-s6] ]-->   |  <!--[LA6-HW][LA-hw6] Due: F 03/10/23-->
@@ -92,7 +92,7 @@ Date         | Topic / Slides                                                   
  F 04/07/23  |  NA1 - Networking Abstractions & Physical Layer      <!--[ [Slides][NA-s1] ]-->   |  <!--[NA1-HW][NA-hw1] Due: M 04/10/23-->
  M 04/10/23  |  NA2 - Data Link Layer (Ethernet)                    <!--[ [Slides][NA-s2] ]-->   |  <!--[NA2-HW][NA-hw2] Due: W 04/12/23-->
  W 04/12/23  |  NA3 - Network Layer (IP)                            <!--[ [Slides][NA-s3] ]-->   |  <!--[NA3-HW][NA-hw3] Due: F 04/14/23-->
-*R 04/13/23* | *Exam #2 (through C26/L08) in Lab 3:00-5:00*<!--[ [Exam 2 - Review][ex2] ]-->     | 
+*R 04/13/23* | *Exam #2 (through OSA8/L09) in Lab 3:00-5:00*<!--[ [Exam 2 - Review][ex2] ]-->     | 
  F 04/14/23  |  NA4 - Transport Layer (TCP / UDP / Ports)           <!--[ [Slides][NA-s4] ]-->   |  <!--[NA4-HW][NA-hw4] Due: M 04/17/23-->
  M 04/17/23  |  NA5 - Application Layer (HTTP)                      <!--[ [Slides][NA-s5] ]-->   |  <!--[NA5-HW][NA-hw5] Due: W 04/19/23-->
              | **Web Abstractions**                                                              |
