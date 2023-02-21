@@ -64,7 +64,7 @@ Date         | Topic / Slides                                                   
  F 02/17/23  |  MA4 - Memory Hierarchy & Processor Cache            [ [Slides][MA-s4] ]          |  [MA4-HW][MA-hw4] Due: M 02/20/23
  M 02/20/23  |  MA5 - Pipelining & Parallelism (w/ WiD)             [ [Slides][MA-s5] ]          |  [MA5-HW][MA-hw5] Due: W 02/22/23
              | **Language Abstractions**                                                         |
- W 02/22/23  |  LA1 - Translation and Interpretation of Programs    <!--[ [Slides][LA-s1] ]-->   |  <!--[LA1-HW][LA-hw1] Due: F 02/24/23-->
+ W 02/22/23  |  LA1 - Translation and Interpretation of Programs    [ [Slides][LA-s1] ]          |  [LA1-HW][LA-hw1] Due: F 02/24/23
 *R 02/23/23* | *L05 - SILI Interpreter*                                                          | <!--*[LAB05][l05] Due: R 03/09/23*-->
  F 02/24/23  |  LA2 - Assembly Language Programs                    <!--[ [Slides][LA-s2] ]-->   |  <!--[LA2-HW][LA-hw2] Due: M 02/27/23-->
  M 02/27/23  |  LA3 - Branching and Looping                         <!--[ [Slides][LA-s3] ]-->   |  <!--[LA3-HW][LA-hw3] Due: W 03/01/23-->
@@ -143,9 +143,10 @@ Date         | Topic / Slides                                                   
 [MA-s5]: materials/03-MachineAbstractions/MA5-S-ParallelismPipelining.pptx
 [MA-hw5]: materials/03-MachineAbstractions/MA5-A-ParallelismPipelining.docx
 
-<!--
 [LA-s1]: materials/04-MachineAbstractions/LA1-S-TranslationInterpretation.pptx
 [LA-hw1]: materials/04-MachineAbstractions/LA1-A-TranslationInterpretation.docx
+
+<!--
 [LA-s2]: materials/04-MachineAbstractions/LA2-S-Assembly.pptx
 [LA-hw2]: materials/04-MachineAbstractions/LA2-A-Assembly.docx
 [LA-s3]: materials/04-MachineAbstractions/LA3-S-BranchingLooping.pptx
@@ -153,7 +154,7 @@ Date         | Topic / Slides                                                   
 [LA-s4]: materials/04-MachineAbstractions/LA4-S-IndirectAddressing.pptx
 [LA-hw4]: materials/04-MachineAbstractions/L45-A-IndirectAddressing.docx
 [ex1]: materials/Exam1Review.docx
-[LA-pr1]: materials/04-MachineAbstractions/LA1-Practice1-S-AsmActivities.pptx
+[LA-pr1]: materials/04-MachineAbstractions/LA-Practice1-S-AsmActivities.pptx
 [LA-s5]: materials/04-MachineAbstractions/LA5-S-CallingFunctions.pptx
 [LA-hw5]: materials/04-MachineAbstractions/LA5-A-CallingFunctions.docx
 [LA-s6]: materials/04-MachineAbstractions/LA6-S-ImplementingFunctions.pptx
