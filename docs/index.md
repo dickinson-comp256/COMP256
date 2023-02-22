@@ -143,22 +143,22 @@ Date         | Topic / Slides                                                   
 [MA-s5]: materials/03-MachineAbstractions/MA5-S-ParallelismPipelining.pptx
 [MA-hw5]: materials/03-MachineAbstractions/MA5-A-ParallelismPipelining.docx
 
-[LA-s1]: materials/04-MachineAbstractions/LA1-S-TranslationInterpretation.pptx
-[LA-hw1]: materials/04-MachineAbstractions/LA1-A-TranslationInterpretation.docx
+[LA-s1]: materials/04-LanguageAbstractions/LA1-S-TranslationInterpretation.pptx
+[LA-hw1]: materials/04-LanguageAbstractions/LA1-A-TranslationInterpretation.docx
 
 <!--
-[LA-s2]: materials/04-MachineAbstractions/LA2-S-Assembly.pptx
-[LA-hw2]: materials/04-MachineAbstractions/LA2-A-Assembly.docx
-[LA-s3]: materials/04-MachineAbstractions/LA3-S-BranchingLooping.pptx
-[LA-hw3]: materials/04-MachineAbstractions/LA3-A-BranchingLooping.docx
-[LA-s4]: materials/04-MachineAbstractions/LA4-S-IndirectAddressing.pptx
-[LA-hw4]: materials/04-MachineAbstractions/L45-A-IndirectAddressing.docx
+[LA-s2]: materials/04-LanguageAbstractions/LA2-S-Assembly.pptx
+[LA-hw2]: materials/04-LanguageAbstractions/LA2-A-Assembly.docx
+[LA-s3]: materials/04-LanguageAbstractions/LA3-S-BranchingLooping.pptx
+[LA-hw3]: materials/04-LanguageAbstractions/LA3-A-BranchingLooping.docx
+[LA-s4]: materials/04-LanguageAbstractions/LA4-S-IndirectAddressing.pptx
+[LA-hw4]: materials/04-LanguageAbstractions/L45-A-IndirectAddressing.docx
 [ex1]: materials/Exam1Review.docx
-[LA-pr1]: materials/04-MachineAbstractions/LA-Practice1-S-AsmActivities.pptx
-[LA-s5]: materials/04-MachineAbstractions/LA5-S-CallingFunctions.pptx
-[LA-hw5]: materials/04-MachineAbstractions/LA5-A-CallingFunctions.docx
-[LA-s6]: materials/04-MachineAbstractions/LA6-S-ImplementingFunctions.pptx
-[LA-hw6]: materials/04-MachineAbstractions/LA6-A-ImplementingFunctions.docx
+[LA-pr1]: materials/04-LanguageAbstractions/LA-Practice1-S-AsmActivities.pptx
+[LA-s5]: materials/04-LanguageAbstractions/LA5-S-CallingFunctions.pptx
+[LA-hw5]: materials/04-LanguageAbstractions/LA5-A-CallingFunctions.docx
+[LA-s6]: materials/04-LanguageAbstractions/LA6-S-ImplementingFunctions.pptx
+[LA-hw6]: materials/04-LanguageAbstractions/LA6-A-ImplementingFunctions.docx
 
 [OSA-s1]: materials/05-OperatingSystemsAbstractions/OSA1-S-OSAbstractions.pptx
 [OSA-hw1]: materials/05-OperatingSystemsAbstractions/OSA1-A-OSAbstractions.docx
