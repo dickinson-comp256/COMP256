@@ -65,7 +65,7 @@ Date         | Topic / Slides                                                   
  M 02/20/23  |  MA5 - Pipelining & Parallelism (w/ WiD)             [ [Slides][MA-s5] ]          |  [MA5-HW][MA-hw5] Due: W 02/22/23
              | **Language Abstractions**                                                         |
  W 02/22/23  |  LA1 - Translation and Interpretation of Programs    [ [Slides][LA-s1] ]          |  [LA1-HW][LA-hw1] Due: F 02/24/23
-*R 02/23/23* | *L05 - SILI Interpreter*                                                          | <!--*[LAB05][l05] Due: R 03/09/23*-->
+*R 02/23/23* | *L05 - SILI Interpreter*                             [ [Slides][L05-s] ]          | *[LAB05][l05] Due: R 03/09/23*
  F 02/24/23  |  LA2 - Assembly Language Programs                    <!--[ [Slides][LA-s2] ]-->   |  <!--[LA2-HW][LA-hw2] Due: M 02/27/23-->
  M 02/27/23  |  LA3 - Branching and Looping                         <!--[ [Slides][LA-s3] ]-->   |  <!--[LA3-HW][LA-hw3] Due: W 03/01/23-->
  W 03/01/23  |  Assembly Language Practice / WiD Peer Reviews       <!--[ [Slides][LA-pr1] ]-->  |  <!--[WiD][WiDPR] Due: F 03/03/23-->
@@ -210,10 +210,12 @@ Date         | Topic / Slides                                                   
 [l02]: materials/Labs/L02-A-GatesIC.docx
 [l03]: materials/Labs/L03-A-ProgCircuits.docx
 [l04]: materials/Labs/L04-A-SeqCircuitsSRAM.docx
+[l05-s]: materials/Labs/L05-S-Interpreter.pptx
+[l05]: materials/Labs/L05-A-Interpreter.docx
 
 <!--
-[l04]: materials/Labs/L04-A-SeqCircuitsSRAM.docx
-[l05]: materials/Labs/L05-A-Interpreter.docx
+
+
 [l06]: ???  L06-A-Assembly.docx
 [l07]: materials/Labs/L07-A-AssemblyFuncs.docx
 [l08]: ???
