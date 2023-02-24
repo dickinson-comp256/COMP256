@@ -66,7 +66,7 @@ Date         | Topic / Slides                                                   
              | **Language Abstractions**                                                         |
  W 02/22/23  |  LA1 - Translation and Interpretation of Programs    [ [Slides][LA-s1] ]          |  [LA1-HW][LA-hw1] Due: F 02/24/23
 *R 02/23/23* | *L05 - SILI Interpreter*                             [ [Slides][L05-s] ]          | *[LAB05][l05] Due: R 03/09/23*
- F 02/24/23  |  LA2 - Assembly Language Programs                    <!--[ [Slides][LA-s2] ]-->   |  <!--[LA2-HW][LA-hw2] Due: M 02/27/23-->
+ F 02/24/23  |  LA2 - Assembly Language Programs  [ [Slides][LA-s2] - [ASM Ref][LA-asm]]         |  [LA2-HW][LA-hw2] Due: M 02/27/23
  M 02/27/23  |  LA3 - Branching and Looping                         <!--[ [Slides][LA-s3] ]-->   |  <!--[LA3-HW][LA-hw3] Due: W 03/01/23-->
  W 03/01/23  |  Assembly Language Practice / WiD Peer Reviews       <!--[ [Slides][LA-pr1] ]-->  |  <!--[WiD][WiDPR] Due: F 03/03/23-->
 *R 03/02/23* | *Exam #1 (through MA5/L04) in Lab 3:00-5:00*<!--[ [Exam 1 - Review][ex1] ]-->     | 
@@ -145,10 +145,11 @@ Date         | Topic / Slides                                                   
 
 [LA-s1]: materials/04-LanguageAbstractions/LA1-S-TranslationInterpretation.pptx
 [LA-hw1]: materials/04-LanguageAbstractions/LA1-A-TranslationInterpretation.docx
-
-<!--
 [LA-s2]: materials/04-LanguageAbstractions/LA2-S-Assembly.pptx
 [LA-hw2]: materials/04-LanguageAbstractions/LA2-A-Assembly.docx
+[LA-asm]: materials/04-LanguageAbstractions/LA2-AsmReference.pdf
+
+<!--
 [LA-s3]: materials/04-LanguageAbstractions/LA3-S-BranchingLooping.pptx
 [LA-hw3]: materials/04-LanguageAbstractions/LA3-A-BranchingLooping.docx
 [LA-s4]: materials/04-LanguageAbstractions/LA4-S-IndirectAddressing.pptx
