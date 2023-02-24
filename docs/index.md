@@ -147,7 +147,7 @@ Date         | Topic / Slides                                                   
 [LA-hw1]: materials/04-LanguageAbstractions/LA1-A-TranslationInterpretation.docx
 [LA-s2]: materials/04-LanguageAbstractions/LA2-S-Assembly.pptx
 [LA-hw2]: materials/04-LanguageAbstractions/LA2-A-Assembly.docx
-[LA-asm]: materials/04-LanguageAbstractions/LA2-AsmReference.pdf
+[LA-asm]: materials/04-LanguageAbstractions/LA-AsmReference.pdf
 
 <!--
 [LA-s3]: materials/04-LanguageAbstractions/LA3-S-BranchingLooping.pptx
