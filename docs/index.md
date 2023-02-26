@@ -153,7 +153,7 @@ Date         | Topic / Slides                                                   
 [LA-pr1]: materials/04-LanguageAbstractions/LA-Practice1-S-AsmActivities.pptx
 [WiDPR]: materials/WiDPeerFeedback.docx
 [LA-s4]: materials/04-LanguageAbstractions/LA4-S-IndirectAddressing.pptx
-[LA-hw4]: materials/04-LanguageAbstractions/L45-A-IndirectAddressing.docx
+[LA-hw4]: materials/04-LanguageAbstractions/LA4-A-IndirectAddressing.docx
 
 <!--
 [LA-s5]: materials/04-LanguageAbstractions/LA5-S-CallingFunctions.pptx
