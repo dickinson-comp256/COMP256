@@ -156,13 +156,11 @@ Date         | Topic / Slides                                                   
 [LA-hw4]: materials/04-LanguageAbstractions/LA4-A-IndirectAddressing.docx
 [LA-s5]: materials/04-LanguageAbstractions/LA5-S-CallingFunctions.pptx
 [LA-hw5]: materials/04-LanguageAbstractions/LA5-A-CallingFunctions.docx
-
+[LA-s6]: materials/04-LanguageAbstractions/LA6-S-ImplementingFunctions.pptx
+[LA-hw6]: materials/04-LanguageAbstractions/LA6-A-ImplementingFunctions.docx
 [WiDFD]: materials/WiDFinalDraft.docx
 
 <!--
-[LA-s6]: materials/04-LanguageAbstractions/LA6-S-ImplementingFunctions.pptx
-[LA-hw6]: materials/04-LanguageAbstractions/LA6-A-ImplementingFunctions.docx
-
 [OSA-s1]: materials/05-OperatingSystemsAbstractions/OSA1-S-OSAbstractions.pptx
 [OSA-hw1]: materials/05-OperatingSystemsAbstractions/OSA1-A-OSAbstractions.docx
 [OSA-s2]: materials/05-OperatingSystemsAbstractions/OSA2-S-Processes.pptx
