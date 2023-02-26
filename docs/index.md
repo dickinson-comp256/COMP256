@@ -72,8 +72,8 @@ Date         | Topic / Slides                                                   
 *R 03/02/23* | *Exam #1 (through MA5/L04) in Lab 3:00-5:00*       [ [Exam 1 - Review][ex1] ]     | 
  F 03/03/23  |  LA4 - Arrays and Indirect Addressing                [ [Slides][LA-s4] ]          |  [LA4-HW][LA-hw4] Due: M 03/06/23
  M 03/06/23  |  LA5 - Calling Functions                             [ [Slides][LA-s5] ]          |  [LA5-HW][LA-hw5] Due: W 03/08/23
- W 03/08/23  |  LA6 - Implementing Functions                        <!--[ [Slides][LA-s6] ]-->   |  <!--[LA6-HW][LA-hw6] Due: F 03/10/23-->
-*R 03/09/23* | *L06 - Assembly Control Structures and Arrays*                                    | <!--*[LAB06][l06] Due: R 03/23/23*-->
+ W 03/08/23  |  LA6 - Implementing Functions                        [ [Slides][LA-s6] ]          |  [LA6-HW][LA-hw6] Due: F 03/10/23
+*R 03/09/23* | *L06 - Assembly Language Programs*                                                | <!--*[LAB06][l06] Due: R 03/23/23*-->
  F 03/10/23  |  WiD Final Drafts                                                                 |  [WiD][WiDFD] Due: W 03/22/23
              | **Spring Break**                                                                  |
              | **Operating Systems Abstractions**                                                |
