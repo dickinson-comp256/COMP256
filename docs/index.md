@@ -152,13 +152,10 @@ Date         | Topic / Slides                                                   
 [LA-hw3]: materials/04-LanguageAbstractions/LA3-A-BranchingLooping.docx
 [LA-pr1]: materials/04-LanguageAbstractions/LA-Practice1-S-AsmActivities.pptx
 [WiDPR]: materials/WiDPeerFeedback.docx
-
-<!--
-
 [LA-s4]: materials/04-LanguageAbstractions/LA4-S-IndirectAddressing.pptx
 [LA-hw4]: materials/04-LanguageAbstractions/L45-A-IndirectAddressing.docx
 
-
+<!--
 [LA-s5]: materials/04-LanguageAbstractions/LA5-S-CallingFunctions.pptx
 [LA-hw5]: materials/04-LanguageAbstractions/LA5-A-CallingFunctions.docx
 [LA-s6]: materials/04-LanguageAbstractions/LA6-S-ImplementingFunctions.pptx
