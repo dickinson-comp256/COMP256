@@ -73,13 +73,13 @@ Date         | Topic / Slides                                                   
  F 03/03/23  |  LA4 - Arrays and Indirect Addressing                [ [Slides][LA-s4] ]          |  [LA4-HW][LA-hw4] Due: M 03/06/23
  M 03/06/23  |  LA5 - Calling Functions                             [ [Slides][LA-s5] ]          |  [LA5-HW][LA-hw5] Due: W 03/08/23
  W 03/08/23  |  LA6 - Implementing Functions                        [ [Slides][LA-s6] ]          |  [LA6-HW][LA-hw6] Due: F 03/10/23
-*R 03/09/23* | *L06 - Assembly Language Programs*                                                | <!--*[LAB06][l06] Due: R 03/23/23*-->
+*R 03/09/23* | *L06 - Assembly: Control Structures, Arrays & Functions*                          | *[LAB06][l06] Due: R 03/23/23*
  F 03/10/23  |  WiD Final Drafts                                                                 |  [WiD][WiDFD] Due: W 03/22/23
              | **Spring Break**                                                                  |
              | **Operating Systems Abstractions**                                                |
  M 03/20/23  |  OSA1 - Operating Systems Abstractions               <!--[ [Slides][OSA-s1] ]-->  |  <!--[OSA1-HW][OSA-hw1] Due: W 03/22/23-->
  W 03/22/23  |  OSA2 - Multiprogramming, Processes & Context        <!--[ [Slides][OSA-s2] ]-->  |  <!--[OSA2-HW][OSA-hw2] Due: F 03/24/23--> 
-*R 03/23/23* | *L07 - Assembly Functions & Recursion*                                            | <!--*[LAB07]]l07] Due: R 03/30/23*-->
+*R 03/23/23* | *L07 - Assembly Passing References & Recursion*                                   | <!--*[LAB07]]l07] Due: R 03/30/23*-->
  F 03/24/23  |  OSA3 - Interrupts & System Calls                    <!--[ [Slides][OSA-s3] ]-->  |  <!--[OSA3-HW][OSA-hw3] Due: M 03/27/23-->
  M 03/27/23  |  OSA4 - Logical Memory                               <!--[ [Slides][OSA-s4] ]-->  |  <!--[OSA4-HW][OSA-hw4] Due: W 03/29/23-->
  W 03/29/23  |  OSA5 - Paged Virtual Memory                         <!--[ [Slides][OSA-s5] ]-->  |  <!--[OSA5-HW][OSA-hw5] Due: F 03/31/23-->
@@ -214,11 +214,11 @@ Date         | Topic / Slides                                                   
 [l05-s]: materials/Labs/L05-S-Interpreter.pptx
 [l05]: materials/Labs/L05-A-Interpreter.docx
 [ex1]: materials/Exam1Review.docx
+[l06]: materials/Labs/L06-A-Assembly1.docx
 
 <!--
 
 
-[l06]: ???  L06-A-Assembly.docx
 [l07]: materials/Labs/L07-A-AssemblyFuncs.docx
 [l08]: ???
 [l09]: ???
