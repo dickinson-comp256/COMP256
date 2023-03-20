@@ -160,7 +160,6 @@ Date         | Topic / Slides                                                   
 [LA-hw6]: materials/04-LanguageAbstractions/LA6-A-ImplementingFunctions.docx
 [WiDFD]: materials/WiDFinalDraft.docx
 
-<!--
 [OSA-s1]: materials/05-OperatingSystemsAbstractions/OSA1-S-OSAbstractions.pptx
 [OSA-hw1]: materials/05-OperatingSystemsAbstractions/OSA1-A-OSAbstractions.docx
 [OSA-s2]: materials/05-OperatingSystemsAbstractions/OSA2-S-Processes.pptx
@@ -177,6 +176,8 @@ Date         | Topic / Slides                                                   
 [OSA-hw7]: materials/05-OperatingSystemsAbstractions/OSA7-A-Threads.docx
 [OSA-s8]: materials/05-OperatingSystemsAbstractions/OSA8-S-RaceConditions.pptx
 [OSA-hw8]: materials/05-OperatingSystemsAbstractions/OSA8-A-RaceConditions.docx
+
+<!--
 [ex2]: materials/Exam2Review.docx
 
 [NA-s1]: ???
