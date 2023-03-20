@@ -77,16 +77,16 @@ Date         | Topic / Slides                                                   
  F 03/10/23  |  WiD Final Drafts                                                                 |  [WiD][WiDFD] Due: W 03/22/23
              | **Spring Break**                                                                  |
              | **Operating Systems Abstractions**                                                |
- M 03/20/23  |  OSA1 - Operating Systems Abstractions               <!--[ [Slides][OSA-s1] ]-->  |  <!--[OSA1-HW][OSA-hw1] Due: W 03/22/23-->
- W 03/22/23  |  OSA2 - Multiprogramming, Processes & Context        <!--[ [Slides][OSA-s2] ]-->  |  <!--[OSA2-HW][OSA-hw2] Due: F 03/24/23--> 
+ M 03/20/23  |  OSA1 - Operating Systems Abstractions               [ [Slides][OSA-s1] ]         |  [OSA1-HW][OSA-hw1] Due: W 03/22/23
+ W 03/22/23  |  OSA2 - Multiprogramming, Processes & Context        [ [Slides][OSA-s2] ]         |  [OSA2-HW][OSA-hw2] Due: F 03/24/23 
 *R 03/23/23* | *L07 - Assembly Passing References & Recursion*                                   | <!--*[LAB07]]l07] Due: R 03/30/23*-->
- F 03/24/23  |  OSA3 - Interrupts & System Calls                    <!--[ [Slides][OSA-s3] ]-->  |  <!--[OSA3-HW][OSA-hw3] Due: M 03/27/23-->
- M 03/27/23  |  OSA4 - Logical Memory                               <!--[ [Slides][OSA-s4] ]-->  |  <!--[OSA4-HW][OSA-hw4] Due: W 03/29/23-->
- W 03/29/23  |  OSA5 - Paged Virtual Memory                         <!--[ [Slides][OSA-s5] ]-->  |  <!--[OSA5-HW][OSA-hw5] Due: F 03/31/23-->
+ F 03/24/23  |  OSA3 - Interrupts & System Calls                    [ [Slides][OSA-s3] ]         |  [OSA3-HW][OSA-hw3] Due: M 03/27/23
+ M 03/27/23  |  OSA4 - Logical Memory                               [ [Slides][OSA-s4] ]         |  [OSA4-HW][OSA-hw4] Due: W 03/29/23
+ W 03/29/23  |  OSA5 - Paged Virtual Memory                         [ [Slides][OSA-s5] ]         |  [OSA5-HW][OSA-hw5] Due: F 03/31/23
 *R 03/30/23* | *L08 - System Calls*                                                              | <!--*[LAB08][l08] Due: R 04/13/23*-->
- F 03/31/23  |  OSA6 - Devices and I/O                              <!--[ [Slides][OSA-s6] ]-->  |  <!--[OSA6-HW][OSA-hw6] Due: M 04/03/23-->
- M 04/03/23  |  OSA7 - Threads and Concurrency                      <!--[ [Slides][OSA-s7] ]-->  |  <!--[OSA7-HW][OSA-hw7] Due: W 04/05/23-->
- W 04/05/23  |  OSA8 - Race Conditions and Synchronization          <!--[ [Slides][OSA-s8] ]-->  |  <!--[OSA8-HW][OSA-hw8] Due: F 04/07/23-->
+ F 03/31/23  |  OSA6 - Devices and I/O                              [ [Slides][OSA-s6] ]         |  [OSA6-HW][OSA-hw6] Due: M 04/03/23
+ M 04/03/23  |  OSA7 - Threads and Concurrency                      [ [Slides][OSA-s7] ]         |  [OSA7-HW][OSA-hw7] Due: W 04/05/23
+ W 04/05/23  |  OSA8 - Race Conditions and Synchronization          [ [Slides][OSA-s8] ]         |  [OSA8-HW][OSA-hw8] Due: F 04/07/23
              | **Networking Abstractions**                                                       |
 *R 04/06/23* | *L09 - Multi-Threaded Programs*                                                   | <!--*[LAB09][l09] Due: R 04/20/23*-->
  F 04/07/23  |  NA1 - Networking Abstractions & Physical Layer      <!--[ [Slides][NA-s1] ]-->   |  <!--[NA1-HW][NA-hw1] Due: M 04/10/23-->
