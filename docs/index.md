@@ -79,7 +79,7 @@ Date         | Topic / Slides                                                   
              | **Operating Systems Abstractions**                                                |
  M 03/20/23  |  OSA1 - Operating Systems Abstractions               [ [Slides][OSA-s1] ]         |  [OSA1-HW][OSA-hw1] Due: W 03/22/23
  W 03/22/23  |  OSA2 - Multiprogramming, Processes & Context        [ [Slides][OSA-s2] ]         |  [OSA2-HW][OSA-hw2] Due: F 03/24/23 
-*R 03/23/23* | *L07 - Assembly Passing References & Recursion*                                   | <!--*[LAB07]]l07] Due: R 03/30/23*-->
+*R 03/23/23* | *L07 - Assembly: Passing References & Recursion*                                   | <!--*[LAB07]]l07] Due: R 03/30/23*-->
  F 03/24/23  |  OSA3 - Interrupts & System Calls                    [ [Slides][OSA-s3] ]         |  [OSA3-HW][OSA-hw3] Due: M 03/27/23
  M 03/27/23  |  OSA4 - Logical Memory                               [ [Slides][OSA-s4] ]         |  [OSA4-HW][OSA-hw4] Due: W 03/29/23
  W 03/29/23  |  OSA5 - Paged Virtual Memory                         [ [Slides][OSA-s5] ]         |  [OSA5-HW][OSA-hw5] Due: F 03/31/23
@@ -171,7 +171,7 @@ Date         | Topic / Slides                                                   
 [OSA-s5]: materials/05-OperatingSystemsAbstractions/OSA5-S-VirtualMemory.pptx
 [OSA-hw5]: materials/05-OperatingSystemsAbstractions/OSA5-A-VirtualMemory.docx
 [OSA-s6]: materials/05-OperatingSystemsAbstractions/OSA6-S-IOFileSystems.pptx
-[OSA-hw6]: materials/05-OperatingSystemsAbstractions/OSA6-S-IOFileSystems.docx
+[OSA-hw6]: materials/05-OperatingSystemsAbstractions/OSA6-A-IOFileSystems.docx
 [OSA-s7]: materials/05-OperatingSystemsAbstractions/OSA7-S-Threads.pptx
 [OSA-hw7]: materials/05-OperatingSystemsAbstractions/OSA7-A-Threads.docx
 [OSA-s8]: materials/05-OperatingSystemsAbstractions/OSA8-S-RaceConditions.pptx
