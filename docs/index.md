@@ -96,7 +96,7 @@ Date         | Topic / Slides                                                   
  F 04/14/23  |  *No Class Meeting (CCSC-NE Conference)*                                          |
  M 04/17/23  |  NA4 - Transport Layer (TCP / UDP / Ports)           <!--[ [Slides][NA-s4] ]-->   |  <!--[NA4-HW][NA-hw4] Due: M 04/17/23-->
  W 04/19/23  |  NA5 - Application Layer (HTTP)                      <!--[ [Slides][NA-s5] ]-->   |  <!--[NA5-HW][NA-hw5] Due: W 04/19/23-->
-*R 04/20/23  | *L10 - Web Browser*                                                               | <!--*[LAB10][l10] Due: R 04/27/23*-->
+*R 04/20/23* | *L10 - Web Browser*                                                               | <!--*[LAB10][l10] Due: R 04/27/23*-->
              | **Web Abstractions**                                                              |
  F 04/21/23  |  WA1 - Web Abstractions & HTML                       <!--[ [Slides][WA-s1] ]-->   |  <!--[WA1-HW][WA-hw1] Due: F 04/21/23-->
  M 04/24/23  |  WA2 - Cascading Style Sheets                        <!--[ [Slides][WA-s2] ]-->   |  <!--[WA2-HW][WA-hw2] ] Due: W 04/26/23-->
