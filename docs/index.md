@@ -92,13 +92,13 @@ Date         | Topic / Slides                                                   
  F 04/07/23  |  NA1 - Networking Abstractions & Physical Layer      <!--[ [Slides][NA-s1] ]-->   |  <!--[NA1-HW][NA-hw1] Due: M 04/10/23-->
  M 04/10/23  |  NA2 - Data Link Layer (Ethernet)                    <!--[ [Slides][NA-s2] ]-->   |  <!--[NA2-HW][NA-hw2] Due: W 04/12/23-->
  W 04/12/23  |  NA3 - Network Layer (IP)                            <!--[ [Slides][NA-s3] ]-->   |  <!--[NA3-HW][NA-hw3] Due: F 04/14/23-->
-*R 04/13/23* | *Exam #2 (through OSA8/L09) in Lab 3:00-5:00*<!--[ [Exam 2 - Review][ex2] ]-->     | 
- F 04/14/23  |  NA4 - Transport Layer (TCP / UDP / Ports)           <!--[ [Slides][NA-s4] ]-->   |  <!--[NA4-HW][NA-hw4] Due: M 04/17/23-->
- M 04/17/23  |  NA5 - Application Layer (HTTP)                      <!--[ [Slides][NA-s5] ]-->   |  <!--[NA5-HW][NA-hw5] Due: W 04/19/23-->
-             | **Web Abstractions**                                                              |
- W 04/19/23  |  WA1 - Web Abstractions & HTML                       <!--[ [Slides][WA-s1] ]-->   |  <!--[WA1-HW][WA-hw1] Due: F 04/21/23-->
+*R 04/13/23* | *Exam #2 (through OSA8/L09) in Lab 3:00-5:00*<!--[ [Exam 2 - Review][ex2] ]-->    | 
+ F 04/14/23  |  *No Class Meeting (CCSC-NE Conference)*                                          |
+ M 04/17/23  |  NA4 - Transport Layer (TCP / UDP / Ports)           <!--[ [Slides][NA-s4] ]-->   |  <!--[NA4-HW][NA-hw4] Due: M 04/17/23-->
+ W 04/19/23  |  NA5 - Application Layer (HTTP)                      <!--[ [Slides][NA-s5] ]-->   |  <!--[NA5-HW][NA-hw5] Due: W 04/19/23-->
 *R 04/20/23  | *L10 - Web Browser*                                                               | <!--*[LAB10][l10] Due: R 04/27/23*-->
- F 04/21/23  |  *No Class Meeting (CCSC-NE Conference)*                                          |
+             | **Web Abstractions**                                                              |
+ F 04/21/23  |  WA1 - Web Abstractions & HTML                       <!--[ [Slides][WA-s1] ]-->   |  <!--[WA1-HW][WA-hw1] Due: F 04/21/23-->
  M 04/24/23  |  WA2 - Cascading Style Sheets                        <!--[ [Slides][WA-s2] ]-->   |  <!--[WA2-HW][WA-hw2] ] Due: W 04/26/23-->
  W 04/26/23  |  WA3 - Frontend Dynamic Content (Javascript)         <!--[ [Slides][WA-s3] ]-->   |  <!--[WA3-HW][WA-hw3] ] Due: F 04/28/23-->
 *R 04/27/23* | *L11 - Web Server*                                                                | <!--*[LAB11][l11] Due: R 05/04/23*-->
