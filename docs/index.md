@@ -85,8 +85,8 @@ Date         | Topic / Slides                                                   
  M 03/27/23  |  OSA4 - Logical Memory                               [ [Slides][OSA-s4] ]         |  [OSA4-HW][OSA-hw4] Due: W 03/29/23
  W 03/29/23  |  OSA5 - Paged Virtual Memory                         [ [Slides][OSA-s5] ]         |  [OSA5-HW][OSA-hw5] Due: F 03/31/23
 *R 03/30/23* | ~~*L08 - System Calls*~~                                                          | <!--*[LAB08][l08] Due: R 04/13/23*-->
- F 03/31/23  |  OSA6 - Threads and Concurrency                      [ [Slides][OSA-s6] ]         |  [OSA7-HW][OSA-hw6] Due: M 04/03/23
- M 04/03/23  |  OSA7 - Race Conditions and Synchronization          [ [Slides][OSA-s7] ]         |  [OSA8-HW][OSA-hw7] Due: W 04/05/23
+ F 03/31/23  |  OSA6 - Threads and Concurrency                      [ [Slides][OSA-s6] ]         |  [OSA6-HW][OSA-hw6] Due: M 04/03/23
+ M 04/03/23  |  OSA7 - Race Conditions and Synchronization          [ [Slides][OSA-s7] ]         |  [OSA7-HW][OSA-hw7] Due: W 04/05/23
              | **Web Abstractions**                                                              |
  W 04/05/23  |  WA1 - Web Abstractions & HTML                       <!--[ [Slides][WA-s1] ]-->   |  <!--[WA1-HW][WA-hw1] Due: F 04/07/23-->
 *R 04/06/23* | *L09 - Multi-Threaded Programs*                                                   | <!--*[LAB09][l09] Due: R 04/13/23*-->
