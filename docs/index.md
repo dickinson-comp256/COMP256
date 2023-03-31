@@ -108,7 +108,7 @@ Date         | Topic / Slides                                                   
 *R 05/04/23* | *L10 - Web Server Continued*                                                      |
  F 05/05/23  |  Wrapup / Review / Course Feedback                   <!--[ [Slides][TheEnd] ]-->  |  
              | **Final Exam**                                                                    |
-*T 05/09/23* | *Final Exam - 9:00am-12:00pm*         [ [Final Exam - Review][final] ]            |
+*T 05/09/23* | *Final Exam - 9:00am-12:00pm*            <!--[ [Final Exam - Review][final] ]-->  |
 
 [HA-s1]: materials/01-HardwareAbstractions/HA1-S-Abstractions.pptx
 [HA-hw1]: materials/01-HardwareAbstractions/HA1-A-Abstractions.docx
