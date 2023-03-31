@@ -83,7 +83,7 @@ Date         | Topic / Slides                                                   
  F 03/24/23  |  OSA3 - Interrupts & System Calls                    [ [Slides][OSA-s3] ]         |  [OSA3-HW][OSA-hw3] Due: M 03/27/23
  M 03/27/23  |  OSA4 - Logical Memory                               [ [Slides][OSA-s4] ]         |  [OSA4-HW][OSA-hw4] Due: W 03/29/23
  W 03/29/23  |  OSA5 - Paged Virtual Memory                         [ [Slides][OSA-s5] ]         |  [OSA5-HW][OSA-hw5] Due: F 03/31/23
-*R 03/30/23* | ~*L08 - System Calls*~                                                            | <!--*[LAB08][l08] Due: R 04/13/23*-->
+*R 03/30/23* | ~~*L08 - System Calls*~~                                                          | <!--*[LAB08][l08] Due: R 04/13/23*-->
  F 03/31/23  |  OSA6 - Threads and Concurrency                      [ [Slides][OSA-s6] ]         |  [OSA7-HW][OSA-hw6] Due: M 04/03/23
  M 04/03/23  |  OSA7 - Race Conditions and Synchronization          [ [Slides][OSA-s7] ]         |  [OSA8-HW][OSA-hw7] Due: W 04/05/23
              | **Web Abstractions**                                                              |
@@ -102,10 +102,10 @@ Date         | Topic / Slides                                                   
  M 04/24/23  |  NA1 - Networking Abstractions & Physical Layer      <!--[ [Slides][NA-s1] ]-->   |  <!--[NA1-HW][NA-hw1] Due: W 04/26/23-->
  W 04/26/23  |  NA2 - Data Link Layer (Ethernet)                    <!--[ [Slides][NA-s2] ]-->   |  <!--[NA2-HW][NA-hw2] Due: F 04/28/23-->
  *R 04/27/23* | *L10 - Web Server*                                                               |  <!--*[LAB10][l10] Due: R 05/04/23*-->
- F 04/28/23  |  NA3 - Network Layer (IP)                            <!--[ [Slides][NA-s3] ]-->   |  <!--[NA3-HW][NA-hw3] Due: M 05/02/23-->
+ F 04/28/23  |  NA3 - Network Layer (IP)                            <!--[ [Slides][NA-s3] ]-->   |  <!--[NA3-HW][NA-hw3] Due: M 05/01/23-->
  M 05/01/23  |  NA4 - Transport Layer (TCP / UDP / Ports)           <!--[ [Slides][NA-s4] ]-->   |  <!--[NA4-HW][NA-hw4] Due: W 05/03/23-->
  W 05/03/23  |  NA5 - Application Layer (HTTP)                      <!--[ [Slides][NA-s5] ]-->   |  <!--[NA5-HW][NA-hw5] Due: F 05/05/23-->
-*R 05/04/23* | *L10 - Web Server Cont*                                                           |
+*R 05/04/23* | *L10 - Web Server Continued*                                                      |
  F 05/05/23  |  Wrapup / Review / Course Feedback                   <!--[ [Slides][TheEnd] ]-->  |  
              | **Final Exam**                                                                    |
 *T 05/09/23* | *Final Exam - 9:00am-12:00pm*         [ [Final Exam - Review][final] ]            |
@@ -175,19 +175,6 @@ Date         | Topic / Slides                                                   
 [OSA-hw7]: materials/05-OperatingSystemsAbstractions/OSA7-A-RaceConditions.docx
 
 <!--
-[ex2]: materials/Exam2Review.docx
-
-[NA-s1]: ???
-[NA-hw1]: ???
-[NA-s2]: ???
-[NA-hw2]: ???
-[NA-s3]: ???
-[NA-hw3]: ???
-[NA-s4]: ???
-[NA-hw4]: ???
-[NA-s5]: ???
-[NA-hw5]: ???
-
 [WA-s1]: materials/07-WebAbstractions/WA1-S-WebAbstractions.pptx
 [WA-hw1]: materials/07-WebAbstractions/WA1-A-WebAbstractions.docx
 [WA-s2]: materials/07-WebAbstractions/WA2-S-CSS.pptx
@@ -200,6 +187,19 @@ Date         | Topic / Slides                                                   
 [WA-hw5]: materials/07-WebAbstractions/WA5-A-Databases.docx
 [WA-s6]: materials/07-WebAbstractions/WA6-S-BackEndDynamic.pptx
 [WA-hw6]: materials/07-WebAbstractions/WA6-A-BackEndDynamic.docx
+
+[ex2]: materials/Exam2Review.docx
+
+[NA-s1]: ???
+[NA-hw1]: ???
+[NA-s2]: ???
+[NA-hw2]: ???
+[NA-s3]: ???
+[NA-hw3]: ???
+[NA-s4]: ???
+[NA-hw4]: ???
+[NA-s5]: ???
+[NA-hw5]: ???
 
 [final]: materials/FinalExamReview.docx
 [TheEnd]: materials/39-S-WrapUp.pptx
@@ -216,8 +216,6 @@ Date         | Topic / Slides                                                   
 [l07]: materials/Labs/L07-A-Assembly2.docx
 
 <!--
-
-
 
 [l08]: ???
 [l09]: ???
