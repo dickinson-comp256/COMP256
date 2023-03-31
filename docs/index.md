@@ -36,7 +36,8 @@
 ### Important Dates
 
 - 03/02/2023 (Thursday) 3:00-5:00 - Exam #1
-- 04/13/2023 (Thursday) 3:00-5:00 - Exam #2
+- ~~04/13/2023 (Thursday) 3:00-5:00 - Exam #2~~
+- 04/20/2023 (Thursday) 3:00-5:00 - Exam #2
 - 05/09/2023 (Tuesday) 9:00am-12:00pm - Final Exam
 
 ### Class Schedule
