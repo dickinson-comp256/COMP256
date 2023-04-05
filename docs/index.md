@@ -90,15 +90,15 @@ Date         | Topic / Slides                                                   
              | **Web Abstractions**                                                              |
  W 04/05/23  |  WA1 - Web Abstractions & HTML                       [ [Slides][WA-s1] ]          |  [WA1-HW][WA-hw1] Due: F 04/07/23
 *R 04/06/23* | *L09 - Multi-Threaded Programs*                                                   | <!--*[LAB09][l09] Due: R 04/13/23*-->
- F 04/07/23  |  WA2 - Cascading Style Sheets                        [ [Slides][WA-s2] ]          |  [WA2-HW][WA-hw2] ] Due: M 04/10/23
- M 04/10/23  |  WA3 - Frontend Dynamic Content (Javascript)         <!--[ [Slides][WA-s3] ]-->   |  <!--[WA3-HW][WA-hw3] ] Due: W 04/12/23-->
- W 04/12/23  |  WA4 - Using Web APIs                                <!--[ [Slides][WA-s4] ]-->   |  <!--[WA4-HW][WA-hw4] ] Due: M 04/17/23-->
+ F 04/07/23  |  WA2 - Cascading Style Sheets                        [ [Slides][WA-s2] ]          |  [WA2-HW][WA-hw2] Due: M 04/10/23
+ M 04/10/23  |  WA3 - Frontend Dynamic Content (Javascript)         <!--[ [Slides][WA-s3] ]-->   |  <!--[WA3-HW][WA-hw3] Due: W 04/12/23-->
+ W 04/12/23  |  WA4 - Using Web APIs                                <!--[ [Slides][WA-s4] ]-->   |  <!--[WA4-HW][WA-hw4] Due: M 04/17/23-->
 *R 04/13/23* | *No Lab Meeting (CCSC-NE Conference)*                                             | 
  F 04/14/23  | *No Class Meeting (CCSC-NE Conference)*                                           |
- M 04/17/23  |  WA5 - Databases                                     <!--[ [Slides][WA-s5] ]-->   |  <!--[WA5-HW][WA-hw5] ] Due: W 04/19/23-->
+ M 04/17/23  |  WA5 - Databases                                     <!--[ [Slides][WA-s5] ]-->   |  <!--[WA5-HW][WA-hw5] Due: W 04/19/23-->
  W 04/19/23  |  Catch up / Review                                                                |
 *R 04/20/23* | *Exam #2 (through OSA8/L09) in Lab 3:00-5:00*<!--[ [Exam 2 - Review][ex2] ]-->    |  
- F 04/21/23  |  WA6 - Backend Dynamic Content                       <!--[ [Slides][WA-s6] ]-->   |  <!--[WA6-HW][WA-hw6] ] Due: M 04/24/23-->
+ F 04/21/23  |  WA6 - Backend Dynamic Content                       <!--[ [Slides][WA-s6] ]-->   |  <!--[WA6-HW][WA-hw6] Due: M 04/24/23-->
              | **Networking Abstractions**                                                       |
  M 04/24/23  |  NA1 - Networking Abstractions & Physical Layer      <!--[ [Slides][NA-s1] ]-->   |  <!--[NA1-HW][NA-hw1] Due: W 04/26/23-->
  W 04/26/23  |  NA2 - Data Link Layer (Ethernet)                    <!--[ [Slides][NA-s2] ]-->   |  <!--[NA2-HW][NA-hw2] Due: F 04/28/23-->
