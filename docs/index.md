@@ -88,9 +88,9 @@ Date         | Topic / Slides                                                   
  F 03/31/23  |  OSA6 - Threads and Concurrency                      [ [Slides][OSA-s6] ]         |  [OSA6-HW][OSA-hw6] Due: M 04/03/23
  M 04/03/23  |  OSA7 - Race Conditions and Synchronization          [ [Slides][OSA-s7] ]         |  [OSA7-HW][OSA-hw7] Due: W 04/05/23
              | **Web Abstractions**                                                              |
- W 04/05/23  |  WA1 - Web Abstractions & HTML                       <!--[ [Slides][WA-s1] ]-->   |  <!--[WA1-HW][WA-hw1] Due: F 04/07/23-->
+ W 04/05/23  |  WA1 - Web Abstractions & HTML                       [ [Slides][WA-s1] ]          |  [WA1-HW][WA-hw1] Due: F 04/07/23
 *R 04/06/23* | *L09 - Multi-Threaded Programs*                                                   | <!--*[LAB09][l09] Due: R 04/13/23*-->
- F 04/07/23  |  WA2 - Cascading Style Sheets                        <!--[ [Slides][WA-s2] ]-->   |  <!--[WA2-HW][WA-hw2] ] Due: M 04/10/23-->
+ F 04/07/23  |  WA2 - Cascading Style Sheets                        [ [Slides][WA-s2] ]          |  [WA2-HW][WA-hw2] ] Due: M 04/10/23
  M 04/10/23  |  WA3 - Frontend Dynamic Content (Javascript)         <!--[ [Slides][WA-s3] ]-->   |  <!--[WA3-HW][WA-hw3] ] Due: W 04/12/23-->
  W 04/12/23  |  WA4 - Using Web APIs                                <!--[ [Slides][WA-s4] ]-->   |  <!--[WA4-HW][WA-hw4] ] Due: M 04/17/23-->
 *R 04/13/23* | *No Lab Meeting (CCSC-NE Conference)*                                             | 
@@ -175,11 +175,12 @@ Date         | Topic / Slides                                                   
 [OSA-s7]: materials/05-OperatingSystemsAbstractions/OSA7-S-RaceConditions.pptx
 [OSA-hw7]: materials/05-OperatingSystemsAbstractions/OSA7-A-RaceConditions.docx
 
-<!--
+
 [WA-s1]: materials/07-WebAbstractions/WA1-S-WebAbstractions.pptx
 [WA-hw1]: materials/07-WebAbstractions/WA1-A-WebAbstractions.docx
 [WA-s2]: materials/07-WebAbstractions/WA2-S-CSS.pptx
 [WA-hw2]: materials/07-WebAbstractions/WA2-A-CSS.docx
+<!--
 [WA-s3]: materials/07-WebAbstractions/WA3-S-JavaScript.pptx
 [WA-hw3]: materials/07-WebAbstractions/WA3-A-JavaScript.docx
 [WA-s4]: materials/07-WebAbstractions/WA4-S-WebAPIs.pptx
