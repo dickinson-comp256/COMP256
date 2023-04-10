@@ -181,9 +181,11 @@ Date         | Topic / Slides                                                   
 [WA-hw1]: materials/07-WebAbstractions/WA1-A-WebAbstractions.docx
 [WA-s2]: materials/07-WebAbstractions/WA2-S-CSS.pptx
 [WA-hw2]: materials/07-WebAbstractions/WA2-A-CSS.docx
-<!--
 [WA-s3]: materials/07-WebAbstractions/WA3-S-JavaScript.pptx
 [WA-hw3]: materials/07-WebAbstractions/WA3-A-JavaScript.docx
+
+<!--
+
 [WA-s4]: materials/07-WebAbstractions/WA4-S-WebAPIs.pptx
 [WA-hw4]: materials/07-WebAbstractions/WA4-A-WebAPIs.docx
 [WA-s5]: materials/07-WebAbstractions/WA5-S-Databases.pptx
