@@ -92,7 +92,7 @@ Date         | Topic / Slides                                                   
 *R 04/06/23* | *L09 - Multi-Threaded Programs*                                                   | *[LAB09][l09] Due: R 04/13/23*
  F 04/07/23  |  WA2 - Cascading Style Sheets                        [ [Slides][WA-s2] ]          |  [WA2-HW][WA-hw2] Due: M 04/10/23
  M 04/10/23  |  WA3 - Frontend Dynamic Content (Javascript)         [ [Slides][WA-s3] ]          |  [WA3-HW][WA-hw3] Due: W 04/12/23
- W 04/12/23  |  WA4 - Using Web APIs                                <!--[ [Slides][WA-s4] ]-->   |  <!--[WA4-HW][WA-hw4] Due: M 04/17/23-->
+ W 04/12/23  |  WA4 - Using Web APIs                                [ [Slides][WA-s4] ]          |  [WA4-HW][WA-hw4] Due: M 04/17/23
 *R 04/13/23* | *No Lab Meeting (CCSC-NE Conference)*                                             | 
  F 04/14/23  | *No Class Meeting (CCSC-NE Conference)*                                           |
  M 04/17/23  |  WA5 - Databases                                     <!--[ [Slides][WA-s5] ]-->   |  <!--[WA5-HW][WA-hw5] Due: W 04/19/23-->
@@ -183,11 +183,12 @@ Date         | Topic / Slides                                                   
 [WA-hw2]: materials/07-WebAbstractions/WA2-A-CSS.docx
 [WA-s3]: materials/07-WebAbstractions/WA3-S-JavaScript.pptx
 [WA-hw3]: materials/07-WebAbstractions/WA3-A-JavaScript.docx
+[WA-s4]: materials/07-WebAbstractions/WA4-S-WebAPIs.pptx
+[WA-hw4]: materials/07-WebAbstractions/WA4-A-WebAPIs.docx
 
 <!--
 
-[WA-s4]: materials/07-WebAbstractions/WA4-S-WebAPIs.pptx
-[WA-hw4]: materials/07-WebAbstractions/WA4-A-WebAPIs.docx
+
 [WA-s5]: materials/07-WebAbstractions/WA5-S-Databases.pptx
 [WA-hw5]: materials/07-WebAbstractions/WA5-A-Databases.docx
 [WA-s6]: materials/07-WebAbstractions/WA6-S-BackEndDynamic.pptx
