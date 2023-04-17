@@ -95,7 +95,7 @@ Date         | Topic / Slides                                                   
  W 04/12/23  |  WA4 - Using Web APIs                                [ [Slides][WA-s4] ]          |  [WA4-HW][WA-hw4] Due: M 04/17/23
 *R 04/13/23* | *No Lab Meeting (CCSC-NE Conference)*                                             | 
  F 04/14/23  | *No Class Meeting (CCSC-NE Conference)*                                           |
- M 04/17/23  |  WA5 - Databases                                     <!--[ [Slides][WA-s5] ]-->   |  <!--[WA5-HW][WA-hw5] Due: W 04/19/23-->
+ M 04/17/23  |  WA5 - Databases                                     [ [Slides][WA-s5] ]          |  [WA5-HW][WA-hw5] Due: W 04/19/23
  W 04/19/23  |  Catch up / Review                                                                |
 *R 04/20/23* | *Exam #2 (through OSA8/L09) in Lab 3:00-5:00*        [ [Exam 2 - Review][ex2] ]   |  
  F 04/21/23  |  WA6 - Backend Dynamic Content                       <!--[ [Slides][WA-s6] ]-->   |  <!--[WA6-HW][WA-hw6] Due: M 04/24/23-->
@@ -185,12 +185,12 @@ Date         | Topic / Slides                                                   
 [WA-hw3]: materials/07-WebAbstractions/WA3-A-JavaScript.docx
 [WA-s4]: materials/07-WebAbstractions/WA4-S-WebAPIs.pptx
 [WA-hw4]: materials/07-WebAbstractions/WA4-A-WebAPIs.docx
+[WA-s5]: materials/07-WebAbstractions/WA5-S-Databases.pptx
+[WA-hw5]: materials/07-WebAbstractions/WA5-A-Databases.docx
 
 <!--
 
 
-[WA-s5]: materials/07-WebAbstractions/WA5-S-Databases.pptx
-[WA-hw5]: materials/07-WebAbstractions/WA5-A-Databases.docx
 [WA-s6]: materials/07-WebAbstractions/WA6-S-BackEndDynamic.pptx
 [WA-hw6]: materials/07-WebAbstractions/WA6-A-BackEndDynamic.docx
 
