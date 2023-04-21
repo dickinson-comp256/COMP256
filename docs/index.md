@@ -98,7 +98,7 @@ Date         | Topic / Slides                                                   
  M 04/17/23  |  WA5 - Databases                                     [ [Slides][WA-s5] ]          |  [WA5-HW][WA-hw5] Due: W 04/19/23
  W 04/19/23  |  Catch up / Review                                                                |
 *R 04/20/23* | *Exam #2 (through OSA8/L09) in Lab 3:00-5:00*        [ [Exam 2 - Review][ex2] ]   |  
- F 04/21/23  |  WA6 - Backend Dynamic Content                       <!--[ [Slides][WA-s6] ]-->   |  <!--[WA6-HW][WA-hw6] Due: M 04/24/23-->
+ F 04/21/23  |  WA6 - Backend Dynamic Content                       [ [Slides][WA-s6] ]          |  [WA6-HW][WA-hw6] Due: M 04/24/23
              | **Networking Abstractions**                                                       |
  M 04/24/23  |  NA1 - Networking Abstractions & Physical Layer      <!--[ [Slides][NA-s1] ]-->   |  <!--[NA1-HW][NA-hw1] Due: W 04/26/23-->
  W 04/26/23  |  NA2 - Data Link Layer (Ethernet)                    <!--[ [Slides][NA-s2] ]-->   |  <!--[NA2-HW][NA-hw2] Due: F 04/28/23-->
@@ -187,14 +187,10 @@ Date         | Topic / Slides                                                   
 [WA-hw4]: materials/07-WebAbstractions/WA4-A-WebAPIs.docx
 [WA-s5]: materials/07-WebAbstractions/WA5-S-Databases.pptx
 [WA-hw5]: materials/07-WebAbstractions/WA5-A-Databases.docx
-
-<!--
-
-
 [WA-s6]: materials/07-WebAbstractions/WA6-S-BackEndDynamic.pptx
 [WA-hw6]: materials/07-WebAbstractions/WA6-A-BackEndDynamic.docx
 
-
+<!--
 
 [NA-s1]: ???
 [NA-hw1]: ???
