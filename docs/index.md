@@ -101,7 +101,7 @@ Date         | Topic / Slides                                                   
  F 04/21/23  |  WA6 - Backend Dynamic Content                       [ [Slides][WA-s6] ]          |  [WA6-HW][WA-hw6] Due: M 04/24/23
              | **Networking Abstractions**                                                       |
  M 04/24/23  |  NA1 - Networking Abstractions                       [ [Slides][NA-s1] ]          |  [NA1-HW][NA-hw1] Due: F 04/28/23
- W 04/26/23  |  NA2 - Physical Layer & Link Layer (Ethernet)        [ [Slides][NA-s2] ]          |  <!--[NA2-HW][NA-hw2] --> Due: M 05/01/23-->
+ W 04/26/23  |  NA2 - Physical Layer & Link Layer (Ethernet)        [ [Slides][NA-s2] ]          |  [NA2-HW][NA-hw2] Due: M 05/01/23
  *R 04/27/23* | *L10 - Web Server*                                                               |  <!--*[LAB10][l10] Due: R 05/04/23*-->
  F 04/28/23  |  NA3 - Network Layer (IP)                            <!--[ [Slides][NA-s3] ]-->   |  <!--[NA3-HW][NA-hw3] Due: M 05/01/23-->
  M 05/01/23  |  NA4 - Transport Layer (TCP / UDP / Ports)           <!--[ [Slides][NA-s4] ]-->   |  <!--[NA4-HW][NA-hw4] Due: W 05/03/23-->
