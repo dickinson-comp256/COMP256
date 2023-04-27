@@ -102,7 +102,7 @@ Date         | Topic / Slides                                                   
              | **Networking Abstractions**                                                       |
  M 04/24/23  |  NA1 - Networking Abstractions                       [ [Slides][NA-s1] ]          |  [NA1-HW][NA-hw1] Due: F 04/28/23
  W 04/26/23  |  NA2 - Physical Layer & Link Layer (Ethernet)        [ [Slides][NA-s2] ]          |  [NA2-HW][NA-hw2] Due: M 05/01/23
- *R 04/27/23* | *L10 - Web Server*                                                               |  <!--*[LAB10][l10] Due: R 05/04/23*-->
+ *R 04/27/23* | *L10 - Web Server*                                                               |  *[LAB10][l10] Due: R 05/04/23*
  F 04/28/23  |  NA3 - Network Layer (IP)                            <!--[ [Slides][NA-s3] ]-->   |  <!--[NA3-HW][NA-hw3] Due: M 05/01/23-->
  M 05/01/23  |  NA4 - Transport Layer (TCP / UDP / Ports)           <!--[ [Slides][NA-s4] ]-->   |  <!--[NA4-HW][NA-hw4] Due: W 05/03/23-->
  W 05/03/23  |  NA5 - Application Layer (HTTP)                      <!--[ [Slides][NA-s5] ]-->   |  <!--[NA5-HW][NA-hw5] Due: F 05/05/23-->
@@ -220,10 +220,7 @@ Date         | Topic / Slides                                                   
 [l06]: materials/Labs/L06-A-Assembly1.docx
 [l07]: materials/Labs/L07-A-Assembly2.docx
 [l09]: materials/Labs/L09-A-Threads.docx
-
-<!--
-[l10]: materials/Labs/L11-A-WebServer.docx
--->
+[l10]: materials/Labs/L10-A-WebServer.docx
 ___
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
