@@ -103,11 +103,11 @@ Date         | Topic / Slides                                                   
  M 04/24/23  |  NA1 - Networking Abstractions                       [ [Slides][NA-s1] ]          |  [NA1-HW][NA-hw1] Due: F 04/28/23
  W 04/26/23  |  NA2 - Physical Layer & Link Layer (Ethernet)        [ [Slides][NA-s2] ]          |  [NA2-HW][NA-hw2] Due: M 05/01/23
  *R 04/27/23* | *L10 - Web Server*                                                               |  *[LAB10][l10] Due: R 05/04/23*
- F 04/28/23  |  NA3 - Network Layer (IP)                            <!--[ [Slides][NA-s3] ]-->   |  <!--[NA3-HW][NA-hw3] Due: M 05/01/23-->
- M 05/01/23  |  NA4 - Transport Layer (TCP / UDP / Ports)           <!--[ [Slides][NA-s4] ]-->   |  <!--[NA4-HW][NA-hw4] Due: W 05/03/23-->
- W 05/03/23  |  NA5 - Application Layer (HTTP)                      <!--[ [Slides][NA-s5] ]-->   |  <!--[NA5-HW][NA-hw5] Due: F 05/05/23-->
+ F 04/28/23  |  NA2 - *Continued*                                                                |  
+ M 05/01/23  |  NA3 - Network Layer (IP)                            <!--[ [Slides][NA-s3] ]-->   |  <!--[NA3-HW][NA-hw3] Due: W 05/03/23-->
+ W 05/03/23  |  NA4 - Transport Layer (TCP / UDP / Ports)           <!--[ [Slides][NA-s4] ]-->   |  <!--[NA5-HW][NA-hw4] Due: F 05/05/23-->
 *R 05/04/23* | *L10 - Web Server Continued*                                                      |
- F 05/05/23  |  Wrapup / Review / Course Feedback                   <!--[ [Slides][TheEnd] ]-->  |  
+ F 05/05/23  |  NA5 - Application Layer (HTTP)/ Course Feedback     <!--[ [Slides][TheEnd] ]-->  |  
              | **Final Exam**                                                                    |
 *T 05/09/23* | *Final Exam - 9:00am-12:00pm*            <!--[ [Final Exam - Review][final] ]-->  |
 
