@@ -104,12 +104,12 @@ Date         | Topic / Slides                                                   
  W 04/26/23  |  NA2 - Physical Layer & Link Layer (Ethernet)        [ [Slides][NA-s2] ]          |  [NA2-HW][NA-hw2] Due: M 05/01/23
  *R 04/27/23* | *L10 - Web Server*                                                               |  *[LAB10][l10] Due: R 05/04/23*
  F 04/28/23  |  NA2 - *Continued*                                                                |  
- M 05/01/23  |  NA3 - Network Layer (IP)                            <!--[ [Slides][NA-s3] ]-->   |  <!--[NA3-HW][NA-hw3] Due: W 05/03/23-->
- W 05/03/23  |  NA4 - Transport Layer (TCP / UDP / Ports)           <!--[ [Slides][NA-s4] ]-->   |  <!--[NA5-HW][NA-hw4] Due: F 05/05/23-->
+ M 05/01/23  |  *No Class Meeting - Grading Catch Up!*                                           |  
+ W 05/03/23  |  NA3 - Network Layer (IP)                            [ [Slides][NA-s3] ]          |  [NA3-HW][NA-hw3] Due: Not Collected
 *R 05/04/23* | *L10 - Web Server Continued*                                                      |
- F 05/05/23  |  NA5 - Application Layer (HTTP)/ Course Feedback     <!--[ [Slides][TheEnd] ]-->  |  
+ F 05/05/23  |  Wrap-up / Course Feedback                           <!--[ [Slides][TheEnd] ]-->  |  
              | **Final Exam**                                                                    |
-*T 05/09/23* | *Final Exam - 9:00am-12:00pm*            <!--[ [Final Exam - Review][final] ]-->  |
+*T 05/09/23* | *Final Exam - 9:00am-12:00pm*                [ [Final Exam - Review][final] ]     |
 
 [HA-s1]: materials/01-HardwareAbstractions/HA1-S-Abstractions.pptx
 [HA-hw1]: materials/01-HardwareAbstractions/HA1-A-Abstractions.docx
@@ -193,20 +193,18 @@ Date         | Topic / Slides                                                   
 [NA-s1]: materials/06-NetworkAbstractions/NA1-S-NetworkAbstractions.pptx
 [NA-hw1]: materials/06-NetworkAbstractions/NA1-A-NetworkAbstractions.docx
 [NA-s2]: materials/06-NetworkAbstractions/NA2-S-PhysicalAndLinkLayers.pptx
-[NA-hw2]: materials/06-NetworkAbstractions/NA2-S-PhysicalAndLinkLayers.docx
+[NA-hw2]: materials/06-NetworkAbstractions/NA2-A-PhysicalAndLinkLayers.docx
+[NA-s3]: materials/06-NetworkAbstractions/NA3-S-NetworkLayer.pptx
+[NA-hw3]: materials/06-NetworkAbstractions/NA3-A-NetworkLayer.docx
+
+[final]: materials/ExamFinalReview.docx
 
 <!--
-
-
-
-[NA-s3]: ???
-[NA-hw3]: ???
 [NA-s4]: ???
 [NA-hw4]: ???
 [NA-s5]: ???
 [NA-hw5]: ???
 
-[final]: materials/FinalExamReview.docx
 [TheEnd]: materials/39-S-WrapUp.pptx
 -->
 
