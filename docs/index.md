@@ -106,8 +106,8 @@ Date         | Topic / Slides                                                   
  F 04/28/23  |  NA2 - *Continued*                                                                |  
  M 05/01/23  |  *No Class Meeting - Grading Catch Up!*                                           |  
  W 05/03/23  |  NA3 - Network Layer (IP)                            [ [Slides][NA-s3] ]          |  [NA3-HW][NA-hw3] Due: Not Collected
-*R 05/04/23* | *L10 - Web Server Continued*                                                      |
- F 05/05/23  |  Wrap-up / Course Feedback                           <!--[ [Slides][TheEnd] ]-->  |  
+*R 05/04/23* | *L10 - Web Server Continued* (Course Feedback)                                    |
+ F 05/05/23  |  NA4 - Transport/Application layer / Wrap-up  [ [Slides][NA-s4] ] [ [Slides][TheEnd] ] |  
              | **Final Exam**                                                                    |
 *T 05/09/23* | *Final Exam - 9:00am-12:00pm*                [ [Final Exam - Review][final] ]     |
 
@@ -196,17 +196,15 @@ Date         | Topic / Slides                                                   
 [NA-hw2]: materials/06-NetworkAbstractions/NA2-A-PhysicalAndLinkLayers.docx
 [NA-s3]: materials/06-NetworkAbstractions/NA3-S-NetworkLayer.pptx
 [NA-hw3]: materials/06-NetworkAbstractions/NA3-A-NetworkLayer.docx
+[NA-s4]: materials/06-NetworkAbstractions/NA4-S-TransportAndApplicationLayer.pptx
 
 [final]: materials/ExamFinalReview.docx
 
-<!--
-[NA-s4]: ???
-[NA-hw4]: ???
-[NA-s5]: ???
-[NA-hw5]: ???
+[TheEnd]: materials/08-S-WrapUp.pptx
 
-[TheEnd]: materials/39-S-WrapUp.pptx
--->
+
+
+
 
 [l01]: materials/Labs/L01-A-Switching.docx
 [l02]: materials/Labs/L02-A-GatesIC.docx
@@ -219,6 +217,7 @@ Date         | Topic / Slides                                                   
 [l07]: materials/Labs/L07-A-Assembly2.docx
 [l09]: materials/Labs/L09-A-Threads.docx
 [l10]: materials/Labs/L10-A-WebServer.docx
+
 ___
 
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") All textual materials used in this course are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
