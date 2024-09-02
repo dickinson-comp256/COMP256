@@ -44,27 +44,27 @@
 
 Date         | Topic / Slides                                                                    | Assignment
 ------------ | --------------------------------------------------------------------------------- | --------------
-             | **Hardware Abstractions**                                                         |
+&nbsp;       | **Hardware Abstractions**                                                         |
  M 01/23/23  |  HA1 - Introduction to Abstractions                 [ [Slides][HA-s1] ]           |  [HA1-HW][HA-hw1] Due: W 01/25/23
  W 01/25/23  |  HA2 - Transistors to Logic Gates                   [ [Slides][HA-s2] ]           |  [HA2-HW][HA-hw2] Due: F 01/27/23
 *R 01/26/23* | *L01 - Switching and Transistors*                                                 | *[LAB01][l01]  Due: R 02/02/23*
  F 01/27/23  |  HA3 - Logic Gates to Logic Circuits [ [Slides][HA-s3] - [ Logic Gates ][HA-LG] ] |  [HA3-HW][HA-hw3] Due: M 01/30/23
  M 01/30/23  |  HA4 - Simplifying Logic Circuits [ [Slides][HA-s4] - [ Identities][HA-BI] ]      |  [HA4-HW][HA-hw4] Due: W 02/01/23
-             | **Data Abstractions**                                                             |
+&nbsp;       | **Data Abstractions**                                                             |
  W 02/01/23  |  DA1 - Unsigned Binary Numbers                      [ [Slides][DA-s1] ]           |  [DA1-HW][DA-hw1] Due: F 02/03/23
 *R 02/02/23* | *L02 - Logic Gates & Integrated Circuits*                                         | *[LAB02][l02] Due: R 02/09/23* 
  F 02/03/23  |  DA2 - Non-numeric Data                             [ [Slides][DA-s2] ]           |  [DA2-HW][DA-hw2] Due: M 02/06/23
  M 02/06/23  |  DA3 - Signed Binary Numbers                        [ [Slides][DA-s3] ]           |  [DA3-HW][DA-hw3] Due: W 02/08/23
  W 02/08/23  |  DA4 - Fractional Numbers                           [ [Slides][DA-s4] ]           |  [DA4-HW][DA-hw4] Due: F 02/10/23
 *R 02/09/23* | *L03 - Programmable Circuits*                                                     | *[LAB03][l03] Due: R 02/16/23*
-             | **Machine Abstractions**                                                          |
+&nbsp;       | **Machine Abstractions**                                                          |
  F 02/10/23  |  MA1 - A Microprogrammed Machine                     [ [Slides][MA-s1] ]          |  [MA1-HW][MA-hw1] Due: M 02/13/23
  M 02/13/23  |  MA2 - A Machine Language Machine [ [Slides][MA-s2] - [ K&S ML ][MA-ML-REF] ]     |  [MA2-HW][MA-hw2] Due: W 02/15/23
  W 02/15/23  |  MA3 - The Stored Program Architecture               [ [Slides][MA-s3] ]          |  [MA3-HW][MA-hw3] Due: F 02/17/23
 *R 02/16/23* | *L04 - Sequential Circuits & Static Memory (SRAM)*                                | *[LAB04][l04] Due: R 02/23/23*
  F 02/17/23  |  MA4 - Memory Hierarchy & Processor Cache            [ [Slides][MA-s4] ]          |  [MA4-HW][MA-hw4] Due: M 02/20/23
  M 02/20/23  |  MA5 - Pipelining & Parallelism (w/ WiD)             [ [Slides][MA-s5] ]          |  [MA5-HW][MA-hw5] Due: W 02/22/23
-             | **Language Abstractions**                                                         |
+&nbsp;       | **Language Abstractions**                                                         |
  W 02/22/23  |  LA1 - Translation and Interpretation of Programs    [ [Slides][LA-s1] ]          |  [LA1-HW][LA-hw1] Due: F 02/24/23
 *R 02/23/23* | *L05 - SILI Interpreter*                             [ [Slides][L05-s] ]          | *[LAB05][l05] Due: R 03/09/23*
  F 02/24/23  |  LA2 - Assembly Language Programs  [ [Slides][LA-s2] - [ASM Ref][LA-asm]]         |  [LA2-HW][LA-hw2] Due: M 02/27/23
@@ -76,8 +76,8 @@ Date         | Topic / Slides                                                   
  W 03/08/23  |  LA6 - Implementing Functions                        [ [Slides][LA-s6] ]          |  [LA6-HW][LA-hw6] Due: F 03/10/23
 *R 03/09/23* | *L06 - Assembly: Control Structures, Arrays & Functions*                          | *[LAB06][l06] Due: R 03/23/23*
  F 03/10/23  |  WiD Final Drafts                                                                 |  [WiD][WiDFD] Due: W 03/22/23
-             | **Spring Break**                                                                  |
-             | **Operating Systems Abstractions**                                                |
+&nbsp;       | **Spring Break**                                                                  |
+&nbsp;       | **Operating Systems Abstractions**                                                |
  M 03/20/23  |  OSA1 - Operating Systems Abstractions               [ [Slides][OSA-s1] ]         |  [OSA1-HW][OSA-hw1] Due: W 03/22/23
  W 03/22/23  |  OSA2 - Multiprogramming, Processes & Context        [ [Slides][OSA-s2] ]         |  [OSA2-HW][OSA-hw2] Due: F 03/24/23 
 *R 03/23/23* | *L07 - Assembly: Functions and Recursion*                                         | *[LAB07][l07] Due: R 03/30/23*
@@ -87,7 +87,7 @@ Date         | Topic / Slides                                                   
 *R 03/30/23* | ~~*L08 - System Calls*~~                                                          | <!--*[LAB08][l08] Due: R 04/13/23*-->
  F 03/31/23  |  OSA6 - Threads and Concurrency                      [ [Slides][OSA-s6] ]         |  [OSA6-HW][OSA-hw6] Due: M 04/03/23
  M 04/03/23  |  OSA7 - Race Conditions and Synchronization          [ [Slides][OSA-s7] ]         |  [OSA7-HW][OSA-hw7] Due: W 04/05/23
-             | **Web Abstractions**                                                              |
+&nbsp;       | **Web Abstractions**                                                              |
  W 04/05/23  |  WA1 - Web Abstractions & HTML                       [ [Slides][WA-s1] ]          |  [WA1-HW][WA-hw1] Due: F 04/07/23
 *R 04/06/23* | *L09 - Multi-Threaded Programs*                                                   | *[LAB09][l09] Due: R 04/13/23*
  F 04/07/23  |  WA2 - Cascading Style Sheets                        [ [Slides][WA-s2] ]          |  [WA2-HW][WA-hw2] Due: M 04/10/23
@@ -99,7 +99,7 @@ Date         | Topic / Slides                                                   
  W 04/19/23  |  Catch up / Review                                                                |
 *R 04/20/23* | *Exam #2 (through OSA8/L09) in Lab 3:00-5:00*        [ [Exam 2 - Review][ex2] ]   |  
  F 04/21/23  |  WA6 - Backend Dynamic Content                       [ [Slides][WA-s6] ]          |  [WA6-HW][WA-hw6] Due: M 04/24/23
-             | **Networking Abstractions**                                                       |
+&nbsp;       | **Networking Abstractions**                                                       |
  M 04/24/23  |  NA1 - Networking Abstractions                       [ [Slides][NA-s1] ]          |  [NA1-HW][NA-hw1] Due: F 04/28/23
  W 04/26/23  |  NA2 - Physical Layer & Link Layer (Ethernet)        [ [Slides][NA-s2] ]          |  [NA2-HW][NA-hw2] Due: M 05/01/23
  *R 04/27/23* | *L10 - Web Server*                                                               |  *[LAB10][l10] Due: R 05/04/23*
@@ -108,7 +108,7 @@ Date         | Topic / Slides                                                   
  W 05/03/23  |  NA3 - Network Layer (IP)                            [ [Slides][NA-s3] ]          |  [NA3-HW][NA-hw3] Due: Not Collected
 *R 05/04/23* | *L10 - Web Server Continued* (Course Feedback)                                    |
  F 05/05/23  |  NA4 - Transport/Application layer / Wrap-up  [ [Slides][NA-s4] ] [ [Slides][TheEnd] ] |  
-             | **Final Exam**                                                                    |
+&nbsp;       | **Final Exam**                                                                    |
 *T 05/09/23* | *Final Exam - 9:00am-12:00pm*                [ [Final Exam - Review][final] ]     |
 
 [HA-s1]: materials/01-HardwareAbstractions/HA1-S-Abstractions.pptx
